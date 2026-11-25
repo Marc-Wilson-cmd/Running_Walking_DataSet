@@ -1,0 +1,1202 @@
+order_id,product_name,category,price_php,quantity,total_price_php,customer_id,customer_city,payment_method,order_date,order_status,shipping_fee_php,discount_php,rating,review_status
+10001,HOKA Clifton 9,Shoes,8495.0,2,16990.0,7253,Cebu City,Credit Card,2023-10-07 02:00:00,Delivered,50,500,5.0,Pending
+10001,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,7253,Cebu City,Credit Card,2023-10-07 02:00:00,Delivered,50,0,4.0,Reviewed
+10002,ASICS Gel-Kayano 30,Shoes,8990.0,1,8990.0,6791,Cebu City,GCash,2023-10-07 13:00:00,Processing,100,0,3.0,Pending
+10003,Tailwind Nutrition Endurance Fuel,Nutrition,2200.0,1,2200.0,5053,Cebu City,Maya,2023-03-21 06:00:00,Shipped,150,100,4.0,Reviewed
+10003,Balega Hidden Comfort Socks,Accessories,895.0,2,1790.0,5053,Cebu City,Maya,2023-03-21 06:00:00,Shipped,150,0,3.0,Pending
+10004,HOKA Clifton 9,Shoes,8495.0,1,8495.0,7940,Davao City,Cash on Delivery,2023-10-02 03:00:00,Delivered,0,200,4.0,Reviewed
+10005,GU Energy Gel (8-Pack),Nutrition,1120.0,1,1120.0,7962,Iloilo City,Credit Card,2023-01-24 21:00:00,Processing,50,0,4.0,Pending
+10005,Salomon ADV Skin 12 Hydration Vest,Gear,9500.0,1,9500.0,7962,Iloilo City,Credit Card,2023-01-24 21:00:00,Processing,50,0,5.0,Reviewed
+10006,HOKA Clifton 9,Shoes,8495.0,1,8495.0,8113,Davao City,Maya,2023-03-25 11:00:00,Processing,150,100,4.0,Reviewed
+10007,Balega Hidden Comfort Socks,Accessories,895.0,1,895.0,9990,Cebu City,Credit Card,2023-07-14 08:00:00,Delivered,0,500,4.0,Reviewed
+10007,ASICS Gel-Kayano 30,Shoes,8990.0,1,8990.0,9990,Cebu City,Credit Card,2023-07-14 08:00:00,Delivered,0,100,5.0,Reviewed
+10008,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,5262,Davao City,Maya,2023-04-19 18:00:00,Shipped,50,100,4.0,Reviewed
+10009,Goodr OG Sunglasses,Accessories,1995.0,2,3990.0,8241,Baguio City,Credit Card,2023-05-07 23:00:00,Shipped,100,500,,Pending
+10010,Tailwind Nutrition Endurance Fuel,Nutrition,2200.0,1,2200.0,7965,Cebu City,Credit Card,2023-02-16 01:00:00,Processing,0,0,4.0,Reviewed
+10010,"Nike Challenger Brief-Lined 5"" Shorts",Apparel,1795.0,1,1795.0,7965,Cebu City,Credit Card,2023-02-16 01:00:00,Processing,0,0,4.0,Pending
+10010,Under Armour Tech Short Sleeve Tee,Apparel,1595.0,1,1595.0,7965,Cebu City,Credit Card,2023-02-16 01:00:00,Processing,0,500,4.0,Reviewed
+10011,Under Armour Tech Short Sleeve Tee,Apparel,1595.0,2,3190.0,8126,Iloilo City,Maya,2023-10-11 00:00:00,Processing,150,0,4.0,Pending
+10012,Nathan QuickSqueeze Handheld Flask,Gear,1850.0,1,1850.0,8561,Cebu City,Maya,2023-09-14 05:00:00,Delivered,150,500,5.0,Reviewed
+10012,GU Energy Gel (8-Pack),Nutrition,1120.0,1,1120.0,8561,Cebu City,Maya,2023-09-14 05:00:00,Delivered,150,100,4.0,Reviewed
+10013,Brooks Ghost 15,Shoes,7995.0,1,7995.0,5004,Iloilo City,Cash on Delivery,2023-02-27 11:00:00,Shipped,50,100,,Reviewed
+10013,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,5004,Iloilo City,Cash on Delivery,2023-02-27 11:00:00,Shipped,50,0,5.0,Reviewed
+10013,Garmin Forerunner 255,Electronics,21995.0,2,43990.0,5004,Iloilo City,Cash on Delivery,2023-02-27 11:00:00,Shipped,50,500,4.0,Reviewed
+10013,GU Energy Gel (8-Pack),Nutrition,1120.0,1,1120.0,5004,Iloilo City,Cash on Delivery,2023-02-27 11:00:00,Shipped,50,0,4.0,Pending
+10013,BodyGlide Original Anti-Chafe Balm,Health,650.0,1,650.0,5004,Iloilo City,Cash on Delivery,2023-02-27 11:00:00,Shipped,50,0,4.0,Reviewed
+10014,Brooks Ghost 15,Shoes,7995.0,1,7995.0,8893,Iloilo City,Credit Card,2023-04-19 17:00:00,Shipped,0,0,4.0,Pending
+10015,Under Armour Tech Short Sleeve Tee,Apparel,1595.0,1,1595.0,8059,Baguio City,Maya,2023-04-26 02:00:00,Delivered,100,100,4.0,Reviewed
+10016,Tailwind Nutrition Endurance Fuel,Nutrition,2200.0,1,2200.0,9820,Cebu City,GCash,2023-04-28 02:00:00,Delivered,50,0,,Pending
+10016,GU Energy Gel (8-Pack),Nutrition,1120.0,1,1120.0,9820,Cebu City,GCash,2023-04-28 02:00:00,Delivered,50,0,4.0,Reviewed
+10016,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,9820,Cebu City,GCash,2023-04-28 02:00:00,Delivered,50,100,3.0,Pending
+10017,Coros Pace 3,Electronics,14500.0,1,14500.0,6990,Baguio City,Maya,2023-02-19 21:00:00,Delivered,50,200,5.0,Pending
+10017,Tailwind Nutrition Endurance Fuel,Nutrition,2200.0,1,2200.0,6990,Baguio City,Maya,2023-02-19 21:00:00,Delivered,50,200,4.0,Pending
+10017,Goodr OG Sunglasses,Accessories,1995.0,1,1995.0,6990,Baguio City,Maya,2023-02-19 21:00:00,Delivered,50,200,3.0,Reviewed
+10018,HOKA Clifton 9,Shoes,8495.0,1,8495.0,7779,Metro Manila,Credit Card,2023-10-02 14:00:00,Delivered,100,0,4.0,Pending
+10018,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,7779,Metro Manila,Credit Card,2023-10-02 14:00:00,Delivered,100,0,4.0,Pending
+10019,OOFOS OOriginal Recovery Sandals,Footwear,3495.0,1,3495.0,8630,Iloilo City,GCash,2023-02-17 07:00:00,Delivered,50,0,3.0,Pending
+10019,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,8630,Iloilo City,GCash,2023-02-17 07:00:00,Delivered,50,200,4.0,Pending
+10019,ASICS Gel-Kayano 30,Shoes,8990.0,1,8990.0,8630,Iloilo City,GCash,2023-02-17 07:00:00,Delivered,50,0,5.0,Pending
+10020,Adidas Ultraboost Light,Shoes,9500.0,1,9500.0,5017,Baguio City,Cash on Delivery,2023-08-05 22:00:00,Shipped,150,500,4.0,Pending
+10020,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,5017,Baguio City,Cash on Delivery,2023-08-05 22:00:00,Shipped,150,0,4.0,Reviewed
+10021,Salomon ADV Skin 12 Hydration Vest,Gear,9500.0,1,9500.0,6783,Metro Manila,GCash,2023-01-30 01:00:00,Processing,150,500,4.0,Pending
+10022,BodyGlide Original Anti-Chafe Balm,Health,650.0,1,650.0,5465,Iloilo City,GCash,2023-02-04 21:00:00,Delivered,50,0,5.0,Pending
+10022,Garmin Forerunner 255,Electronics,21995.0,2,43990.0,5465,Iloilo City,GCash,2023-02-04 21:00:00,Delivered,50,0,4.0,Reviewed
+10023,Tailwind Nutrition Endurance Fuel,Nutrition,2200.0,1,2200.0,5325,Iloilo City,GCash,2023-05-14 06:00:00,Shipped,150,100,4.0,Reviewed
+10023,Shokz OpenRun Bone Conduction Headphones,Electronics,7490.0,1,7490.0,5325,Iloilo City,GCash,2023-05-14 06:00:00,Shipped,150,100,4.0,Pending
+10024,Brooks Ghost 15,Shoes,7995.0,2,15990.0,7457,Baguio City,Cash on Delivery,2023-08-23 19:00:00,Delivered,50,500,3.0,Reviewed
+10025,ASICS Gel-Kayano 30,Shoes,8990.0,1,8990.0,9144,Davao City,Credit Card,2023-05-06 11:00:00,Shipped,50,100,3.0,Reviewed
+10025,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,9144,Davao City,Credit Card,2023-05-06 11:00:00,Shipped,50,200,3.0,Pending
+10026,Shokz OpenRun Bone Conduction Headphones,Electronics,7490.0,1,7490.0,5064,Iloilo City,Cash on Delivery,2023-03-10 08:00:00,Processing,50,0,3.0,Reviewed
+10026,BodyGlide Original Anti-Chafe Balm,Health,650.0,1,650.0,5064,Iloilo City,Cash on Delivery,2023-03-10 08:00:00,Processing,50,500,4.0,Reviewed
+10027,Balega Hidden Comfort Socks,Accessories,895.0,1,895.0,7308,Iloilo City,Credit Card,2023-04-15 21:00:00,Processing,150,100,3.0,Pending
+10028,Balega Hidden Comfort Socks,Accessories,895.0,1,895.0,7266,Metro Manila,GCash,2023-05-15 05:00:00,Shipped,100,200,5.0,Pending
+10028,Adidas Ultraboost Light,Shoes,9500.0,1,9500.0,7266,Metro Manila,GCash,2023-05-15 05:00:00,Shipped,100,500,4.0,Reviewed
+10028,ASICS Gel-Kayano 30,Shoes,8990.0,1,8990.0,7266,Metro Manila,GCash,2023-05-15 05:00:00,Shipped,100,0,4.0,Reviewed
+10028,"Nike Challenger Brief-Lined 5"" Shorts",Apparel,1795.0,2,3590.0,7266,Metro Manila,GCash,2023-05-15 05:00:00,Shipped,100,0,4.0,Reviewed
+10029,FlipBelt Classic Running Belt,Accessories,1950.0,1,1950.0,9526,Cebu City,Maya,2023-06-07 11:00:00,Delivered,50,0,4.0,Pending
+10029,Tailwind Nutrition Endurance Fuel,Nutrition,2200.0,2,4400.0,9526,Cebu City,Maya,2023-06-07 11:00:00,Delivered,50,0,,Reviewed
+10030,HOKA Clifton 9,Shoes,8495.0,1,8495.0,7897,Iloilo City,Maya,2023-05-02 05:00:00,Processing,100,0,4.0,Pending
+10031,Nike Air Zoom Pegasus 40,Shoes,6895.0,1,6895.0,6469,Davao City,Maya,2023-05-17 05:00:00,Processing,100,0,5.0,Pending
+10032,Adidas Ultraboost Light,Shoes,9500.0,1,9500.0,6634,Baguio City,Cash on Delivery,2023-04-25 00:00:00,Shipped,100,0,4.0,Pending
+10032,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,2,2390.0,6634,Baguio City,Cash on Delivery,2023-04-25 00:00:00,Shipped,100,100,4.0,Pending
+10033,ASICS Gel-Kayano 30,Shoes,8990.0,1,8990.0,7286,Davao City,Maya,2023-01-15 03:00:00,Processing,150,100,,Reviewed
+10034,Tailwind Nutrition Endurance Fuel,Nutrition,2200.0,1,2200.0,7174,Metro Manila,GCash,2023-06-26 23:00:00,Processing,0,100,5.0,Pending
+10035,Shokz OpenRun Bone Conduction Headphones,Electronics,7490.0,1,7490.0,9189,Metro Manila,Maya,2023-05-11 01:00:00,Processing,100,200,4.0,Reviewed
+10036,BodyGlide Original Anti-Chafe Balm,Health,650.0,1,650.0,6614,Davao City,Maya,2023-06-10 21:00:00,Delivered,150,0,5.0,Pending
+10036,GU Energy Gel (8-Pack),Nutrition,1120.0,1,1120.0,6614,Davao City,Maya,2023-06-10 21:00:00,Delivered,150,500,3.0,Pending
+10037,"Nike Challenger Brief-Lined 5"" Shorts",Apparel,1795.0,1,1795.0,8296,Davao City,Credit Card,2023-07-14 21:00:00,Delivered,0,0,4.0,Pending
+10037,Nathan QuickSqueeze Handheld Flask,Gear,1850.0,1,1850.0,8296,Davao City,Credit Card,2023-07-14 21:00:00,Delivered,0,200,5.0,Reviewed
+10038,Salomon ADV Skin 12 Hydration Vest,Gear,9500.0,1,9500.0,7350,Cebu City,Maya,2023-08-27 14:00:00,Processing,150,200,4.0,Reviewed
+10039,BodyGlide Original Anti-Chafe Balm,Health,650.0,1,650.0,6390,Metro Manila,Cash on Delivery,2023-02-17 07:00:00,Processing,150,100,5.0,Reviewed
+10039,Goodr OG Sunglasses,Accessories,1995.0,1,1995.0,6390,Metro Manila,Cash on Delivery,2023-02-17 07:00:00,Processing,150,0,,Reviewed
+10040,Nike Air Zoom Pegasus 40,Shoes,6895.0,1,6895.0,5378,Cebu City,Maya,2023-08-22 13:00:00,Processing,50,500,4.0,Reviewed
+10041,Under Armour Tech Short Sleeve Tee,Apparel,1595.0,1,1595.0,5045,Metro Manila,Maya,2023-09-23 14:00:00,Delivered,100,0,4.0,Reviewed
+10041,Goodr OG Sunglasses,Accessories,1995.0,1,1995.0,5045,Metro Manila,Maya,2023-09-23 14:00:00,Delivered,100,0,3.0,Pending
+10041,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,5045,Metro Manila,Maya,2023-09-23 14:00:00,Delivered,100,0,5.0,Pending
+10041,Brooks Ghost 15,Shoes,7995.0,1,7995.0,5045,Metro Manila,Maya,2023-09-23 14:00:00,Delivered,100,500,4.0,Pending
+10042,OOFOS OOriginal Recovery Sandals,Footwear,3495.0,2,6990.0,9488,Baguio City,Credit Card,2023-08-19 08:00:00,Processing,0,0,5.0,Pending
+10042,Shokz OpenRun Bone Conduction Headphones,Electronics,7490.0,1,7490.0,9488,Baguio City,Credit Card,2023-08-19 08:00:00,Processing,0,500,4.0,Pending
+10042,BodyGlide Original Anti-Chafe Balm,Health,650.0,1,650.0,9488,Baguio City,Credit Card,2023-08-19 08:00:00,Processing,0,0,3.0,Pending
+10042,"Nike Challenger Brief-Lined 5"" Shorts",Apparel,1795.0,1,1795.0,9488,Baguio City,Credit Card,2023-08-19 08:00:00,Processing,0,200,5.0,Reviewed
+10043,Salomon ADV Skin 12 Hydration Vest,Gear,9500.0,1,9500.0,7751,Davao City,GCash,2023-04-29 12:00:00,Delivered,100,0,4.0,Reviewed
+10043,GU Energy Gel (8-Pack),Nutrition,1120.0,1,1120.0,7751,Davao City,GCash,2023-04-29 12:00:00,Delivered,100,0,5.0,Pending
+10044,"Nike Challenger Brief-Lined 5"" Shorts",Apparel,1795.0,1,1795.0,7710,Iloilo City,Maya,2023-04-16 13:00:00,Shipped,50,200,5.0,Reviewed
+10045,Tailwind Nutrition Endurance Fuel,Nutrition,2200.0,1,2200.0,8116,Baguio City,GCash,2023-07-19 13:00:00,Shipped,150,500,5.0,Reviewed
+10046,Goodr OG Sunglasses,Accessories,1995.0,1,1995.0,7235,Baguio City,Maya,2023-06-22 21:00:00,Delivered,0,200,4.0,Reviewed
+10046,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,7235,Baguio City,Maya,2023-06-22 21:00:00,Delivered,0,200,4.0,Reviewed
+10047,Shokz OpenRun Bone Conduction Headphones,Electronics,7490.0,1,7490.0,9848,Iloilo City,GCash,2023-03-11 14:00:00,Delivered,0,0,5.0,Reviewed
+10047,Under Armour Tech Short Sleeve Tee,Apparel,1595.0,1,1595.0,9848,Iloilo City,GCash,2023-03-11 14:00:00,Delivered,0,100,5.0,Pending
+10048,Nathan QuickSqueeze Handheld Flask,Gear,1850.0,1,1850.0,7677,Davao City,Maya,2023-05-10 02:00:00,Shipped,0,200,4.0,Reviewed
+10048,GU Energy Gel (8-Pack),Nutrition,1120.0,1,1120.0,7677,Davao City,Maya,2023-05-10 02:00:00,Shipped,0,500,4.0,Reviewed
+10049,FlipBelt Classic Running Belt,Accessories,1950.0,1,1950.0,7025,Cebu City,GCash,2023-05-03 04:00:00,Processing,100,200,3.0,Reviewed
+10049,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,7025,Cebu City,GCash,2023-05-03 04:00:00,Processing,100,500,5.0,Reviewed
+10049,ASICS Gel-Kayano 30,Shoes,8990.0,1,8990.0,7025,Cebu City,GCash,2023-05-03 04:00:00,Processing,100,200,5.0,Pending
+10049,Adidas Ultraboost Light,Shoes,9500.0,1,9500.0,7025,Cebu City,GCash,2023-05-03 04:00:00,Processing,100,100,4.0,Reviewed
+10049,Nike Air Zoom Pegasus 40,Shoes,6895.0,1,6895.0,7025,Cebu City,GCash,2023-05-03 04:00:00,Processing,100,500,4.0,Reviewed
+10050,Garmin Forerunner 255,Electronics,21995.0,1,21995.0,7548,Metro Manila,GCash,2023-07-23 22:00:00,Shipped,0,0,4.0,Reviewed
+10051,Tailwind Nutrition Endurance Fuel,Nutrition,2200.0,2,4400.0,9918,Metro Manila,GCash,2023-07-09 02:00:00,Shipped,0,500,,Pending
+10051,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,9918,Metro Manila,GCash,2023-07-09 02:00:00,Shipped,0,0,4.0,Pending
+10051,HOKA Clifton 9,Shoes,8495.0,2,16990.0,9918,Metro Manila,GCash,2023-07-09 02:00:00,Shipped,0,200,4.0,Reviewed
+10051,Salomon ADV Skin 12 Hydration Vest,Gear,9500.0,2,19000.0,9918,Metro Manila,GCash,2023-07-09 02:00:00,Shipped,0,200,,Pending
+10052,OOFOS OOriginal Recovery Sandals,Footwear,3495.0,1,3495.0,9274,Davao City,Maya,2023-05-18 10:00:00,Shipped,0,0,4.0,Reviewed
+10052,Brooks Ghost 15,Shoes,7995.0,1,7995.0,9274,Davao City,Maya,2023-05-18 10:00:00,Shipped,0,100,4.0,Pending
+10052,"Nike Challenger Brief-Lined 5"" Shorts",Apparel,1795.0,1,1795.0,9274,Davao City,Maya,2023-05-18 10:00:00,Shipped,0,0,5.0,Pending
+10052,Garmin Forerunner 255,Electronics,21995.0,2,43990.0,9274,Davao City,Maya,2023-05-18 10:00:00,Shipped,0,500,5.0,Pending
+10053,Nathan QuickSqueeze Handheld Flask,Gear,1850.0,1,1850.0,7662,Cebu City,Maya,2023-05-13 10:00:00,Delivered,150,100,5.0,Pending
+10053,GU Energy Gel (8-Pack),Nutrition,1120.0,2,2240.0,7662,Cebu City,Maya,2023-05-13 10:00:00,Delivered,150,500,4.0,Reviewed
+10054,BodyGlide Original Anti-Chafe Balm,Health,650.0,1,650.0,5701,Cebu City,Maya,2023-09-01 20:00:00,Shipped,100,200,5.0,Pending
+10054,Coros Pace 3,Electronics,14500.0,1,14500.0,5701,Cebu City,Maya,2023-09-01 20:00:00,Shipped,100,0,5.0,Reviewed
+10055,Salomon ADV Skin 12 Hydration Vest,Gear,9500.0,1,9500.0,6993,Davao City,Cash on Delivery,2023-08-06 23:00:00,Shipped,150,500,3.0,Pending
+10055,GU Energy Gel (8-Pack),Nutrition,1120.0,1,1120.0,6993,Davao City,Cash on Delivery,2023-08-06 23:00:00,Shipped,150,100,3.0,Pending
+10056,Balega Hidden Comfort Socks,Accessories,895.0,1,895.0,6577,Davao City,GCash,2023-04-09 06:00:00,Processing,100,200,5.0,Pending
+10056,Salomon ADV Skin 12 Hydration Vest,Gear,9500.0,1,9500.0,6577,Davao City,GCash,2023-04-09 06:00:00,Processing,100,500,5.0,Pending
+10056,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,6577,Davao City,GCash,2023-04-09 06:00:00,Processing,100,0,5.0,Reviewed
+10056,HOKA Clifton 9,Shoes,8495.0,1,8495.0,6577,Davao City,GCash,2023-04-09 06:00:00,Processing,100,100,4.0,Reviewed
+10057,FlipBelt Classic Running Belt,Accessories,1950.0,1,1950.0,7476,Metro Manila,Credit Card,2023-01-28 17:00:00,Shipped,50,100,5.0,Reviewed
+10057,Garmin Forerunner 255,Electronics,21995.0,1,21995.0,7476,Metro Manila,Credit Card,2023-01-28 17:00:00,Shipped,50,200,4.0,Reviewed
+10058,Nike Air Zoom Pegasus 40,Shoes,6895.0,1,6895.0,8845,Baguio City,Maya,2023-01-27 08:00:00,Shipped,100,200,5.0,Reviewed
+10058,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,8845,Baguio City,Maya,2023-01-27 08:00:00,Shipped,100,0,4.0,Pending
+10059,Goodr OG Sunglasses,Accessories,1995.0,1,1995.0,5439,Cebu City,Credit Card,2023-02-13 07:00:00,Processing,150,0,4.0,Pending
+10059,ASICS Gel-Kayano 30,Shoes,8990.0,1,8990.0,5439,Cebu City,Credit Card,2023-02-13 07:00:00,Processing,150,500,5.0,Reviewed
+10059,Tailwind Nutrition Endurance Fuel,Nutrition,2200.0,1,2200.0,5439,Cebu City,Credit Card,2023-02-13 07:00:00,Processing,150,500,5.0,Pending
+10060,OOFOS OOriginal Recovery Sandals,Footwear,3495.0,1,3495.0,8626,Davao City,Maya,2023-02-20 06:00:00,Shipped,50,0,5.0,Pending
+10061,ASICS Gel-Kayano 30,Shoes,8990.0,1,8990.0,6423,Iloilo City,GCash,2023-07-29 14:00:00,Delivered,50,500,5.0,Pending
+10061,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,2,2390.0,6423,Iloilo City,GCash,2023-07-29 14:00:00,Delivered,50,100,5.0,Reviewed
+10062,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,7316,Baguio City,GCash,2023-05-16 20:00:00,Processing,100,500,4.0,Reviewed
+10062,Salomon ADV Skin 12 Hydration Vest,Gear,9500.0,1,9500.0,7316,Baguio City,GCash,2023-05-16 20:00:00,Processing,100,200,4.0,Reviewed
+10063,GU Energy Gel (8-Pack),Nutrition,1120.0,2,2240.0,6841,Cebu City,Cash on Delivery,2023-01-31 05:00:00,Delivered,50,100,3.0,Pending
+10064,OOFOS OOriginal Recovery Sandals,Footwear,3495.0,1,3495.0,8839,Davao City,Maya,2023-08-13 02:00:00,Shipped,0,500,4.0,Reviewed
+10064,HOKA Clifton 9,Shoes,8495.0,1,8495.0,8839,Davao City,Maya,2023-08-13 02:00:00,Shipped,0,200,4.0,Pending
+10065,Shokz OpenRun Bone Conduction Headphones,Electronics,7490.0,1,7490.0,5748,Cebu City,GCash,2023-10-23 01:00:00,Processing,150,0,5.0,Pending
+10065,Shokz OpenRun Bone Conduction Headphones,Electronics,7490.0,1,7490.0,5748,Cebu City,GCash,2023-10-23 01:00:00,Processing,150,500,,Pending
+10066,Balega Hidden Comfort Socks,Accessories,895.0,1,895.0,8570,Baguio City,GCash,2023-07-29 10:00:00,Shipped,150,100,5.0,Reviewed
+10066,Garmin Forerunner 255,Electronics,21995.0,1,21995.0,8570,Baguio City,GCash,2023-07-29 10:00:00,Shipped,150,0,4.0,Pending
+10066,Tailwind Nutrition Endurance Fuel,Nutrition,2200.0,1,2200.0,8570,Baguio City,GCash,2023-07-29 10:00:00,Shipped,150,200,5.0,Pending
+10067,Salomon ADV Skin 12 Hydration Vest,Gear,9500.0,1,9500.0,8280,Iloilo City,GCash,2023-06-11 08:00:00,Shipped,50,100,4.0,Reviewed
+10068,Under Armour Tech Short Sleeve Tee,Apparel,1595.0,1,1595.0,9215,Metro Manila,Maya,2023-04-07 16:00:00,Shipped,50,100,5.0,Pending
+10069,OOFOS OOriginal Recovery Sandals,Footwear,3495.0,1,3495.0,6667,Davao City,Credit Card,2023-09-06 03:00:00,Shipped,0,0,4.0,Reviewed
+10069,Adidas Ultraboost Light,Shoes,9500.0,1,9500.0,6667,Davao City,Credit Card,2023-09-06 03:00:00,Shipped,0,0,4.0,Pending
+10070,GU Energy Gel (8-Pack),Nutrition,1120.0,1,1120.0,9524,Baguio City,GCash,2023-08-25 03:00:00,Delivered,50,0,5.0,Pending
+10070,Nike Air Zoom Pegasus 40,Shoes,6895.0,1,6895.0,9524,Baguio City,GCash,2023-08-25 03:00:00,Delivered,50,100,4.0,Pending
+10071,"Nike Challenger Brief-Lined 5"" Shorts",Apparel,1795.0,1,1795.0,8868,Cebu City,Maya,2023-07-16 06:00:00,Processing,100,500,5.0,Reviewed
+10071,Goodr OG Sunglasses,Accessories,1995.0,1,1995.0,8868,Cebu City,Maya,2023-07-16 06:00:00,Processing,100,0,5.0,Pending
+10072,"Nike Challenger Brief-Lined 5"" Shorts",Apparel,1795.0,1,1795.0,7784,Iloilo City,Cash on Delivery,2023-06-02 18:00:00,Delivered,150,500,5.0,Pending
+10073,Brooks Ghost 15,Shoes,7995.0,1,7995.0,8658,Iloilo City,Maya,2023-10-10 17:00:00,Shipped,150,200,,Pending
+10074,Nathan QuickSqueeze Handheld Flask,Gear,1850.0,1,1850.0,9684,Baguio City,Credit Card,2023-06-12 23:00:00,Shipped,50,200,5.0,Pending
+10074,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,9684,Baguio City,Credit Card,2023-06-12 23:00:00,Shipped,50,200,5.0,Reviewed
+10075,Goodr OG Sunglasses,Accessories,1995.0,1,1995.0,9834,Davao City,GCash,2023-09-27 14:00:00,Shipped,50,0,,Reviewed
+10075,Adidas Ultraboost Light,Shoes,9500.0,2,19000.0,9834,Davao City,GCash,2023-09-27 14:00:00,Shipped,50,200,4.0,Reviewed
+10075,Brooks Ghost 15,Shoes,7995.0,1,7995.0,9834,Davao City,GCash,2023-09-27 14:00:00,Shipped,50,0,4.0,Pending
+10075,BodyGlide Original Anti-Chafe Balm,Health,650.0,1,650.0,9834,Davao City,GCash,2023-09-27 14:00:00,Shipped,50,100,4.0,Pending
+10076,Shokz OpenRun Bone Conduction Headphones,Electronics,7490.0,1,7490.0,7691,Iloilo City,Maya,2023-10-05 01:00:00,Shipped,0,500,4.0,Reviewed
+10076,ASICS Gel-Kayano 30,Shoes,8990.0,1,8990.0,7691,Iloilo City,Maya,2023-10-05 01:00:00,Shipped,0,0,4.0,Pending
+10077,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,5806,Metro Manila,Maya,2023-01-15 01:00:00,Delivered,150,100,4.0,Reviewed
+10077,ASICS Gel-Kayano 30,Shoes,8990.0,1,8990.0,5806,Metro Manila,Maya,2023-01-15 01:00:00,Delivered,150,100,5.0,Pending
+10077,"Nike Challenger Brief-Lined 5"" Shorts",Apparel,1795.0,1,1795.0,5806,Metro Manila,Maya,2023-01-15 01:00:00,Delivered,150,100,5.0,Pending
+10078,Brooks Ghost 15,Shoes,7995.0,1,7995.0,9636,Cebu City,Credit Card,2023-07-15 19:00:00,Delivered,50,0,4.0,Pending
+10078,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,9636,Cebu City,Credit Card,2023-07-15 19:00:00,Delivered,50,500,3.0,Reviewed
+10078,"Nike Challenger Brief-Lined 5"" Shorts",Apparel,1795.0,2,3590.0,9636,Cebu City,Credit Card,2023-07-15 19:00:00,Delivered,50,0,4.0,Pending
+10079,Balega Hidden Comfort Socks,Accessories,895.0,1,895.0,7091,Metro Manila,Maya,2023-02-07 14:00:00,Shipped,100,100,4.0,Pending
+10079,OOFOS OOriginal Recovery Sandals,Footwear,3495.0,2,6990.0,7091,Metro Manila,Maya,2023-02-07 14:00:00,Shipped,100,200,3.0,Pending
+10080,OOFOS OOriginal Recovery Sandals,Footwear,3495.0,1,3495.0,6631,Baguio City,Maya,2023-07-15 18:00:00,Delivered,100,100,5.0,Pending
+10080,Salomon ADV Skin 12 Hydration Vest,Gear,9500.0,1,9500.0,6631,Baguio City,Maya,2023-07-15 18:00:00,Delivered,100,100,,Reviewed
+10081,Under Armour Tech Short Sleeve Tee,Apparel,1595.0,1,1595.0,5066,Iloilo City,GCash,2023-05-27 07:00:00,Processing,0,500,4.0,Pending
+10081,Balega Hidden Comfort Socks,Accessories,895.0,1,895.0,5066,Iloilo City,GCash,2023-05-27 07:00:00,Processing,0,0,4.0,Reviewed
+10082,Shokz OpenRun Bone Conduction Headphones,Electronics,7490.0,2,14980.0,7053,Cebu City,GCash,2023-06-08 14:00:00,Processing,50,0,4.0,Pending
+10083,Brooks Ghost 15,Shoes,7995.0,2,15990.0,7417,Davao City,Maya,2023-03-09 17:00:00,Delivered,100,100,,Pending
+10083,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,7417,Davao City,Maya,2023-03-09 17:00:00,Delivered,100,0,5.0,Pending
+10084,Goodr OG Sunglasses,Accessories,1995.0,1,1995.0,7774,Metro Manila,Maya,2023-04-26 21:00:00,Delivered,100,200,4.0,Pending
+10084,Salomon ADV Skin 12 Hydration Vest,Gear,9500.0,1,9500.0,7774,Metro Manila,Maya,2023-04-26 21:00:00,Delivered,100,0,5.0,Pending
+10085,Nike Air Zoom Pegasus 40,Shoes,6895.0,1,6895.0,8725,Davao City,Cash on Delivery,2023-07-10 03:00:00,Processing,0,0,4.0,Pending
+10085,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,8725,Davao City,Cash on Delivery,2023-07-10 03:00:00,Processing,0,0,4.0,Pending
+10085,HOKA Clifton 9,Shoes,8495.0,1,8495.0,8725,Davao City,Cash on Delivery,2023-07-10 03:00:00,Processing,0,500,4.0,Reviewed
+10086,ASICS Gel-Kayano 30,Shoes,8990.0,1,8990.0,8344,Metro Manila,Credit Card,2023-06-05 15:00:00,Delivered,50,0,4.0,Reviewed
+10086,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,8344,Metro Manila,Credit Card,2023-06-05 15:00:00,Delivered,50,0,5.0,Reviewed
+10086,OOFOS OOriginal Recovery Sandals,Footwear,3495.0,1,3495.0,8344,Metro Manila,Credit Card,2023-06-05 15:00:00,Delivered,50,200,4.0,Pending
+10086,Salomon ADV Skin 12 Hydration Vest,Gear,9500.0,1,9500.0,8344,Metro Manila,Credit Card,2023-06-05 15:00:00,Delivered,50,100,5.0,Pending
+10087,Tailwind Nutrition Endurance Fuel,Nutrition,2200.0,1,2200.0,6265,Baguio City,GCash,2023-05-24 01:00:00,Shipped,0,100,5.0,Reviewed
+10088,OOFOS OOriginal Recovery Sandals,Footwear,3495.0,1,3495.0,8642,Cebu City,Cash on Delivery,2023-10-06 20:00:00,Delivered,150,100,,Reviewed
+10089,Under Armour Tech Short Sleeve Tee,Apparel,1595.0,1,1595.0,6554,Metro Manila,Maya,2023-01-11 01:00:00,Delivered,100,100,3.0,Reviewed
+10089,Balega Hidden Comfort Socks,Accessories,895.0,2,1790.0,6554,Metro Manila,Maya,2023-01-11 01:00:00,Delivered,100,0,,Reviewed
+10090,ASICS Gel-Kayano 30,Shoes,8990.0,1,8990.0,9803,Cebu City,Credit Card,2023-01-02 08:00:00,Shipped,100,0,4.0,Reviewed
+10090,GU Energy Gel (8-Pack),Nutrition,1120.0,1,1120.0,9803,Cebu City,Credit Card,2023-01-02 08:00:00,Shipped,100,500,5.0,Pending
+10090,Coros Pace 3,Electronics,14500.0,1,14500.0,9803,Cebu City,Credit Card,2023-01-02 08:00:00,Shipped,100,0,,Reviewed
+10091,Nike Air Zoom Pegasus 40,Shoes,6895.0,1,6895.0,6079,Metro Manila,Cash on Delivery,2023-01-09 05:00:00,Delivered,150,100,4.0,Reviewed
+10092,Brooks Ghost 15,Shoes,7995.0,1,7995.0,5931,Metro Manila,Maya,2023-09-20 18:00:00,Shipped,150,0,4.0,Pending
+10092,BodyGlide Original Anti-Chafe Balm,Health,650.0,1,650.0,5931,Metro Manila,Maya,2023-09-20 18:00:00,Shipped,150,500,5.0,Reviewed
+10093,Shokz OpenRun Bone Conduction Headphones,Electronics,7490.0,1,7490.0,7470,Baguio City,GCash,2023-07-25 13:00:00,Delivered,0,0,,Pending
+10093,Shokz OpenRun Bone Conduction Headphones,Electronics,7490.0,1,7490.0,7470,Baguio City,GCash,2023-07-25 13:00:00,Delivered,0,200,4.0,Reviewed
+10093,BodyGlide Original Anti-Chafe Balm,Health,650.0,1,650.0,7470,Baguio City,GCash,2023-07-25 13:00:00,Delivered,0,0,4.0,Pending
+10094,Shokz OpenRun Bone Conduction Headphones,Electronics,7490.0,1,7490.0,9492,Davao City,Maya,2023-08-21 16:00:00,Processing,150,500,,Pending
+10094,Shokz OpenRun Bone Conduction Headphones,Electronics,7490.0,1,7490.0,9492,Davao City,Maya,2023-08-21 16:00:00,Processing,150,0,3.0,Reviewed
+10094,Brooks Ghost 15,Shoes,7995.0,1,7995.0,9492,Davao City,Maya,2023-08-21 16:00:00,Processing,150,500,,Reviewed
+10094,Balega Hidden Comfort Socks,Accessories,895.0,1,895.0,9492,Davao City,Maya,2023-08-21 16:00:00,Processing,150,200,5.0,Pending
+10094,Tailwind Nutrition Endurance Fuel,Nutrition,2200.0,2,4400.0,9492,Davao City,Maya,2023-08-21 16:00:00,Processing,150,0,5.0,Pending
+10095,Nathan QuickSqueeze Handheld Flask,Gear,1850.0,1,1850.0,8407,Metro Manila,Cash on Delivery,2023-05-11 11:00:00,Shipped,150,0,4.0,Pending
+10095,Under Armour Tech Short Sleeve Tee,Apparel,1595.0,1,1595.0,8407,Metro Manila,Cash on Delivery,2023-05-11 11:00:00,Shipped,150,0,5.0,Reviewed
+10096,ASICS Gel-Kayano 30,Shoes,8990.0,1,8990.0,6065,Iloilo City,GCash,2023-03-04 13:00:00,Processing,150,100,4.0,Pending
+10096,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,2,2390.0,6065,Iloilo City,GCash,2023-03-04 13:00:00,Processing,150,0,3.0,Pending
+10096,HOKA Clifton 9,Shoes,8495.0,1,8495.0,6065,Iloilo City,GCash,2023-03-04 13:00:00,Processing,150,500,5.0,Pending
+10096,FlipBelt Classic Running Belt,Accessories,1950.0,1,1950.0,6065,Iloilo City,GCash,2023-03-04 13:00:00,Processing,150,100,4.0,Reviewed
+10097,Tailwind Nutrition Endurance Fuel,Nutrition,2200.0,1,2200.0,6742,Cebu City,Maya,2023-06-29 17:00:00,Delivered,50,100,5.0,Reviewed
+10097,BodyGlide Original Anti-Chafe Balm,Health,650.0,1,650.0,6742,Cebu City,Maya,2023-06-29 17:00:00,Delivered,50,100,,Reviewed
+10098,"Nike Challenger Brief-Lined 5"" Shorts",Apparel,1795.0,1,1795.0,5237,Cebu City,Cash on Delivery,2023-06-23 11:00:00,Processing,150,0,5.0,Reviewed
+10098,GU Energy Gel (8-Pack),Nutrition,1120.0,1,1120.0,5237,Cebu City,Cash on Delivery,2023-06-23 11:00:00,Processing,150,0,3.0,Pending
+10098,Shokz OpenRun Bone Conduction Headphones,Electronics,7490.0,1,7490.0,5237,Cebu City,Cash on Delivery,2023-06-23 11:00:00,Processing,150,0,4.0,Reviewed
+10098,Nike Air Zoom Pegasus 40,Shoes,6895.0,2,13790.0,5237,Cebu City,Cash on Delivery,2023-06-23 11:00:00,Processing,150,0,3.0,Reviewed
+10098,Balega Hidden Comfort Socks,Accessories,895.0,2,1790.0,5237,Cebu City,Cash on Delivery,2023-06-23 11:00:00,Processing,150,500,5.0,Reviewed
+10099,Under Armour Tech Short Sleeve Tee,Apparel,1595.0,1,1595.0,8716,Davao City,Credit Card,2023-06-16 18:00:00,Shipped,150,500,,Reviewed
+10099,"Nike Challenger Brief-Lined 5"" Shorts",Apparel,1795.0,1,1795.0,8716,Davao City,Credit Card,2023-06-16 18:00:00,Shipped,150,0,4.0,Reviewed
+10100,Garmin Forerunner 255,Electronics,21995.0,1,21995.0,5407,Metro Manila,Cash on Delivery,2023-09-06 19:00:00,Shipped,0,200,3.0,Pending
+10101,Balega Hidden Comfort Socks,Accessories,895.0,1,895.0,8521,Metro Manila,Cash on Delivery,2023-09-27 21:00:00,Processing,0,100,5.0,Reviewed
+10101,Coros Pace 3,Electronics,14500.0,1,14500.0,8521,Metro Manila,Cash on Delivery,2023-09-27 21:00:00,Processing,0,0,,Pending
+10101,BodyGlide Original Anti-Chafe Balm,Health,650.0,1,650.0,8521,Metro Manila,Cash on Delivery,2023-09-27 21:00:00,Processing,0,500,3.0,Reviewed
+10101,HOKA Clifton 9,Shoes,8495.0,1,8495.0,8521,Metro Manila,Cash on Delivery,2023-09-27 21:00:00,Processing,0,0,4.0,Reviewed
+10101,FlipBelt Classic Running Belt,Accessories,1950.0,1,1950.0,8521,Metro Manila,Cash on Delivery,2023-09-27 21:00:00,Processing,0,100,4.0,Reviewed
+10102,Brooks Ghost 15,Shoes,7995.0,1,7995.0,5063,Baguio City,Maya,2023-07-14 17:00:00,Delivered,100,0,,Pending
+10102,Salomon ADV Skin 12 Hydration Vest,Gear,9500.0,2,19000.0,5063,Baguio City,Maya,2023-07-14 17:00:00,Delivered,100,0,5.0,Pending
+10102,Nathan QuickSqueeze Handheld Flask,Gear,1850.0,1,1850.0,5063,Baguio City,Maya,2023-07-14 17:00:00,Delivered,100,0,,Pending
+10102,HOKA Clifton 9,Shoes,8495.0,1,8495.0,5063,Baguio City,Maya,2023-07-14 17:00:00,Delivered,100,0,4.0,Pending
+10103,ASICS Gel-Kayano 30,Shoes,8990.0,1,8990.0,8516,Iloilo City,Maya,2023-05-29 03:00:00,Processing,0,200,,Reviewed
+10103,Tailwind Nutrition Endurance Fuel,Nutrition,2200.0,1,2200.0,8516,Iloilo City,Maya,2023-05-29 03:00:00,Processing,0,100,4.0,Reviewed
+10104,Shokz OpenRun Bone Conduction Headphones,Electronics,7490.0,1,7490.0,7964,Metro Manila,Maya,2023-08-12 18:00:00,Delivered,100,200,4.0,Reviewed
+10104,Shokz OpenRun Bone Conduction Headphones,Electronics,7490.0,1,7490.0,7964,Metro Manila,Maya,2023-08-12 18:00:00,Delivered,100,200,5.0,Pending
+10105,Nathan QuickSqueeze Handheld Flask,Gear,1850.0,1,1850.0,6377,Metro Manila,GCash,2023-06-28 11:00:00,Processing,100,0,5.0,Reviewed
+10105,GU Energy Gel (8-Pack),Nutrition,1120.0,1,1120.0,6377,Metro Manila,GCash,2023-06-28 11:00:00,Processing,100,0,5.0,Reviewed
+10106,Balega Hidden Comfort Socks,Accessories,895.0,1,895.0,6421,Iloilo City,Credit Card,2023-04-01 20:00:00,Processing,50,200,4.0,Pending
+10106,Coros Pace 3,Electronics,14500.0,1,14500.0,6421,Iloilo City,Credit Card,2023-04-01 20:00:00,Processing,50,500,4.0,Pending
+10107,Tailwind Nutrition Endurance Fuel,Nutrition,2200.0,1,2200.0,7589,Cebu City,Maya,2023-08-15 20:00:00,Delivered,0,100,5.0,Pending
+10107,Shokz OpenRun Bone Conduction Headphones,Electronics,7490.0,1,7490.0,7589,Cebu City,Maya,2023-08-15 20:00:00,Delivered,0,500,4.0,Reviewed
+10107,Nathan QuickSqueeze Handheld Flask,Gear,1850.0,1,1850.0,7589,Cebu City,Maya,2023-08-15 20:00:00,Delivered,0,100,4.0,Reviewed
+10108,Salomon ADV Skin 12 Hydration Vest,Gear,9500.0,1,9500.0,5308,Metro Manila,Cash on Delivery,2023-02-16 19:00:00,Shipped,50,500,4.0,Pending
+10108,GU Energy Gel (8-Pack),Nutrition,1120.0,2,2240.0,5308,Metro Manila,Cash on Delivery,2023-02-16 19:00:00,Shipped,50,200,4.0,Reviewed
+10109,OOFOS OOriginal Recovery Sandals,Footwear,3495.0,1,3495.0,6542,Davao City,Maya,2023-02-01 14:00:00,Processing,100,0,4.0,Pending
+10109,Tailwind Nutrition Endurance Fuel,Nutrition,2200.0,1,2200.0,6542,Davao City,Maya,2023-02-01 14:00:00,Processing,100,0,3.0,Reviewed
+10110,Adidas Ultraboost Light,Shoes,9500.0,1,9500.0,9282,Iloilo City,Credit Card,2023-05-25 12:00:00,Shipped,150,200,,Pending
+10110,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,9282,Iloilo City,Credit Card,2023-05-25 12:00:00,Shipped,150,500,4.0,Reviewed
+10110,OOFOS OOriginal Recovery Sandals,Footwear,3495.0,1,3495.0,9282,Iloilo City,Credit Card,2023-05-25 12:00:00,Shipped,150,100,,Reviewed
+10110,BodyGlide Original Anti-Chafe Balm,Health,650.0,1,650.0,9282,Iloilo City,Credit Card,2023-05-25 12:00:00,Shipped,150,100,4.0,Reviewed
+10111,GU Energy Gel (8-Pack),Nutrition,1120.0,1,1120.0,7327,Davao City,Credit Card,2023-10-26 21:00:00,Shipped,50,0,4.0,Pending
+10111,Under Armour Tech Short Sleeve Tee,Apparel,1595.0,1,1595.0,7327,Davao City,Credit Card,2023-10-26 21:00:00,Shipped,50,100,4.0,Pending
+10112,Brooks Ghost 15,Shoes,7995.0,1,7995.0,9874,Metro Manila,Cash on Delivery,2023-06-18 04:00:00,Processing,0,500,5.0,Reviewed
+10113,"Nike Challenger Brief-Lined 5"" Shorts",Apparel,1795.0,1,1795.0,9165,Davao City,GCash,2023-04-03 06:00:00,Shipped,150,100,3.0,Pending
+10114,Coros Pace 3,Electronics,14500.0,1,14500.0,6126,Cebu City,GCash,2023-09-17 17:00:00,Shipped,50,500,4.0,Reviewed
+10114,Shokz OpenRun Bone Conduction Headphones,Electronics,7490.0,1,7490.0,6126,Cebu City,GCash,2023-09-17 17:00:00,Shipped,50,100,4.0,Reviewed
+10115,Shokz OpenRun Bone Conduction Headphones,Electronics,7490.0,1,7490.0,8086,Cebu City,Credit Card,2023-08-13 01:00:00,Delivered,100,200,4.0,Pending
+10116,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,8638,Iloilo City,Cash on Delivery,2023-04-30 17:00:00,Processing,0,0,4.0,Pending
+10117,Goodr OG Sunglasses,Accessories,1995.0,1,1995.0,6589,Davao City,Maya,2023-07-15 16:00:00,Shipped,150,500,5.0,Pending
+10118,Garmin Forerunner 255,Electronics,21995.0,1,21995.0,6133,Davao City,GCash,2023-07-10 17:00:00,Processing,0,0,5.0,Reviewed
+10118,Shokz OpenRun Bone Conduction Headphones,Electronics,7490.0,1,7490.0,6133,Davao City,GCash,2023-07-10 17:00:00,Processing,0,100,4.0,Reviewed
+10119,Garmin Forerunner 255,Electronics,21995.0,2,43990.0,8583,Metro Manila,Credit Card,2023-01-14 13:00:00,Shipped,150,0,4.0,Pending
+10119,Shokz OpenRun Bone Conduction Headphones,Electronics,7490.0,1,7490.0,8583,Metro Manila,Credit Card,2023-01-14 13:00:00,Shipped,150,500,3.0,Pending
+10119,BodyGlide Original Anti-Chafe Balm,Health,650.0,1,650.0,8583,Metro Manila,Credit Card,2023-01-14 13:00:00,Shipped,150,0,4.0,Pending
+10119,Brooks Ghost 15,Shoes,7995.0,1,7995.0,8583,Metro Manila,Credit Card,2023-01-14 13:00:00,Shipped,150,0,4.0,Pending
+10120,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,7610,Metro Manila,Cash on Delivery,2023-01-20 09:00:00,Delivered,100,200,4.0,Reviewed
+10120,Nike Air Zoom Pegasus 40,Shoes,6895.0,1,6895.0,7610,Metro Manila,Cash on Delivery,2023-01-20 09:00:00,Delivered,100,200,5.0,Pending
+10121,Shokz OpenRun Bone Conduction Headphones,Electronics,7490.0,1,7490.0,5043,Metro Manila,GCash,2023-03-18 17:00:00,Shipped,100,500,5.0,Pending
+10122,HOKA Clifton 9,Shoes,8495.0,1,8495.0,6953,Baguio City,Maya,2023-09-13 19:00:00,Delivered,50,500,5.0,Reviewed
+10122,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,6953,Baguio City,Maya,2023-09-13 19:00:00,Delivered,50,500,4.0,Reviewed
+10122,Salomon ADV Skin 12 Hydration Vest,Gear,9500.0,1,9500.0,6953,Baguio City,Maya,2023-09-13 19:00:00,Delivered,50,0,4.0,Pending
+10122,Adidas Ultraboost Light,Shoes,9500.0,1,9500.0,6953,Baguio City,Maya,2023-09-13 19:00:00,Delivered,50,200,4.0,Reviewed
+10123,Shokz OpenRun Bone Conduction Headphones,Electronics,7490.0,1,7490.0,7890,Cebu City,Maya,2023-09-26 11:00:00,Delivered,50,0,4.0,Reviewed
+10124,Under Armour Tech Short Sleeve Tee,Apparel,1595.0,1,1595.0,5356,Baguio City,Cash on Delivery,2023-07-02 02:00:00,Shipped,50,100,3.0,Reviewed
+10124,Goodr OG Sunglasses,Accessories,1995.0,1,1995.0,5356,Baguio City,Cash on Delivery,2023-07-02 02:00:00,Shipped,50,0,5.0,Pending
+10125,Brooks Ghost 15,Shoes,7995.0,1,7995.0,7773,Cebu City,Maya,2023-04-04 04:00:00,Processing,0,0,4.0,Pending
+10125,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,7773,Cebu City,Maya,2023-04-04 04:00:00,Processing,0,0,5.0,Pending
+10125,GU Energy Gel (8-Pack),Nutrition,1120.0,1,1120.0,7773,Cebu City,Maya,2023-04-04 04:00:00,Processing,0,0,4.0,Reviewed
+10126,Coros Pace 3,Electronics,14500.0,1,14500.0,5343,Davao City,Cash on Delivery,2023-10-06 15:00:00,Processing,0,100,4.0,Reviewed
+10127,Coros Pace 3,Electronics,14500.0,1,14500.0,5391,Davao City,Cash on Delivery,2023-08-12 12:00:00,Delivered,150,200,4.0,Pending
+10127,Shokz OpenRun Bone Conduction Headphones,Electronics,7490.0,2,14980.0,5391,Davao City,Cash on Delivery,2023-08-12 12:00:00,Delivered,150,100,5.0,Reviewed
+10128,Goodr OG Sunglasses,Accessories,1995.0,1,1995.0,9075,Davao City,Cash on Delivery,2023-02-10 13:00:00,Delivered,0,500,4.0,Reviewed
+10129,GU Energy Gel (8-Pack),Nutrition,1120.0,1,1120.0,7406,Davao City,GCash,2023-06-01 09:00:00,Delivered,150,200,4.0,Pending
+10130,Garmin Forerunner 255,Electronics,21995.0,1,21995.0,8636,Davao City,Maya,2023-08-11 08:00:00,Delivered,150,0,3.0,Reviewed
+10131,Under Armour Tech Short Sleeve Tee,Apparel,1595.0,1,1595.0,7976,Iloilo City,Credit Card,2023-08-13 01:00:00,Delivered,100,0,4.0,Reviewed
+10132,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,9956,Cebu City,Maya,2023-08-16 02:00:00,Shipped,150,500,4.0,Reviewed
+10132,FlipBelt Classic Running Belt,Accessories,1950.0,2,3900.0,9956,Cebu City,Maya,2023-08-16 02:00:00,Shipped,150,500,3.0,Pending
+10132,Under Armour Tech Short Sleeve Tee,Apparel,1595.0,1,1595.0,9956,Cebu City,Maya,2023-08-16 02:00:00,Shipped,150,200,4.0,Pending
+10132,Tailwind Nutrition Endurance Fuel,Nutrition,2200.0,1,2200.0,9956,Cebu City,Maya,2023-08-16 02:00:00,Shipped,150,100,5.0,Reviewed
+10132,Adidas Ultraboost Light,Shoes,9500.0,2,19000.0,9956,Cebu City,Maya,2023-08-16 02:00:00,Shipped,150,0,5.0,Reviewed
+10133,Garmin Forerunner 255,Electronics,21995.0,1,21995.0,8170,Iloilo City,GCash,2023-08-17 06:00:00,Shipped,150,500,5.0,Pending
+10133,Shokz OpenRun Bone Conduction Headphones,Electronics,7490.0,1,7490.0,8170,Iloilo City,GCash,2023-08-17 06:00:00,Shipped,150,200,4.0,Reviewed
+10134,HOKA Clifton 9,Shoes,8495.0,1,8495.0,5606,Baguio City,Credit Card,2023-02-14 21:00:00,Processing,0,100,4.0,Pending
+10134,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,5606,Baguio City,Credit Card,2023-02-14 21:00:00,Processing,0,0,5.0,Pending
+10135,Salomon ADV Skin 12 Hydration Vest,Gear,9500.0,1,9500.0,6290,Cebu City,Cash on Delivery,2023-03-04 06:00:00,Processing,100,0,4.0,Reviewed
+10136,Goodr OG Sunglasses,Accessories,1995.0,1,1995.0,7956,Iloilo City,Cash on Delivery,2023-02-14 02:00:00,Shipped,100,100,4.0,Pending
+10136,Nike Air Zoom Pegasus 40,Shoes,6895.0,1,6895.0,7956,Iloilo City,Cash on Delivery,2023-02-14 02:00:00,Shipped,100,200,4.0,Pending
+10137,"Nike Challenger Brief-Lined 5"" Shorts",Apparel,1795.0,2,3590.0,9709,Metro Manila,Credit Card,2023-08-19 14:00:00,Shipped,50,500,4.0,Pending
+10138,Brooks Ghost 15,Shoes,7995.0,1,7995.0,6490,Cebu City,Maya,2023-03-05 16:00:00,Processing,50,0,5.0,Pending
+10138,GU Energy Gel (8-Pack),Nutrition,1120.0,1,1120.0,6490,Cebu City,Maya,2023-03-05 16:00:00,Processing,50,0,5.0,Reviewed
+10138,Tailwind Nutrition Endurance Fuel,Nutrition,2200.0,1,2200.0,6490,Cebu City,Maya,2023-03-05 16:00:00,Processing,50,100,4.0,Reviewed
+10139,FlipBelt Classic Running Belt,Accessories,1950.0,2,3900.0,7326,Metro Manila,Cash on Delivery,2023-03-06 20:00:00,Delivered,150,100,3.0,Reviewed
+10139,BodyGlide Original Anti-Chafe Balm,Health,650.0,2,1300.0,7326,Metro Manila,Cash on Delivery,2023-03-06 20:00:00,Delivered,150,500,4.0,Reviewed
+10140,Tailwind Nutrition Endurance Fuel,Nutrition,2200.0,2,4400.0,9957,Davao City,GCash,2023-01-24 20:00:00,Delivered,50,500,4.0,Pending
+10140,Brooks Ghost 15,Shoes,7995.0,1,7995.0,9957,Davao City,GCash,2023-01-24 20:00:00,Delivered,50,0,5.0,Pending
+10140,Garmin Forerunner 255,Electronics,21995.0,1,21995.0,9957,Davao City,GCash,2023-01-24 20:00:00,Delivered,50,500,3.0,Reviewed
+10141,Goodr OG Sunglasses,Accessories,1995.0,1,1995.0,9469,Davao City,Cash on Delivery,2023-07-27 09:00:00,Shipped,100,200,4.0,Reviewed
+10142,Adidas Ultraboost Light,Shoes,9500.0,1,9500.0,6294,Baguio City,Maya,2023-04-15 10:00:00,Shipped,0,500,3.0,Reviewed
+10143,Nathan QuickSqueeze Handheld Flask,Gear,1850.0,1,1850.0,8266,Cebu City,Cash on Delivery,2023-06-13 07:00:00,Processing,50,200,4.0,Reviewed
+10143,FlipBelt Classic Running Belt,Accessories,1950.0,1,1950.0,8266,Cebu City,Cash on Delivery,2023-06-13 07:00:00,Processing,50,100,4.0,Pending
+10144,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,5414,Davao City,Maya,2023-05-08 05:00:00,Processing,0,100,4.0,Pending
+10144,Brooks Ghost 15,Shoes,7995.0,1,7995.0,5414,Davao City,Maya,2023-05-08 05:00:00,Processing,0,0,4.0,Reviewed
+10144,HOKA Clifton 9,Shoes,8495.0,1,8495.0,5414,Davao City,Maya,2023-05-08 05:00:00,Processing,0,200,5.0,Pending
+10145,Goodr OG Sunglasses,Accessories,1995.0,1,1995.0,7527,Baguio City,GCash,2023-09-16 14:00:00,Delivered,0,0,4.0,Reviewed
+10146,Tailwind Nutrition Endurance Fuel,Nutrition,2200.0,2,4400.0,5398,Metro Manila,Cash on Delivery,2023-05-27 17:00:00,Shipped,0,0,5.0,Reviewed
+10146,FlipBelt Classic Running Belt,Accessories,1950.0,1,1950.0,5398,Metro Manila,Cash on Delivery,2023-05-27 17:00:00,Shipped,0,200,,Reviewed
+10147,Balega Hidden Comfort Socks,Accessories,895.0,1,895.0,8303,Davao City,GCash,2023-10-19 17:00:00,Shipped,50,0,4.0,Pending
+10147,FlipBelt Classic Running Belt,Accessories,1950.0,1,1950.0,8303,Davao City,GCash,2023-10-19 17:00:00,Shipped,50,500,5.0,Pending
+10148,ASICS Gel-Kayano 30,Shoes,8990.0,1,8990.0,8689,Iloilo City,Cash on Delivery,2023-03-07 03:00:00,Processing,50,200,5.0,Pending
+10148,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,8689,Iloilo City,Cash on Delivery,2023-03-07 03:00:00,Processing,50,100,4.0,Pending
+10149,Brooks Ghost 15,Shoes,7995.0,1,7995.0,6630,Iloilo City,Maya,2023-01-24 01:00:00,Processing,50,0,4.0,Pending
+10150,Goodr OG Sunglasses,Accessories,1995.0,1,1995.0,8743,Cebu City,Credit Card,2023-03-25 12:00:00,Shipped,150,500,3.0,Pending
+10150,BodyGlide Original Anti-Chafe Balm,Health,650.0,1,650.0,8743,Cebu City,Credit Card,2023-03-25 12:00:00,Shipped,150,500,3.0,Pending
+10151,BodyGlide Original Anti-Chafe Balm,Health,650.0,1,650.0,9175,Iloilo City,Maya,2023-09-01 00:00:00,Processing,150,100,4.0,Pending
+10152,HOKA Clifton 9,Shoes,8495.0,1,8495.0,7520,Metro Manila,Maya,2023-01-27 18:00:00,Shipped,100,200,4.0,Reviewed
+10152,Tailwind Nutrition Endurance Fuel,Nutrition,2200.0,1,2200.0,7520,Metro Manila,Maya,2023-01-27 18:00:00,Shipped,100,500,5.0,Pending
+10153,Brooks Ghost 15,Shoes,7995.0,1,7995.0,9690,Metro Manila,Credit Card,2023-06-10 13:00:00,Delivered,0,0,5.0,Pending
+10153,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,9690,Metro Manila,Credit Card,2023-06-10 13:00:00,Delivered,0,0,4.0,Pending
+10153,Adidas Ultraboost Light,Shoes,9500.0,1,9500.0,9690,Metro Manila,Credit Card,2023-06-10 13:00:00,Delivered,0,500,4.0,Pending
+10154,Adidas Ultraboost Light,Shoes,9500.0,1,9500.0,7662,Baguio City,Maya,2023-08-24 17:00:00,Shipped,100,100,4.0,Pending
+10154,BodyGlide Original Anti-Chafe Balm,Health,650.0,1,650.0,7662,Baguio City,Maya,2023-08-24 17:00:00,Shipped,100,100,,Pending
+10154,Coros Pace 3,Electronics,14500.0,1,14500.0,7662,Baguio City,Maya,2023-08-24 17:00:00,Shipped,100,0,5.0,Reviewed
+10154,GU Energy Gel (8-Pack),Nutrition,1120.0,1,1120.0,7662,Baguio City,Maya,2023-08-24 17:00:00,Shipped,100,100,5.0,Pending
+10155,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,7438,Davao City,Credit Card,2023-06-12 15:00:00,Processing,0,100,,Pending
+10156,Salomon ADV Skin 12 Hydration Vest,Gear,9500.0,1,9500.0,9449,Baguio City,Maya,2023-05-29 01:00:00,Shipped,100,100,,Reviewed
+10156,GU Energy Gel (8-Pack),Nutrition,1120.0,1,1120.0,9449,Baguio City,Maya,2023-05-29 01:00:00,Shipped,100,100,4.0,Pending
+10157,Balega Hidden Comfort Socks,Accessories,895.0,1,895.0,6752,Cebu City,Cash on Delivery,2023-03-12 03:00:00,Processing,150,500,4.0,Reviewed
+10157,Goodr OG Sunglasses,Accessories,1995.0,1,1995.0,6752,Cebu City,Cash on Delivery,2023-03-12 03:00:00,Processing,150,0,,Reviewed
+10158,BodyGlide Original Anti-Chafe Balm,Health,650.0,1,650.0,8385,Davao City,Maya,2023-01-03 17:00:00,Delivered,100,0,4.0,Pending
+10158,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,2,2390.0,8385,Davao City,Maya,2023-01-03 17:00:00,Delivered,100,200,3.0,Pending
+10158,Adidas Ultraboost Light,Shoes,9500.0,1,9500.0,8385,Davao City,Maya,2023-01-03 17:00:00,Delivered,100,0,,Pending
+10158,HOKA Clifton 9,Shoes,8495.0,1,8495.0,8385,Davao City,Maya,2023-01-03 17:00:00,Delivered,100,100,5.0,Pending
+10159,Adidas Ultraboost Light,Shoes,9500.0,1,9500.0,9703,Cebu City,GCash,2023-04-01 01:00:00,Delivered,0,200,4.0,Pending
+10159,ASICS Gel-Kayano 30,Shoes,8990.0,1,8990.0,9703,Cebu City,GCash,2023-04-01 01:00:00,Delivered,0,0,3.0,Pending
+10160,Adidas Ultraboost Light,Shoes,9500.0,1,9500.0,5075,Davao City,GCash,2023-08-21 20:00:00,Shipped,150,500,4.0,Pending
+10161,Brooks Ghost 15,Shoes,7995.0,2,15990.0,7235,Cebu City,GCash,2023-08-23 20:00:00,Shipped,100,100,4.0,Reviewed
+10161,OOFOS OOriginal Recovery Sandals,Footwear,3495.0,1,3495.0,7235,Cebu City,GCash,2023-08-23 20:00:00,Shipped,100,0,5.0,Pending
+10162,Salomon ADV Skin 12 Hydration Vest,Gear,9500.0,1,9500.0,6582,Cebu City,Maya,2023-02-14 12:00:00,Shipped,150,0,4.0,Reviewed
+10162,GU Energy Gel (8-Pack),Nutrition,1120.0,1,1120.0,6582,Cebu City,Maya,2023-02-14 12:00:00,Shipped,150,0,4.0,Pending
+10163,Nathan QuickSqueeze Handheld Flask,Gear,1850.0,1,1850.0,7136,Baguio City,Credit Card,2023-06-18 09:00:00,Shipped,150,500,,Reviewed
+10163,Nike Air Zoom Pegasus 40,Shoes,6895.0,1,6895.0,7136,Baguio City,Credit Card,2023-06-18 09:00:00,Shipped,150,100,5.0,Pending
+10164,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,5968,Baguio City,Cash on Delivery,2023-09-15 22:00:00,Delivered,0,100,5.0,Reviewed
+10164,Adidas Ultraboost Light,Shoes,9500.0,1,9500.0,5968,Baguio City,Cash on Delivery,2023-09-15 22:00:00,Delivered,0,100,,Pending
+10165,Shokz OpenRun Bone Conduction Headphones,Electronics,7490.0,1,7490.0,6809,Cebu City,Credit Card,2023-08-21 23:00:00,Shipped,100,500,4.0,Pending
+10166,"Nike Challenger Brief-Lined 5"" Shorts",Apparel,1795.0,1,1795.0,9880,Metro Manila,Maya,2023-02-09 18:00:00,Processing,150,0,5.0,Reviewed
+10166,GU Energy Gel (8-Pack),Nutrition,1120.0,1,1120.0,9880,Metro Manila,Maya,2023-02-09 18:00:00,Processing,150,500,5.0,Reviewed
+10166,Goodr OG Sunglasses,Accessories,1995.0,1,1995.0,9880,Metro Manila,Maya,2023-02-09 18:00:00,Processing,150,500,3.0,Reviewed
+10166,Coros Pace 3,Electronics,14500.0,1,14500.0,9880,Metro Manila,Maya,2023-02-09 18:00:00,Processing,150,0,4.0,Pending
+10166,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,9880,Metro Manila,Maya,2023-02-09 18:00:00,Processing,150,500,4.0,Pending
+10167,HOKA Clifton 9,Shoes,8495.0,1,8495.0,9777,Baguio City,GCash,2023-01-29 14:00:00,Processing,0,0,5.0,Pending
+10167,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,9777,Baguio City,GCash,2023-01-29 14:00:00,Processing,0,200,5.0,Reviewed
+10168,GU Energy Gel (8-Pack),Nutrition,1120.0,1,1120.0,7524,Metro Manila,Maya,2023-04-22 18:00:00,Shipped,50,0,5.0,Reviewed
+10168,OOFOS OOriginal Recovery Sandals,Footwear,3495.0,1,3495.0,7524,Metro Manila,Maya,2023-04-22 18:00:00,Shipped,50,200,4.0,Pending
+10169,ASICS Gel-Kayano 30,Shoes,8990.0,2,17980.0,5259,Davao City,Maya,2023-08-04 11:00:00,Delivered,100,200,4.0,Pending
+10169,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,5259,Davao City,Maya,2023-08-04 11:00:00,Delivered,100,200,5.0,Pending
+10169,Adidas Ultraboost Light,Shoes,9500.0,1,9500.0,5259,Davao City,Maya,2023-08-04 11:00:00,Delivered,100,0,4.0,Reviewed
+10169,Goodr OG Sunglasses,Accessories,1995.0,1,1995.0,5259,Davao City,Maya,2023-08-04 11:00:00,Delivered,100,100,5.0,Reviewed
+10170,Garmin Forerunner 255,Electronics,21995.0,1,21995.0,9332,Cebu City,Credit Card,2023-06-02 14:00:00,Delivered,50,500,4.0,Pending
+10170,Under Armour Tech Short Sleeve Tee,Apparel,1595.0,1,1595.0,9332,Cebu City,Credit Card,2023-06-02 14:00:00,Delivered,50,500,5.0,Pending
+10171,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,7027,Baguio City,Cash on Delivery,2023-04-07 23:00:00,Delivered,150,0,5.0,Reviewed
+10172,"Nike Challenger Brief-Lined 5"" Shorts",Apparel,1795.0,1,1795.0,5128,Cebu City,Credit Card,2023-01-18 14:00:00,Delivered,50,500,4.0,Reviewed
+10173,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,5362,Baguio City,Maya,2023-01-29 04:00:00,Delivered,100,500,5.0,Pending
+10174,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,7626,Cebu City,Cash on Delivery,2023-07-31 09:00:00,Delivered,100,100,4.0,Reviewed
+10174,Tailwind Nutrition Endurance Fuel,Nutrition,2200.0,1,2200.0,7626,Cebu City,Cash on Delivery,2023-07-31 09:00:00,Delivered,100,500,4.0,Reviewed
+10174,Nathan QuickSqueeze Handheld Flask,Gear,1850.0,1,1850.0,7626,Cebu City,Cash on Delivery,2023-07-31 09:00:00,Delivered,100,200,3.0,Pending
+10174,Shokz OpenRun Bone Conduction Headphones,Electronics,7490.0,1,7490.0,7626,Cebu City,Cash on Delivery,2023-07-31 09:00:00,Delivered,100,0,4.0,Pending
+10175,Under Armour Tech Short Sleeve Tee,Apparel,1595.0,1,1595.0,9296,Davao City,Maya,2023-06-03 12:00:00,Shipped,100,0,4.0,Pending
+10176,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,6182,Baguio City,GCash,2023-08-02 17:00:00,Processing,0,500,3.0,Reviewed
+10176,Salomon ADV Skin 12 Hydration Vest,Gear,9500.0,1,9500.0,6182,Baguio City,GCash,2023-08-02 17:00:00,Processing,0,200,4.0,Reviewed
+10177,Balega Hidden Comfort Socks,Accessories,895.0,1,895.0,6665,Davao City,GCash,2023-02-17 17:00:00,Shipped,150,0,5.0,Reviewed
+10178,Balega Hidden Comfort Socks,Accessories,895.0,1,895.0,8089,Iloilo City,GCash,2023-10-28 23:00:00,Delivered,100,500,4.0,Reviewed
+10179,Goodr OG Sunglasses,Accessories,1995.0,1,1995.0,7727,Davao City,GCash,2023-03-02 23:00:00,Delivered,100,200,4.0,Reviewed
+10179,Coros Pace 3,Electronics,14500.0,2,29000.0,7727,Davao City,GCash,2023-03-02 23:00:00,Delivered,100,500,5.0,Reviewed
+10180,Under Armour Tech Short Sleeve Tee,Apparel,1595.0,1,1595.0,6960,Iloilo City,Cash on Delivery,2023-08-27 17:00:00,Shipped,0,100,4.0,Pending
+10181,Balega Hidden Comfort Socks,Accessories,895.0,1,895.0,8817,Metro Manila,Maya,2023-07-09 10:00:00,Shipped,100,200,4.0,Reviewed
+10181,FlipBelt Classic Running Belt,Accessories,1950.0,1,1950.0,8817,Metro Manila,Maya,2023-07-09 10:00:00,Shipped,100,500,4.0,Reviewed
+10181,BodyGlide Original Anti-Chafe Balm,Health,650.0,1,650.0,8817,Metro Manila,Maya,2023-07-09 10:00:00,Shipped,100,0,5.0,Reviewed
+10181,Goodr OG Sunglasses,Accessories,1995.0,1,1995.0,8817,Metro Manila,Maya,2023-07-09 10:00:00,Shipped,100,100,4.0,Pending
+10182,Salomon ADV Skin 12 Hydration Vest,Gear,9500.0,2,19000.0,6884,Baguio City,Credit Card,2023-05-12 15:00:00,Shipped,150,200,5.0,Pending
+10182,GU Energy Gel (8-Pack),Nutrition,1120.0,1,1120.0,6884,Baguio City,Credit Card,2023-05-12 15:00:00,Shipped,150,0,4.0,Pending
+10182,Nathan QuickSqueeze Handheld Flask,Gear,1850.0,1,1850.0,6884,Baguio City,Credit Card,2023-05-12 15:00:00,Shipped,150,0,,Reviewed
+10183,GU Energy Gel (8-Pack),Nutrition,1120.0,1,1120.0,9000,Cebu City,GCash,2023-02-08 21:00:00,Processing,50,0,4.0,Reviewed
+10184,"Nike Challenger Brief-Lined 5"" Shorts",Apparel,1795.0,1,1795.0,6895,Metro Manila,Credit Card,2023-09-16 14:00:00,Delivered,100,100,3.0,Reviewed
+10184,Brooks Ghost 15,Shoes,7995.0,1,7995.0,6895,Metro Manila,Credit Card,2023-09-16 14:00:00,Delivered,100,500,4.0,Pending
+10185,Goodr OG Sunglasses,Accessories,1995.0,2,3990.0,5128,Metro Manila,Maya,2023-09-29 23:00:00,Delivered,50,100,3.0,Pending
+10186,Nike Air Zoom Pegasus 40,Shoes,6895.0,1,6895.0,8527,Cebu City,GCash,2023-05-04 06:00:00,Delivered,100,500,5.0,Pending
+10186,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,8527,Cebu City,GCash,2023-05-04 06:00:00,Delivered,100,100,,Pending
+10187,Under Armour Tech Short Sleeve Tee,Apparel,1595.0,1,1595.0,8056,Baguio City,Maya,2023-04-26 09:00:00,Processing,100,0,5.0,Reviewed
+10187,ASICS Gel-Kayano 30,Shoes,8990.0,1,8990.0,8056,Baguio City,Maya,2023-04-26 09:00:00,Processing,100,0,4.0,Pending
+10188,Under Armour Tech Short Sleeve Tee,Apparel,1595.0,1,1595.0,5459,Metro Manila,Credit Card,2023-08-11 20:00:00,Delivered,0,100,5.0,Reviewed
+10188,GU Energy Gel (8-Pack),Nutrition,1120.0,1,1120.0,5459,Metro Manila,Credit Card,2023-08-11 20:00:00,Delivered,0,500,4.0,Reviewed
+10188,Goodr OG Sunglasses,Accessories,1995.0,1,1995.0,5459,Metro Manila,Credit Card,2023-08-11 20:00:00,Delivered,0,0,4.0,Reviewed
+10189,Tailwind Nutrition Endurance Fuel,Nutrition,2200.0,1,2200.0,5381,Metro Manila,Cash on Delivery,2023-04-02 10:00:00,Processing,50,0,5.0,Reviewed
+10189,Goodr OG Sunglasses,Accessories,1995.0,1,1995.0,5381,Metro Manila,Cash on Delivery,2023-04-02 10:00:00,Processing,50,500,5.0,Reviewed
+10189,Balega Hidden Comfort Socks,Accessories,895.0,2,1790.0,5381,Metro Manila,Cash on Delivery,2023-04-02 10:00:00,Processing,50,200,5.0,Reviewed
+10190,Salomon ADV Skin 12 Hydration Vest,Gear,9500.0,1,9500.0,6330,Iloilo City,Credit Card,2023-10-04 10:00:00,Processing,0,200,4.0,Reviewed
+10191,ASICS Gel-Kayano 30,Shoes,8990.0,1,8990.0,7833,Metro Manila,GCash,2023-02-08 10:00:00,Shipped,100,500,4.0,Pending
+10191,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,7833,Metro Manila,GCash,2023-02-08 10:00:00,Shipped,100,100,4.0,Reviewed
+10192,Balega Hidden Comfort Socks,Accessories,895.0,1,895.0,6868,Davao City,Maya,2023-10-27 21:00:00,Shipped,100,200,4.0,Reviewed
+10192,OOFOS OOriginal Recovery Sandals,Footwear,3495.0,1,3495.0,6868,Davao City,Maya,2023-10-27 21:00:00,Shipped,100,500,4.0,Pending
+10192,Goodr OG Sunglasses,Accessories,1995.0,1,1995.0,6868,Davao City,Maya,2023-10-27 21:00:00,Shipped,100,0,4.0,Reviewed
+10193,ASICS Gel-Kayano 30,Shoes,8990.0,1,8990.0,7195,Cebu City,Maya,2023-07-19 10:00:00,Processing,100,100,5.0,Reviewed
+10194,ASICS Gel-Kayano 30,Shoes,8990.0,1,8990.0,7525,Baguio City,Cash on Delivery,2023-03-09 02:00:00,Shipped,50,0,5.0,Pending
+10194,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,7525,Baguio City,Cash on Delivery,2023-03-09 02:00:00,Shipped,50,200,4.0,Pending
+10195,HOKA Clifton 9,Shoes,8495.0,1,8495.0,5762,Iloilo City,Cash on Delivery,2023-05-30 13:00:00,Shipped,50,200,,Reviewed
+10195,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,5762,Iloilo City,Cash on Delivery,2023-05-30 13:00:00,Shipped,50,500,4.0,Reviewed
+10195,FlipBelt Classic Running Belt,Accessories,1950.0,1,1950.0,5762,Iloilo City,Cash on Delivery,2023-05-30 13:00:00,Shipped,50,500,3.0,Reviewed
+10195,GU Energy Gel (8-Pack),Nutrition,1120.0,1,1120.0,5762,Iloilo City,Cash on Delivery,2023-05-30 13:00:00,Shipped,50,200,3.0,Reviewed
+10196,Brooks Ghost 15,Shoes,7995.0,1,7995.0,7198,Baguio City,Credit Card,2023-08-11 08:00:00,Delivered,100,200,3.0,Pending
+10196,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,7198,Baguio City,Credit Card,2023-08-11 08:00:00,Delivered,100,200,4.0,Reviewed
+10197,FlipBelt Classic Running Belt,Accessories,1950.0,2,3900.0,7061,Cebu City,Maya,2023-08-23 03:00:00,Processing,100,0,,Pending
+10198,Nike Air Zoom Pegasus 40,Shoes,6895.0,1,6895.0,8241,Davao City,Maya,2023-06-21 13:00:00,Shipped,0,500,,Reviewed
+10199,Salomon ADV Skin 12 Hydration Vest,Gear,9500.0,1,9500.0,7626,Iloilo City,Credit Card,2023-04-01 12:00:00,Shipped,150,100,,Pending
+10200,Goodr OG Sunglasses,Accessories,1995.0,1,1995.0,9717,Cebu City,Cash on Delivery,2023-07-21 11:00:00,Shipped,150,0,4.0,Reviewed
+10201,Tailwind Nutrition Endurance Fuel,Nutrition,2200.0,2,4400.0,8781,Cebu City,Maya,2023-07-29 21:00:00,Shipped,50,200,,Reviewed
+10201,GU Energy Gel (8-Pack),Nutrition,1120.0,1,1120.0,8781,Cebu City,Maya,2023-07-29 21:00:00,Shipped,50,100,3.0,Reviewed
+10201,Garmin Forerunner 255,Electronics,21995.0,1,21995.0,8781,Cebu City,Maya,2023-07-29 21:00:00,Shipped,50,100,4.0,Reviewed
+10201,Nike Air Zoom Pegasus 40,Shoes,6895.0,1,6895.0,8781,Cebu City,Maya,2023-07-29 21:00:00,Shipped,50,200,4.0,Pending
+10202,ASICS Gel-Kayano 30,Shoes,8990.0,1,8990.0,9898,Baguio City,Maya,2023-10-06 01:00:00,Processing,0,100,4.0,Reviewed
+10202,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,9898,Baguio City,Maya,2023-10-06 01:00:00,Processing,0,0,5.0,Reviewed
+10203,FlipBelt Classic Running Belt,Accessories,1950.0,1,1950.0,5362,Iloilo City,Maya,2023-02-24 00:00:00,Shipped,0,0,4.0,Pending
+10203,Garmin Forerunner 255,Electronics,21995.0,1,21995.0,5362,Iloilo City,Maya,2023-02-24 00:00:00,Shipped,0,0,5.0,Reviewed
+10204,OOFOS OOriginal Recovery Sandals,Footwear,3495.0,1,3495.0,8793,Iloilo City,Credit Card,2023-09-05 03:00:00,Shipped,50,100,5.0,Pending
+10204,FlipBelt Classic Running Belt,Accessories,1950.0,1,1950.0,8793,Iloilo City,Credit Card,2023-09-05 03:00:00,Shipped,50,0,5.0,Reviewed
+10204,Under Armour Tech Short Sleeve Tee,Apparel,1595.0,1,1595.0,8793,Iloilo City,Credit Card,2023-09-05 03:00:00,Shipped,50,0,4.0,Pending
+10205,Salomon ADV Skin 12 Hydration Vest,Gear,9500.0,1,9500.0,8956,Davao City,Maya,2023-08-20 10:00:00,Delivered,0,0,3.0,Pending
+10205,GU Energy Gel (8-Pack),Nutrition,1120.0,1,1120.0,8956,Davao City,Maya,2023-08-20 10:00:00,Delivered,0,0,,Reviewed
+10205,Coros Pace 3,Electronics,14500.0,1,14500.0,8956,Davao City,Maya,2023-08-20 10:00:00,Delivered,0,0,,Pending
+10205,BodyGlide Original Anti-Chafe Balm,Health,650.0,1,650.0,8956,Davao City,Maya,2023-08-20 10:00:00,Delivered,0,0,5.0,Reviewed
+10206,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,6429,Iloilo City,Credit Card,2023-08-25 07:00:00,Shipped,0,200,5.0,Reviewed
+10206,BodyGlide Original Anti-Chafe Balm,Health,650.0,1,650.0,6429,Iloilo City,Credit Card,2023-08-25 07:00:00,Shipped,0,0,,Pending
+10207,Under Armour Tech Short Sleeve Tee,Apparel,1595.0,1,1595.0,6616,Baguio City,Maya,2023-04-20 06:00:00,Shipped,50,100,4.0,Reviewed
+10207,Nike Air Zoom Pegasus 40,Shoes,6895.0,1,6895.0,6616,Baguio City,Maya,2023-04-20 06:00:00,Shipped,50,500,4.0,Reviewed
+10207,Shokz OpenRun Bone Conduction Headphones,Electronics,7490.0,1,7490.0,6616,Baguio City,Maya,2023-04-20 06:00:00,Shipped,50,500,4.0,Reviewed
+10208,FlipBelt Classic Running Belt,Accessories,1950.0,1,1950.0,7670,Cebu City,Maya,2023-09-08 16:00:00,Delivered,150,100,4.0,Pending
+10209,Shokz OpenRun Bone Conduction Headphones,Electronics,7490.0,1,7490.0,8215,Iloilo City,GCash,2023-08-23 19:00:00,Shipped,150,0,,Pending
+10210,Shokz OpenRun Bone Conduction Headphones,Electronics,7490.0,1,7490.0,7565,Metro Manila,Credit Card,2023-04-04 11:00:00,Shipped,50,0,5.0,Pending
+10210,Brooks Ghost 15,Shoes,7995.0,1,7995.0,7565,Metro Manila,Credit Card,2023-04-04 11:00:00,Shipped,50,200,,Reviewed
+10211,Tailwind Nutrition Endurance Fuel,Nutrition,2200.0,1,2200.0,6521,Baguio City,Credit Card,2023-09-08 09:00:00,Processing,100,0,4.0,Reviewed
+10211,Under Armour Tech Short Sleeve Tee,Apparel,1595.0,1,1595.0,6521,Baguio City,Credit Card,2023-09-08 09:00:00,Processing,100,100,,Pending
+10211,"Nike Challenger Brief-Lined 5"" Shorts",Apparel,1795.0,1,1795.0,6521,Baguio City,Credit Card,2023-09-08 09:00:00,Processing,100,500,5.0,Reviewed
+10212,FlipBelt Classic Running Belt,Accessories,1950.0,2,3900.0,5078,Baguio City,Credit Card,2023-10-15 16:00:00,Delivered,0,200,4.0,Pending
+10213,Goodr OG Sunglasses,Accessories,1995.0,1,1995.0,5677,Iloilo City,GCash,2023-01-17 08:00:00,Delivered,150,0,5.0,Pending
+10213,"Nike Challenger Brief-Lined 5"" Shorts",Apparel,1795.0,1,1795.0,5677,Iloilo City,GCash,2023-01-17 08:00:00,Delivered,150,0,4.0,Pending
+10213,OOFOS OOriginal Recovery Sandals,Footwear,3495.0,1,3495.0,5677,Iloilo City,GCash,2023-01-17 08:00:00,Delivered,150,500,4.0,Pending
+10213,Garmin Forerunner 255,Electronics,21995.0,1,21995.0,5677,Iloilo City,GCash,2023-01-17 08:00:00,Delivered,150,500,5.0,Reviewed
+10214,Tailwind Nutrition Endurance Fuel,Nutrition,2200.0,1,2200.0,7194,Iloilo City,Cash on Delivery,2023-08-14 17:00:00,Processing,50,0,,Pending
+10214,HOKA Clifton 9,Shoes,8495.0,1,8495.0,7194,Iloilo City,Cash on Delivery,2023-08-14 17:00:00,Processing,50,0,,Reviewed
+10215,Salomon ADV Skin 12 Hydration Vest,Gear,9500.0,1,9500.0,5712,Baguio City,GCash,2023-06-29 22:00:00,Delivered,100,500,4.0,Pending
+10215,Adidas Ultraboost Light,Shoes,9500.0,1,9500.0,5712,Baguio City,GCash,2023-06-29 22:00:00,Delivered,100,0,5.0,Reviewed
+10215,OOFOS OOriginal Recovery Sandals,Footwear,3495.0,1,3495.0,5712,Baguio City,GCash,2023-06-29 22:00:00,Delivered,100,0,3.0,Reviewed
+10215,Balega Hidden Comfort Socks,Accessories,895.0,1,895.0,5712,Baguio City,GCash,2023-06-29 22:00:00,Delivered,100,0,4.0,Pending
+10215,FlipBelt Classic Running Belt,Accessories,1950.0,1,1950.0,5712,Baguio City,GCash,2023-06-29 22:00:00,Delivered,100,500,5.0,Pending
+10216,Shokz OpenRun Bone Conduction Headphones,Electronics,7490.0,1,7490.0,7397,Davao City,Cash on Delivery,2023-03-11 13:00:00,Processing,50,0,3.0,Pending
+10216,Nathan QuickSqueeze Handheld Flask,Gear,1850.0,1,1850.0,7397,Davao City,Cash on Delivery,2023-03-11 13:00:00,Processing,50,0,4.0,Reviewed
+10217,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,2,2390.0,9009,Cebu City,Cash on Delivery,2023-07-12 14:00:00,Processing,0,0,3.0,Reviewed
+10217,Brooks Ghost 15,Shoes,7995.0,1,7995.0,9009,Cebu City,Cash on Delivery,2023-07-12 14:00:00,Processing,0,200,5.0,Pending
+10217,Nathan QuickSqueeze Handheld Flask,Gear,1850.0,1,1850.0,9009,Cebu City,Cash on Delivery,2023-07-12 14:00:00,Processing,0,100,4.0,Pending
+10217,Under Armour Tech Short Sleeve Tee,Apparel,1595.0,1,1595.0,9009,Cebu City,Cash on Delivery,2023-07-12 14:00:00,Processing,0,200,4.0,Pending
+10218,Tailwind Nutrition Endurance Fuel,Nutrition,2200.0,1,2200.0,5020,Metro Manila,Maya,2023-02-02 17:00:00,Processing,150,200,4.0,Reviewed
+10219,"Nike Challenger Brief-Lined 5"" Shorts",Apparel,1795.0,1,1795.0,6735,Baguio City,Cash on Delivery,2023-06-22 17:00:00,Shipped,150,500,5.0,Reviewed
+10220,Tailwind Nutrition Endurance Fuel,Nutrition,2200.0,1,2200.0,8975,Davao City,GCash,2023-08-24 00:00:00,Delivered,50,0,4.0,Reviewed
+10221,OOFOS OOriginal Recovery Sandals,Footwear,3495.0,1,3495.0,8504,Cebu City,Credit Card,2023-03-23 08:00:00,Processing,150,0,3.0,Pending
+10221,Nike Air Zoom Pegasus 40,Shoes,6895.0,1,6895.0,8504,Cebu City,Credit Card,2023-03-23 08:00:00,Processing,150,100,5.0,Reviewed
+10222,FlipBelt Classic Running Belt,Accessories,1950.0,1,1950.0,5424,Baguio City,Cash on Delivery,2023-08-08 20:00:00,Processing,100,0,3.0,Reviewed
+10222,Garmin Forerunner 255,Electronics,21995.0,1,21995.0,5424,Baguio City,Cash on Delivery,2023-08-08 20:00:00,Processing,100,0,5.0,Reviewed
+10223,Goodr OG Sunglasses,Accessories,1995.0,1,1995.0,6852,Iloilo City,Maya,2023-06-25 03:00:00,Delivered,50,200,5.0,Reviewed
+10223,ASICS Gel-Kayano 30,Shoes,8990.0,1,8990.0,6852,Iloilo City,Maya,2023-06-25 03:00:00,Delivered,50,200,5.0,Reviewed
+10223,Brooks Ghost 15,Shoes,7995.0,1,7995.0,6852,Iloilo City,Maya,2023-06-25 03:00:00,Delivered,50,0,5.0,Pending
+10223,Tailwind Nutrition Endurance Fuel,Nutrition,2200.0,1,2200.0,6852,Iloilo City,Maya,2023-06-25 03:00:00,Delivered,50,0,4.0,Reviewed
+10224,HOKA Clifton 9,Shoes,8495.0,1,8495.0,8135,Cebu City,Credit Card,2023-03-26 14:00:00,Delivered,50,100,4.0,Reviewed
+10224,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,8135,Cebu City,Credit Card,2023-03-26 14:00:00,Delivered,50,0,4.0,Pending
+10224,Salomon ADV Skin 12 Hydration Vest,Gear,9500.0,1,9500.0,8135,Cebu City,Credit Card,2023-03-26 14:00:00,Delivered,50,500,5.0,Pending
+10224,Brooks Ghost 15,Shoes,7995.0,1,7995.0,8135,Cebu City,Credit Card,2023-03-26 14:00:00,Delivered,50,0,3.0,Reviewed
+10225,HOKA Clifton 9,Shoes,8495.0,1,8495.0,8145,Davao City,Maya,2023-05-07 08:00:00,Shipped,100,0,4.0,Reviewed
+10225,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,8145,Davao City,Maya,2023-05-07 08:00:00,Shipped,100,500,5.0,Pending
+10225,Tailwind Nutrition Endurance Fuel,Nutrition,2200.0,2,4400.0,8145,Davao City,Maya,2023-05-07 08:00:00,Shipped,100,0,5.0,Pending
+10226,Coros Pace 3,Electronics,14500.0,1,14500.0,9241,Iloilo City,Credit Card,2023-06-01 20:00:00,Processing,0,0,5.0,Reviewed
+10227,Goodr OG Sunglasses,Accessories,1995.0,1,1995.0,6974,Baguio City,GCash,2023-07-04 10:00:00,Processing,50,0,5.0,Pending
+10227,Under Armour Tech Short Sleeve Tee,Apparel,1595.0,1,1595.0,6974,Baguio City,GCash,2023-07-04 10:00:00,Processing,50,500,,Pending
+10227,HOKA Clifton 9,Shoes,8495.0,1,8495.0,6974,Baguio City,GCash,2023-07-04 10:00:00,Processing,50,100,5.0,Reviewed
+10228,Goodr OG Sunglasses,Accessories,1995.0,1,1995.0,5553,Metro Manila,Cash on Delivery,2023-01-31 12:00:00,Delivered,50,500,,Pending
+10228,ASICS Gel-Kayano 30,Shoes,8990.0,1,8990.0,5553,Metro Manila,Cash on Delivery,2023-01-31 12:00:00,Delivered,50,500,4.0,Pending
+10228,Nike Air Zoom Pegasus 40,Shoes,6895.0,1,6895.0,5553,Metro Manila,Cash on Delivery,2023-01-31 12:00:00,Delivered,50,200,5.0,Pending
+10228,Tailwind Nutrition Endurance Fuel,Nutrition,2200.0,1,2200.0,5553,Metro Manila,Cash on Delivery,2023-01-31 12:00:00,Delivered,50,0,5.0,Reviewed
+10229,Balega Hidden Comfort Socks,Accessories,895.0,1,895.0,7538,Metro Manila,Credit Card,2023-07-20 18:00:00,Delivered,150,0,4.0,Pending
+10229,ASICS Gel-Kayano 30,Shoes,8990.0,1,8990.0,7538,Metro Manila,Credit Card,2023-07-20 18:00:00,Delivered,150,200,,Reviewed
+10230,Adidas Ultraboost Light,Shoes,9500.0,1,9500.0,9987,Metro Manila,Cash on Delivery,2023-03-03 00:00:00,Processing,100,0,4.0,Reviewed
+10230,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,9987,Metro Manila,Cash on Delivery,2023-03-03 00:00:00,Processing,100,0,4.0,Pending
+10230,"Nike Challenger Brief-Lined 5"" Shorts",Apparel,1795.0,1,1795.0,9987,Metro Manila,Cash on Delivery,2023-03-03 00:00:00,Processing,100,100,4.0,Pending
+10230,HOKA Clifton 9,Shoes,8495.0,1,8495.0,9987,Metro Manila,Cash on Delivery,2023-03-03 00:00:00,Processing,100,0,5.0,Pending
+10230,OOFOS OOriginal Recovery Sandals,Footwear,3495.0,1,3495.0,9987,Metro Manila,Cash on Delivery,2023-03-03 00:00:00,Processing,100,0,4.0,Pending
+10231,HOKA Clifton 9,Shoes,8495.0,2,16990.0,5240,Davao City,Maya,2023-05-15 22:00:00,Shipped,50,500,4.0,Reviewed
+10232,Goodr OG Sunglasses,Accessories,1995.0,1,1995.0,9184,Davao City,GCash,2023-07-08 05:00:00,Shipped,100,100,5.0,Reviewed
+10232,OOFOS OOriginal Recovery Sandals,Footwear,3495.0,1,3495.0,9184,Davao City,GCash,2023-07-08 05:00:00,Shipped,100,500,4.0,Reviewed
+10233,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,9168,Metro Manila,GCash,2023-01-24 15:00:00,Delivered,100,100,5.0,Pending
+10234,Brooks Ghost 15,Shoes,7995.0,2,15990.0,6466,Metro Manila,Maya,2023-05-08 13:00:00,Delivered,150,100,4.0,Pending
+10235,ASICS Gel-Kayano 30,Shoes,8990.0,2,17980.0,5978,Iloilo City,GCash,2023-09-22 01:00:00,Delivered,100,200,4.0,Reviewed
+10235,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,5978,Iloilo City,GCash,2023-09-22 01:00:00,Delivered,100,200,4.0,Pending
+10236,Salomon ADV Skin 12 Hydration Vest,Gear,9500.0,2,19000.0,7681,Metro Manila,Maya,2023-04-13 09:00:00,Delivered,150,500,4.0,Pending
+10237,Shokz OpenRun Bone Conduction Headphones,Electronics,7490.0,1,7490.0,9041,Cebu City,Credit Card,2023-07-29 00:00:00,Delivered,50,0,4.0,Pending
+10237,Shokz OpenRun Bone Conduction Headphones,Electronics,7490.0,1,7490.0,9041,Cebu City,Credit Card,2023-07-29 00:00:00,Delivered,50,0,5.0,Pending
+10237,FlipBelt Classic Running Belt,Accessories,1950.0,1,1950.0,9041,Cebu City,Credit Card,2023-07-29 00:00:00,Delivered,50,0,3.0,Pending
+10237,Tailwind Nutrition Endurance Fuel,Nutrition,2200.0,1,2200.0,9041,Cebu City,Credit Card,2023-07-29 00:00:00,Delivered,50,100,,Reviewed
+10238,Coros Pace 3,Electronics,14500.0,1,14500.0,9340,Cebu City,Maya,2023-03-14 22:00:00,Shipped,50,100,5.0,Reviewed
+10239,Adidas Ultraboost Light,Shoes,9500.0,1,9500.0,8051,Baguio City,GCash,2023-09-16 04:00:00,Processing,50,200,5.0,Reviewed
+10239,BodyGlide Original Anti-Chafe Balm,Health,650.0,1,650.0,8051,Baguio City,GCash,2023-09-16 04:00:00,Processing,50,500,4.0,Reviewed
+10239,"Nike Challenger Brief-Lined 5"" Shorts",Apparel,1795.0,1,1795.0,8051,Baguio City,GCash,2023-09-16 04:00:00,Processing,50,200,,Reviewed
+10240,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,7138,Davao City,Maya,2023-06-12 14:00:00,Processing,150,100,4.0,Reviewed
+10240,Salomon ADV Skin 12 Hydration Vest,Gear,9500.0,1,9500.0,7138,Davao City,Maya,2023-06-12 14:00:00,Processing,150,0,4.0,Reviewed
+10241,Brooks Ghost 15,Shoes,7995.0,1,7995.0,5892,Cebu City,GCash,2023-08-27 10:00:00,Delivered,0,200,4.0,Reviewed
+10241,Tailwind Nutrition Endurance Fuel,Nutrition,2200.0,1,2200.0,5892,Cebu City,GCash,2023-08-27 10:00:00,Delivered,0,500,4.0,Pending
+10242,Coros Pace 3,Electronics,14500.0,1,14500.0,8795,Davao City,GCash,2023-06-05 22:00:00,Delivered,100,500,5.0,Reviewed
+10242,Shokz OpenRun Bone Conduction Headphones,Electronics,7490.0,1,7490.0,8795,Davao City,GCash,2023-06-05 22:00:00,Delivered,100,0,4.0,Pending
+10243,Brooks Ghost 15,Shoes,7995.0,1,7995.0,5747,Cebu City,Cash on Delivery,2023-06-03 08:00:00,Shipped,50,0,4.0,Reviewed
+10244,Under Armour Tech Short Sleeve Tee,Apparel,1595.0,1,1595.0,9554,Iloilo City,Credit Card,2023-02-22 04:00:00,Delivered,0,0,4.0,Reviewed
+10244,OOFOS OOriginal Recovery Sandals,Footwear,3495.0,1,3495.0,9554,Iloilo City,Credit Card,2023-02-22 04:00:00,Delivered,0,0,3.0,Reviewed
+10245,Brooks Ghost 15,Shoes,7995.0,1,7995.0,8049,Metro Manila,Cash on Delivery,2023-02-03 06:00:00,Delivered,50,200,4.0,Reviewed
+10245,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,8049,Metro Manila,Cash on Delivery,2023-02-03 06:00:00,Delivered,50,0,4.0,Pending
+10245,Under Armour Tech Short Sleeve Tee,Apparel,1595.0,2,3190.0,8049,Metro Manila,Cash on Delivery,2023-02-03 06:00:00,Delivered,50,0,4.0,Reviewed
+10246,OOFOS OOriginal Recovery Sandals,Footwear,3495.0,1,3495.0,6376,Iloilo City,Maya,2023-09-12 00:00:00,Processing,0,200,5.0,Pending
+10246,Adidas Ultraboost Light,Shoes,9500.0,1,9500.0,6376,Iloilo City,Maya,2023-09-12 00:00:00,Processing,0,0,4.0,Pending
+10247,Coros Pace 3,Electronics,14500.0,1,14500.0,7292,Baguio City,Credit Card,2023-06-01 15:00:00,Delivered,100,200,4.0,Pending
+10247,Balega Hidden Comfort Socks,Accessories,895.0,1,895.0,7292,Baguio City,Credit Card,2023-06-01 15:00:00,Delivered,100,0,4.0,Reviewed
+10248,Balega Hidden Comfort Socks,Accessories,895.0,1,895.0,8137,Cebu City,Maya,2023-10-06 00:00:00,Delivered,100,200,4.0,Pending
+10249,Goodr OG Sunglasses,Accessories,1995.0,1,1995.0,8970,Davao City,Cash on Delivery,2023-04-03 00:00:00,Shipped,150,100,3.0,Reviewed
+10249,GU Energy Gel (8-Pack),Nutrition,1120.0,1,1120.0,8970,Davao City,Cash on Delivery,2023-04-03 00:00:00,Shipped,150,0,4.0,Pending
+10250,Adidas Ultraboost Light,Shoes,9500.0,1,9500.0,8864,Iloilo City,Cash on Delivery,2023-03-23 03:00:00,Processing,100,0,5.0,Reviewed
+10251,Balega Hidden Comfort Socks,Accessories,895.0,2,1790.0,9371,Metro Manila,Credit Card,2023-07-01 05:00:00,Processing,0,0,4.0,Reviewed
+10252,Tailwind Nutrition Endurance Fuel,Nutrition,2200.0,1,2200.0,7939,Iloilo City,GCash,2023-10-18 18:00:00,Processing,150,0,3.0,Reviewed
+10252,Nathan QuickSqueeze Handheld Flask,Gear,1850.0,1,1850.0,7939,Iloilo City,GCash,2023-10-18 18:00:00,Processing,150,200,3.0,Pending
+10253,Garmin Forerunner 255,Electronics,21995.0,1,21995.0,5739,Metro Manila,Credit Card,2023-01-11 16:00:00,Processing,100,200,4.0,Reviewed
+10253,Shokz OpenRun Bone Conduction Headphones,Electronics,7490.0,1,7490.0,5739,Metro Manila,Credit Card,2023-01-11 16:00:00,Processing,100,100,5.0,Reviewed
+10254,Brooks Ghost 15,Shoes,7995.0,1,7995.0,7650,Metro Manila,GCash,2023-02-26 16:00:00,Delivered,100,100,5.0,Reviewed
+10254,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,7650,Metro Manila,GCash,2023-02-26 16:00:00,Delivered,100,100,5.0,Pending
+10254,Garmin Forerunner 255,Electronics,21995.0,1,21995.0,7650,Metro Manila,GCash,2023-02-26 16:00:00,Delivered,100,500,4.0,Reviewed
+10255,Nathan QuickSqueeze Handheld Flask,Gear,1850.0,1,1850.0,7472,Davao City,Credit Card,2023-09-07 20:00:00,Delivered,0,100,3.0,Reviewed
+10256,GU Energy Gel (8-Pack),Nutrition,1120.0,2,2240.0,7923,Cebu City,Credit Card,2023-05-31 04:00:00,Shipped,150,0,4.0,Reviewed
+10257,Tailwind Nutrition Endurance Fuel,Nutrition,2200.0,1,2200.0,8207,Iloilo City,GCash,2023-04-24 20:00:00,Delivered,150,500,5.0,Reviewed
+10258,Goodr OG Sunglasses,Accessories,1995.0,1,1995.0,7712,Metro Manila,Credit Card,2023-03-27 20:00:00,Shipped,150,0,5.0,Pending
+10258,Brooks Ghost 15,Shoes,7995.0,1,7995.0,7712,Metro Manila,Credit Card,2023-03-27 20:00:00,Shipped,150,200,,Reviewed
+10259,Balega Hidden Comfort Socks,Accessories,895.0,1,895.0,7102,Metro Manila,GCash,2023-08-13 23:00:00,Delivered,0,200,4.0,Reviewed
+10259,Coros Pace 3,Electronics,14500.0,1,14500.0,7102,Metro Manila,GCash,2023-08-13 23:00:00,Delivered,0,200,4.0,Pending
+10259,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,7102,Metro Manila,GCash,2023-08-13 23:00:00,Delivered,0,200,4.0,Pending
+10259,ASICS Gel-Kayano 30,Shoes,8990.0,1,8990.0,7102,Metro Manila,GCash,2023-08-13 23:00:00,Delivered,0,500,3.0,Pending
+10259,FlipBelt Classic Running Belt,Accessories,1950.0,1,1950.0,7102,Metro Manila,GCash,2023-08-13 23:00:00,Delivered,0,0,5.0,Pending
+10260,Tailwind Nutrition Endurance Fuel,Nutrition,2200.0,1,2200.0,6332,Baguio City,GCash,2023-01-11 10:00:00,Delivered,150,100,4.0,Reviewed
+10260,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,2,2390.0,6332,Baguio City,GCash,2023-01-11 10:00:00,Delivered,150,0,4.0,Pending
+10261,Garmin Forerunner 255,Electronics,21995.0,1,21995.0,9866,Iloilo City,Maya,2023-08-09 20:00:00,Processing,50,0,4.0,Pending
+10261,ASICS Gel-Kayano 30,Shoes,8990.0,1,8990.0,9866,Iloilo City,Maya,2023-08-09 20:00:00,Processing,50,0,4.0,Reviewed
+10261,GU Energy Gel (8-Pack),Nutrition,1120.0,1,1120.0,9866,Iloilo City,Maya,2023-08-09 20:00:00,Processing,50,0,,Pending
+10261,Nathan QuickSqueeze Handheld Flask,Gear,1850.0,1,1850.0,9866,Iloilo City,Maya,2023-08-09 20:00:00,Processing,50,0,4.0,Reviewed
+10262,"Nike Challenger Brief-Lined 5"" Shorts",Apparel,1795.0,2,3590.0,9424,Davao City,Cash on Delivery,2023-02-19 01:00:00,Shipped,100,200,4.0,Pending
+10262,GU Energy Gel (8-Pack),Nutrition,1120.0,1,1120.0,9424,Davao City,Cash on Delivery,2023-02-19 01:00:00,Shipped,100,0,5.0,Reviewed
+10263,FlipBelt Classic Running Belt,Accessories,1950.0,1,1950.0,5717,Davao City,Maya,2023-01-14 06:00:00,Delivered,50,0,5.0,Pending
+10263,Nike Air Zoom Pegasus 40,Shoes,6895.0,2,13790.0,5717,Davao City,Maya,2023-01-14 06:00:00,Delivered,50,0,4.0,Pending
+10263,"Nike Challenger Brief-Lined 5"" Shorts",Apparel,1795.0,1,1795.0,5717,Davao City,Maya,2023-01-14 06:00:00,Delivered,50,0,,Pending
+10264,Under Armour Tech Short Sleeve Tee,Apparel,1595.0,1,1595.0,8857,Baguio City,Cash on Delivery,2023-04-05 11:00:00,Delivered,0,200,4.0,Pending
+10265,Garmin Forerunner 255,Electronics,21995.0,1,21995.0,8651,Metro Manila,Cash on Delivery,2023-05-15 07:00:00,Shipped,0,100,4.0,Reviewed
+10266,Brooks Ghost 15,Shoes,7995.0,1,7995.0,5702,Davao City,Maya,2023-10-11 01:00:00,Processing,100,200,5.0,Pending
+10266,HOKA Clifton 9,Shoes,8495.0,1,8495.0,5702,Davao City,Maya,2023-10-11 01:00:00,Processing,100,500,4.0,Pending
+10267,Tailwind Nutrition Endurance Fuel,Nutrition,2200.0,1,2200.0,8234,Metro Manila,Credit Card,2023-03-30 05:00:00,Delivered,0,0,5.0,Reviewed
+10267,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,8234,Metro Manila,Credit Card,2023-03-30 05:00:00,Delivered,0,0,5.0,Reviewed
+10267,Goodr OG Sunglasses,Accessories,1995.0,1,1995.0,8234,Metro Manila,Credit Card,2023-03-30 05:00:00,Delivered,0,200,,Reviewed
+10267,Salomon ADV Skin 12 Hydration Vest,Gear,9500.0,1,9500.0,8234,Metro Manila,Credit Card,2023-03-30 05:00:00,Delivered,0,200,4.0,Reviewed
+10267,ASICS Gel-Kayano 30,Shoes,8990.0,1,8990.0,8234,Metro Manila,Credit Card,2023-03-30 05:00:00,Delivered,0,0,4.0,Pending
+10268,Nathan QuickSqueeze Handheld Flask,Gear,1850.0,1,1850.0,5712,Baguio City,Maya,2023-05-22 16:00:00,Processing,150,200,3.0,Reviewed
+10268,ASICS Gel-Kayano 30,Shoes,8990.0,1,8990.0,5712,Baguio City,Maya,2023-05-22 16:00:00,Processing,150,500,4.0,Pending
+10269,HOKA Clifton 9,Shoes,8495.0,1,8495.0,6214,Iloilo City,GCash,2023-05-27 17:00:00,Delivered,50,100,4.0,Pending
+10269,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,6214,Iloilo City,GCash,2023-05-27 17:00:00,Delivered,50,100,4.0,Pending
+10270,Goodr OG Sunglasses,Accessories,1995.0,1,1995.0,8875,Metro Manila,Credit Card,2023-03-15 19:00:00,Shipped,0,500,4.0,Pending
+10270,Tailwind Nutrition Endurance Fuel,Nutrition,2200.0,1,2200.0,8875,Metro Manila,Credit Card,2023-03-15 19:00:00,Shipped,0,0,3.0,Pending
+10270,Shokz OpenRun Bone Conduction Headphones,Electronics,7490.0,1,7490.0,8875,Metro Manila,Credit Card,2023-03-15 19:00:00,Shipped,0,100,3.0,Reviewed
+10271,Adidas Ultraboost Light,Shoes,9500.0,1,9500.0,8892,Davao City,Cash on Delivery,2023-06-05 09:00:00,Delivered,150,100,4.0,Pending
+10272,HOKA Clifton 9,Shoes,8495.0,1,8495.0,6867,Cebu City,Cash on Delivery,2023-06-14 08:00:00,Processing,0,200,,Reviewed
+10273,Coros Pace 3,Electronics,14500.0,1,14500.0,8618,Cebu City,Maya,2023-09-22 11:00:00,Processing,0,0,4.0,Reviewed
+10274,ASICS Gel-Kayano 30,Shoes,8990.0,1,8990.0,6111,Iloilo City,GCash,2023-04-13 01:00:00,Delivered,100,0,5.0,Reviewed
+10274,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,6111,Iloilo City,GCash,2023-04-13 01:00:00,Delivered,100,200,4.0,Reviewed
+10274,BodyGlide Original Anti-Chafe Balm,Health,650.0,2,1300.0,6111,Iloilo City,GCash,2023-04-13 01:00:00,Delivered,100,100,,Reviewed
+10274,Under Armour Tech Short Sleeve Tee,Apparel,1595.0,1,1595.0,6111,Iloilo City,GCash,2023-04-13 01:00:00,Delivered,100,100,,Pending
+10275,OOFOS OOriginal Recovery Sandals,Footwear,3495.0,1,3495.0,8251,Metro Manila,GCash,2023-09-08 19:00:00,Delivered,150,200,4.0,Reviewed
+10275,BodyGlide Original Anti-Chafe Balm,Health,650.0,1,650.0,8251,Metro Manila,GCash,2023-09-08 19:00:00,Delivered,150,200,4.0,Pending
+10276,FlipBelt Classic Running Belt,Accessories,1950.0,1,1950.0,7118,Metro Manila,Cash on Delivery,2023-01-26 05:00:00,Delivered,0,500,4.0,Reviewed
+10276,Garmin Forerunner 255,Electronics,21995.0,1,21995.0,7118,Metro Manila,Cash on Delivery,2023-01-26 05:00:00,Delivered,0,0,5.0,Reviewed
+10277,Coros Pace 3,Electronics,14500.0,1,14500.0,7204,Baguio City,GCash,2023-08-31 04:00:00,Processing,50,0,,Reviewed
+10278,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,7067,Iloilo City,Cash on Delivery,2023-08-05 12:00:00,Processing,150,100,4.0,Pending
+10279,Balega Hidden Comfort Socks,Accessories,895.0,1,895.0,9265,Iloilo City,Maya,2023-01-04 16:00:00,Processing,50,100,5.0,Pending
+10279,Coros Pace 3,Electronics,14500.0,1,14500.0,9265,Iloilo City,Maya,2023-01-04 16:00:00,Processing,50,100,,Reviewed
+10279,OOFOS OOriginal Recovery Sandals,Footwear,3495.0,1,3495.0,9265,Iloilo City,Maya,2023-01-04 16:00:00,Processing,50,200,4.0,Reviewed
+10279,Salomon ADV Skin 12 Hydration Vest,Gear,9500.0,1,9500.0,9265,Iloilo City,Maya,2023-01-04 16:00:00,Processing,50,100,3.0,Pending
+10280,Nathan QuickSqueeze Handheld Flask,Gear,1850.0,1,1850.0,7447,Cebu City,Credit Card,2023-01-30 19:00:00,Processing,100,200,,Pending
+10280,Balega Hidden Comfort Socks,Accessories,895.0,1,895.0,7447,Cebu City,Credit Card,2023-01-30 19:00:00,Processing,100,0,5.0,Reviewed
+10281,Goodr OG Sunglasses,Accessories,1995.0,1,1995.0,7421,Davao City,Maya,2023-01-19 18:00:00,Shipped,0,500,4.0,Reviewed
+10282,Nathan QuickSqueeze Handheld Flask,Gear,1850.0,1,1850.0,9379,Baguio City,Cash on Delivery,2023-03-29 21:00:00,Processing,150,500,5.0,Reviewed
+10282,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,2,2390.0,9379,Baguio City,Cash on Delivery,2023-03-29 21:00:00,Processing,150,100,4.0,Reviewed
+10283,Goodr OG Sunglasses,Accessories,1995.0,1,1995.0,7749,Metro Manila,Credit Card,2023-06-07 13:00:00,Shipped,100,100,3.0,Pending
+10283,Brooks Ghost 15,Shoes,7995.0,1,7995.0,7749,Metro Manila,Credit Card,2023-06-07 13:00:00,Shipped,100,100,5.0,Pending
+10283,Balega Hidden Comfort Socks,Accessories,895.0,1,895.0,7749,Metro Manila,Credit Card,2023-06-07 13:00:00,Shipped,100,200,3.0,Reviewed
+10283,GU Energy Gel (8-Pack),Nutrition,1120.0,1,1120.0,7749,Metro Manila,Credit Card,2023-06-07 13:00:00,Shipped,100,200,4.0,Reviewed
+10283,Garmin Forerunner 255,Electronics,21995.0,1,21995.0,7749,Metro Manila,Credit Card,2023-06-07 13:00:00,Shipped,100,500,3.0,Reviewed
+10284,Goodr OG Sunglasses,Accessories,1995.0,1,1995.0,5981,Baguio City,Cash on Delivery,2023-03-19 04:00:00,Shipped,50,0,4.0,Pending
+10284,Coros Pace 3,Electronics,14500.0,1,14500.0,5981,Baguio City,Cash on Delivery,2023-03-19 04:00:00,Shipped,50,200,4.0,Pending
+10284,BodyGlide Original Anti-Chafe Balm,Health,650.0,1,650.0,5981,Baguio City,Cash on Delivery,2023-03-19 04:00:00,Shipped,50,0,4.0,Pending
+10285,Garmin Forerunner 255,Electronics,21995.0,1,21995.0,7724,Cebu City,Cash on Delivery,2023-01-03 14:00:00,Processing,50,100,4.0,Reviewed
+10285,Goodr OG Sunglasses,Accessories,1995.0,1,1995.0,7724,Cebu City,Cash on Delivery,2023-01-03 14:00:00,Processing,50,0,4.0,Reviewed
+10286,Goodr OG Sunglasses,Accessories,1995.0,1,1995.0,6060,Iloilo City,Maya,2023-07-26 13:00:00,Processing,0,200,4.0,Pending
+10286,ASICS Gel-Kayano 30,Shoes,8990.0,1,8990.0,6060,Iloilo City,Maya,2023-07-26 13:00:00,Processing,0,0,4.0,Reviewed
+10287,GU Energy Gel (8-Pack),Nutrition,1120.0,1,1120.0,8056,Metro Manila,Cash on Delivery,2023-01-10 21:00:00,Processing,100,0,5.0,Reviewed
+10287,Coros Pace 3,Electronics,14500.0,1,14500.0,8056,Metro Manila,Cash on Delivery,2023-01-10 21:00:00,Processing,100,0,4.0,Pending
+10288,Salomon ADV Skin 12 Hydration Vest,Gear,9500.0,1,9500.0,9822,Davao City,Credit Card,2023-06-02 09:00:00,Delivered,50,200,4.0,Pending
+10288,GU Energy Gel (8-Pack),Nutrition,1120.0,1,1120.0,9822,Davao City,Credit Card,2023-06-02 09:00:00,Delivered,50,200,4.0,Reviewed
+10288,Under Armour Tech Short Sleeve Tee,Apparel,1595.0,1,1595.0,9822,Davao City,Credit Card,2023-06-02 09:00:00,Delivered,50,100,4.0,Pending
+10288,BodyGlide Original Anti-Chafe Balm,Health,650.0,1,650.0,9822,Davao City,Credit Card,2023-06-02 09:00:00,Delivered,50,100,5.0,Reviewed
+10289,Garmin Forerunner 255,Electronics,21995.0,1,21995.0,5156,Cebu City,Credit Card,2023-04-19 23:00:00,Processing,100,0,3.0,Reviewed
+10289,Under Armour Tech Short Sleeve Tee,Apparel,1595.0,1,1595.0,5156,Cebu City,Credit Card,2023-04-19 23:00:00,Processing,100,0,,Pending
+10290,Adidas Ultraboost Light,Shoes,9500.0,1,9500.0,8073,Davao City,GCash,2023-02-25 20:00:00,Processing,50,0,4.0,Reviewed
+10291,HOKA Clifton 9,Shoes,8495.0,1,8495.0,8115,Metro Manila,Cash on Delivery,2023-04-16 22:00:00,Shipped,100,0,4.0,Pending
+10291,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,2,2390.0,8115,Metro Manila,Cash on Delivery,2023-04-16 22:00:00,Shipped,100,200,4.0,Reviewed
+10292,BodyGlide Original Anti-Chafe Balm,Health,650.0,1,650.0,8431,Metro Manila,GCash,2023-02-24 15:00:00,Shipped,50,0,4.0,Reviewed
+10292,Balega Hidden Comfort Socks,Accessories,895.0,1,895.0,8431,Metro Manila,GCash,2023-02-24 15:00:00,Shipped,50,100,4.0,Reviewed
+10292,Shokz OpenRun Bone Conduction Headphones,Electronics,7490.0,1,7490.0,8431,Metro Manila,GCash,2023-02-24 15:00:00,Shipped,50,100,4.0,Pending
+10292,Brooks Ghost 15,Shoes,7995.0,1,7995.0,8431,Metro Manila,GCash,2023-02-24 15:00:00,Shipped,50,100,5.0,Reviewed
+10293,Adidas Ultraboost Light,Shoes,9500.0,1,9500.0,6701,Baguio City,Cash on Delivery,2023-01-07 21:00:00,Delivered,50,0,5.0,Reviewed
+10293,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,6701,Baguio City,Cash on Delivery,2023-01-07 21:00:00,Delivered,50,500,4.0,Pending
+10294,Brooks Ghost 15,Shoes,7995.0,1,7995.0,5737,Iloilo City,GCash,2023-05-12 20:00:00,Processing,50,0,5.0,Pending
+10295,Salomon ADV Skin 12 Hydration Vest,Gear,9500.0,1,9500.0,7163,Baguio City,GCash,2023-01-21 09:00:00,Delivered,100,100,5.0,Pending
+10296,"Nike Challenger Brief-Lined 5"" Shorts",Apparel,1795.0,1,1795.0,5949,Metro Manila,GCash,2023-03-29 10:00:00,Delivered,100,100,4.0,Pending
+10297,Shokz OpenRun Bone Conduction Headphones,Electronics,7490.0,1,7490.0,6498,Metro Manila,Maya,2023-05-20 12:00:00,Shipped,0,200,3.0,Pending
+10297,Shokz OpenRun Bone Conduction Headphones,Electronics,7490.0,1,7490.0,6498,Metro Manila,Maya,2023-05-20 12:00:00,Shipped,0,0,4.0,Reviewed
+10297,ASICS Gel-Kayano 30,Shoes,8990.0,1,8990.0,6498,Metro Manila,Maya,2023-05-20 12:00:00,Shipped,0,0,,Reviewed
+10297,FlipBelt Classic Running Belt,Accessories,1950.0,1,1950.0,6498,Metro Manila,Maya,2023-05-20 12:00:00,Shipped,0,0,3.0,Reviewed
+10297,Nathan QuickSqueeze Handheld Flask,Gear,1850.0,1,1850.0,6498,Metro Manila,Maya,2023-05-20 12:00:00,Shipped,0,200,4.0,Pending
+10298,Tailwind Nutrition Endurance Fuel,Nutrition,2200.0,1,2200.0,8589,Cebu City,Maya,2023-03-08 15:00:00,Shipped,50,200,4.0,Reviewed
+10299,"Nike Challenger Brief-Lined 5"" Shorts",Apparel,1795.0,2,3590.0,5518,Davao City,Cash on Delivery,2023-06-23 16:00:00,Delivered,100,500,4.0,Reviewed
+10299,OOFOS OOriginal Recovery Sandals,Footwear,3495.0,1,3495.0,5518,Davao City,Cash on Delivery,2023-06-23 16:00:00,Delivered,100,200,5.0,Reviewed
+10299,Adidas Ultraboost Light,Shoes,9500.0,1,9500.0,5518,Davao City,Cash on Delivery,2023-06-23 16:00:00,Delivered,100,200,3.0,Pending
+10300,Under Armour Tech Short Sleeve Tee,Apparel,1595.0,1,1595.0,9573,Iloilo City,GCash,2023-09-16 15:00:00,Delivered,100,200,4.0,Reviewed
+10300,Brooks Ghost 15,Shoes,7995.0,1,7995.0,9573,Iloilo City,GCash,2023-09-16 15:00:00,Delivered,100,0,4.0,Pending
+10301,Nathan QuickSqueeze Handheld Flask,Gear,1850.0,1,1850.0,7278,Metro Manila,Credit Card,2023-07-26 07:00:00,Processing,0,0,5.0,Pending
+10301,GU Energy Gel (8-Pack),Nutrition,1120.0,1,1120.0,7278,Metro Manila,Credit Card,2023-07-26 07:00:00,Processing,0,200,4.0,Pending
+10302,ASICS Gel-Kayano 30,Shoes,8990.0,1,8990.0,9083,Baguio City,Cash on Delivery,2023-01-10 03:00:00,Delivered,0,200,5.0,Pending
+10303,Adidas Ultraboost Light,Shoes,9500.0,1,9500.0,5001,Metro Manila,Cash on Delivery,2023-08-22 10:00:00,Processing,100,100,4.0,Reviewed
+10303,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,5001,Metro Manila,Cash on Delivery,2023-08-22 10:00:00,Processing,100,0,5.0,Pending
+10304,Nathan QuickSqueeze Handheld Flask,Gear,1850.0,2,3700.0,9914,Baguio City,Cash on Delivery,2023-02-28 03:00:00,Processing,0,0,4.0,Reviewed
+10304,GU Energy Gel (8-Pack),Nutrition,1120.0,1,1120.0,9914,Baguio City,Cash on Delivery,2023-02-28 03:00:00,Processing,0,100,4.0,Pending
+10305,Salomon ADV Skin 12 Hydration Vest,Gear,9500.0,1,9500.0,8062,Metro Manila,GCash,2023-03-13 22:00:00,Delivered,0,200,5.0,Reviewed
+10305,GU Energy Gel (8-Pack),Nutrition,1120.0,2,2240.0,8062,Metro Manila,GCash,2023-03-13 22:00:00,Delivered,0,100,4.0,Reviewed
+10306,Coros Pace 3,Electronics,14500.0,1,14500.0,5989,Baguio City,Credit Card,2023-06-23 03:00:00,Shipped,100,200,5.0,Reviewed
+10307,Tailwind Nutrition Endurance Fuel,Nutrition,2200.0,1,2200.0,6009,Baguio City,Maya,2023-09-13 00:00:00,Processing,100,500,4.0,Reviewed
+10308,GU Energy Gel (8-Pack),Nutrition,1120.0,1,1120.0,9164,Cebu City,Credit Card,2023-02-23 12:00:00,Processing,100,500,4.0,Pending
+10308,"Nike Challenger Brief-Lined 5"" Shorts",Apparel,1795.0,1,1795.0,9164,Cebu City,Credit Card,2023-02-23 12:00:00,Processing,100,500,4.0,Pending
+10308,Tailwind Nutrition Endurance Fuel,Nutrition,2200.0,1,2200.0,9164,Cebu City,Credit Card,2023-02-23 12:00:00,Processing,100,200,5.0,Reviewed
+10308,Goodr OG Sunglasses,Accessories,1995.0,1,1995.0,9164,Cebu City,Credit Card,2023-02-23 12:00:00,Processing,100,100,3.0,Pending
+10309,Nathan QuickSqueeze Handheld Flask,Gear,1850.0,1,1850.0,7409,Baguio City,Credit Card,2023-09-20 09:00:00,Delivered,0,500,3.0,Pending
+10310,GU Energy Gel (8-Pack),Nutrition,1120.0,1,1120.0,6645,Cebu City,Cash on Delivery,2023-03-09 22:00:00,Processing,150,0,4.0,Pending
+10310,Coros Pace 3,Electronics,14500.0,1,14500.0,6645,Cebu City,Cash on Delivery,2023-03-09 22:00:00,Processing,150,0,5.0,Pending
+10311,GU Energy Gel (8-Pack),Nutrition,1120.0,1,1120.0,8460,Metro Manila,GCash,2023-03-16 01:00:00,Delivered,0,0,5.0,Reviewed
+10311,Goodr OG Sunglasses,Accessories,1995.0,1,1995.0,8460,Metro Manila,GCash,2023-03-16 01:00:00,Delivered,0,100,4.0,Reviewed
+10311,Tailwind Nutrition Endurance Fuel,Nutrition,2200.0,1,2200.0,8460,Metro Manila,GCash,2023-03-16 01:00:00,Delivered,0,100,5.0,Pending
+10311,"Nike Challenger Brief-Lined 5"" Shorts",Apparel,1795.0,2,3590.0,8460,Metro Manila,GCash,2023-03-16 01:00:00,Delivered,0,0,4.0,Reviewed
+10311,Salomon ADV Skin 12 Hydration Vest,Gear,9500.0,1,9500.0,8460,Metro Manila,GCash,2023-03-16 01:00:00,Delivered,0,100,4.0,Reviewed
+10312,GU Energy Gel (8-Pack),Nutrition,1120.0,1,1120.0,7938,Baguio City,GCash,2023-10-15 12:00:00,Processing,100,0,4.0,Pending
+10312,Adidas Ultraboost Light,Shoes,9500.0,1,9500.0,7938,Baguio City,GCash,2023-10-15 12:00:00,Processing,100,0,4.0,Pending
+10313,Under Armour Tech Short Sleeve Tee,Apparel,1595.0,1,1595.0,7561,Iloilo City,GCash,2023-04-14 19:00:00,Delivered,150,200,,Reviewed
+10313,"Nike Challenger Brief-Lined 5"" Shorts",Apparel,1795.0,1,1795.0,7561,Iloilo City,GCash,2023-04-14 19:00:00,Delivered,150,100,4.0,Reviewed
+10314,Coros Pace 3,Electronics,14500.0,2,29000.0,7409,Baguio City,Credit Card,2023-04-06 05:00:00,Processing,50,500,,Reviewed
+10315,Under Armour Tech Short Sleeve Tee,Apparel,1595.0,1,1595.0,8510,Davao City,Cash on Delivery,2023-10-27 08:00:00,Delivered,100,0,5.0,Pending
+10315,Adidas Ultraboost Light,Shoes,9500.0,1,9500.0,8510,Davao City,Cash on Delivery,2023-10-27 08:00:00,Delivered,100,200,4.0,Reviewed
+10316,Adidas Ultraboost Light,Shoes,9500.0,1,9500.0,9889,Metro Manila,Cash on Delivery,2023-02-07 22:00:00,Shipped,150,100,3.0,Reviewed
+10316,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,9889,Metro Manila,Cash on Delivery,2023-02-07 22:00:00,Shipped,150,0,5.0,Reviewed
+10316,Nathan QuickSqueeze Handheld Flask,Gear,1850.0,1,1850.0,9889,Metro Manila,Cash on Delivery,2023-02-07 22:00:00,Shipped,150,500,4.0,Reviewed
+10317,"Nike Challenger Brief-Lined 5"" Shorts",Apparel,1795.0,1,1795.0,9448,Iloilo City,Maya,2023-04-24 06:00:00,Delivered,150,100,4.0,Pending
+10318,FlipBelt Classic Running Belt,Accessories,1950.0,1,1950.0,9345,Baguio City,GCash,2023-08-17 07:00:00,Delivered,150,500,4.0,Reviewed
+10318,Salomon ADV Skin 12 Hydration Vest,Gear,9500.0,1,9500.0,9345,Baguio City,GCash,2023-08-17 07:00:00,Delivered,150,0,4.0,Pending
+10318,Coros Pace 3,Electronics,14500.0,1,14500.0,9345,Baguio City,GCash,2023-08-17 07:00:00,Delivered,150,200,5.0,Reviewed
+10318,Shokz OpenRun Bone Conduction Headphones,Electronics,7490.0,2,14980.0,9345,Baguio City,GCash,2023-08-17 07:00:00,Delivered,150,200,4.0,Pending
+10319,GU Energy Gel (8-Pack),Nutrition,1120.0,1,1120.0,9213,Iloilo City,Maya,2023-06-01 20:00:00,Shipped,50,0,4.0,Pending
+10319,Salomon ADV Skin 12 Hydration Vest,Gear,9500.0,2,19000.0,9213,Iloilo City,Maya,2023-06-01 20:00:00,Shipped,50,500,4.0,Reviewed
+10319,Nike Air Zoom Pegasus 40,Shoes,6895.0,1,6895.0,9213,Iloilo City,Maya,2023-06-01 20:00:00,Shipped,50,0,4.0,Reviewed
+10319,BodyGlide Original Anti-Chafe Balm,Health,650.0,1,650.0,9213,Iloilo City,Maya,2023-06-01 20:00:00,Shipped,50,500,3.0,Reviewed
+10319,FlipBelt Classic Running Belt,Accessories,1950.0,1,1950.0,9213,Iloilo City,Maya,2023-06-01 20:00:00,Shipped,50,0,5.0,Reviewed
+10320,Coros Pace 3,Electronics,14500.0,1,14500.0,5851,Cebu City,Maya,2023-03-20 00:00:00,Processing,50,200,4.0,Pending
+10320,"Nike Challenger Brief-Lined 5"" Shorts",Apparel,1795.0,1,1795.0,5851,Cebu City,Maya,2023-03-20 00:00:00,Processing,50,0,5.0,Reviewed
+10321,ASICS Gel-Kayano 30,Shoes,8990.0,2,17980.0,7063,Iloilo City,GCash,2023-05-13 13:00:00,Processing,100,200,5.0,Pending
+10321,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,7063,Iloilo City,GCash,2023-05-13 13:00:00,Processing,100,200,4.0,Pending
+10322,Nathan QuickSqueeze Handheld Flask,Gear,1850.0,2,3700.0,5518,Iloilo City,GCash,2023-07-03 16:00:00,Processing,50,0,4.0,Pending
+10322,GU Energy Gel (8-Pack),Nutrition,1120.0,1,1120.0,5518,Iloilo City,GCash,2023-07-03 16:00:00,Processing,50,100,5.0,Reviewed
+10322,HOKA Clifton 9,Shoes,8495.0,1,8495.0,5518,Iloilo City,GCash,2023-07-03 16:00:00,Processing,50,100,5.0,Pending
+10322,Nike Air Zoom Pegasus 40,Shoes,6895.0,1,6895.0,5518,Iloilo City,GCash,2023-07-03 16:00:00,Processing,50,200,4.0,Pending
+10323,Nike Air Zoom Pegasus 40,Shoes,6895.0,1,6895.0,9370,Cebu City,Credit Card,2023-10-07 09:00:00,Processing,0,0,4.0,Pending
+10323,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,9370,Cebu City,Credit Card,2023-10-07 09:00:00,Processing,0,100,,Reviewed
+10324,GU Energy Gel (8-Pack),Nutrition,1120.0,2,2240.0,6009,Metro Manila,GCash,2023-10-03 17:00:00,Processing,0,0,4.0,Pending
+10324,Brooks Ghost 15,Shoes,7995.0,1,7995.0,6009,Metro Manila,GCash,2023-10-03 17:00:00,Processing,0,0,5.0,Pending
+10325,Coros Pace 3,Electronics,14500.0,1,14500.0,9198,Cebu City,Credit Card,2023-05-10 06:00:00,Delivered,100,0,5.0,Reviewed
+10325,Shokz OpenRun Bone Conduction Headphones,Electronics,7490.0,1,7490.0,9198,Cebu City,Credit Card,2023-05-10 06:00:00,Delivered,100,500,5.0,Reviewed
+10326,GU Energy Gel (8-Pack),Nutrition,1120.0,1,1120.0,9502,Metro Manila,Cash on Delivery,2023-05-09 03:00:00,Processing,50,0,4.0,Pending
+10326,OOFOS OOriginal Recovery Sandals,Footwear,3495.0,1,3495.0,9502,Metro Manila,Cash on Delivery,2023-05-09 03:00:00,Processing,50,100,4.0,Pending
+10327,Brooks Ghost 15,Shoes,7995.0,2,15990.0,6921,Metro Manila,Cash on Delivery,2023-04-10 10:00:00,Processing,50,200,4.0,Pending
+10328,Nathan QuickSqueeze Handheld Flask,Gear,1850.0,2,3700.0,9785,Cebu City,Cash on Delivery,2023-03-28 00:00:00,Shipped,0,100,4.0,Reviewed
+10328,Salomon ADV Skin 12 Hydration Vest,Gear,9500.0,1,9500.0,9785,Cebu City,Cash on Delivery,2023-03-28 00:00:00,Shipped,0,0,4.0,Pending
+10329,Balega Hidden Comfort Socks,Accessories,895.0,1,895.0,6100,Davao City,Maya,2023-07-03 09:00:00,Shipped,0,200,5.0,Reviewed
+10329,FlipBelt Classic Running Belt,Accessories,1950.0,1,1950.0,6100,Davao City,Maya,2023-07-03 09:00:00,Shipped,0,0,5.0,Reviewed
+10330,Balega Hidden Comfort Socks,Accessories,895.0,1,895.0,5617,Metro Manila,GCash,2023-04-19 01:00:00,Processing,0,500,5.0,Pending
+10330,Brooks Ghost 15,Shoes,7995.0,1,7995.0,5617,Metro Manila,GCash,2023-04-19 01:00:00,Processing,0,500,5.0,Pending
+10330,GU Energy Gel (8-Pack),Nutrition,1120.0,1,1120.0,5617,Metro Manila,GCash,2023-04-19 01:00:00,Processing,0,0,4.0,Pending
+10330,Coros Pace 3,Electronics,14500.0,1,14500.0,5617,Metro Manila,GCash,2023-04-19 01:00:00,Processing,0,200,3.0,Reviewed
+10330,ASICS Gel-Kayano 30,Shoes,8990.0,1,8990.0,5617,Metro Manila,GCash,2023-04-19 01:00:00,Processing,0,500,4.0,Pending
+10331,Brooks Ghost 15,Shoes,7995.0,1,7995.0,9181,Metro Manila,Maya,2023-05-03 19:00:00,Shipped,50,0,3.0,Reviewed
+10331,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,9181,Metro Manila,Maya,2023-05-03 19:00:00,Shipped,50,200,5.0,Reviewed
+10332,Garmin Forerunner 255,Electronics,21995.0,1,21995.0,9639,Iloilo City,Credit Card,2023-07-03 01:00:00,Processing,0,0,4.0,Pending
+10333,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,5514,Davao City,Cash on Delivery,2023-04-16 16:00:00,Delivered,50,100,5.0,Pending
+10334,Goodr OG Sunglasses,Accessories,1995.0,1,1995.0,8724,Metro Manila,GCash,2023-02-22 22:00:00,Processing,150,500,4.0,Pending
+10335,Balega Hidden Comfort Socks,Accessories,895.0,1,895.0,9740,Iloilo City,Credit Card,2023-07-07 18:00:00,Shipped,0,0,,Pending
+10336,Under Armour Tech Short Sleeve Tee,Apparel,1595.0,2,3190.0,8324,Davao City,Cash on Delivery,2023-01-04 16:00:00,Shipped,0,0,4.0,Pending
+10336,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,8324,Davao City,Cash on Delivery,2023-01-04 16:00:00,Shipped,0,0,5.0,Reviewed
+10336,BodyGlide Original Anti-Chafe Balm,Health,650.0,1,650.0,8324,Davao City,Cash on Delivery,2023-01-04 16:00:00,Shipped,0,0,3.0,Pending
+10337,Coros Pace 3,Electronics,14500.0,1,14500.0,6230,Cebu City,Credit Card,2023-04-28 13:00:00,Shipped,50,100,4.0,Reviewed
+10338,Goodr OG Sunglasses,Accessories,1995.0,1,1995.0,9839,Cebu City,Maya,2023-01-23 04:00:00,Delivered,100,500,4.0,Reviewed
+10338,Coros Pace 3,Electronics,14500.0,1,14500.0,9839,Cebu City,Maya,2023-01-23 04:00:00,Delivered,100,0,4.0,Reviewed
+10339,Tailwind Nutrition Endurance Fuel,Nutrition,2200.0,1,2200.0,5458,Cebu City,Cash on Delivery,2023-10-16 20:00:00,Delivered,0,0,3.0,Pending
+10339,Brooks Ghost 15,Shoes,7995.0,2,15990.0,5458,Cebu City,Cash on Delivery,2023-10-16 20:00:00,Delivered,0,0,5.0,Reviewed
+10340,OOFOS OOriginal Recovery Sandals,Footwear,3495.0,1,3495.0,8861,Baguio City,Credit Card,2023-03-15 18:00:00,Delivered,0,0,4.0,Pending
+10340,Shokz OpenRun Bone Conduction Headphones,Electronics,7490.0,1,7490.0,8861,Baguio City,Credit Card,2023-03-15 18:00:00,Delivered,0,0,3.0,Pending
+10341,OOFOS OOriginal Recovery Sandals,Footwear,3495.0,2,6990.0,9886,Iloilo City,GCash,2023-07-17 04:00:00,Delivered,0,0,4.0,Reviewed
+10342,Coros Pace 3,Electronics,14500.0,1,14500.0,8438,Cebu City,GCash,2023-01-20 17:00:00,Delivered,0,500,3.0,Reviewed
+10342,BodyGlide Original Anti-Chafe Balm,Health,650.0,1,650.0,8438,Cebu City,GCash,2023-01-20 17:00:00,Delivered,0,0,5.0,Pending
+10343,Brooks Ghost 15,Shoes,7995.0,1,7995.0,9943,Iloilo City,GCash,2023-09-25 13:00:00,Processing,0,100,4.0,Reviewed
+10344,BodyGlide Original Anti-Chafe Balm,Health,650.0,1,650.0,8949,Baguio City,Cash on Delivery,2023-08-06 04:00:00,Processing,50,100,5.0,Pending
+10344,"Nike Challenger Brief-Lined 5"" Shorts",Apparel,1795.0,1,1795.0,8949,Baguio City,Cash on Delivery,2023-08-06 04:00:00,Processing,50,0,4.0,Reviewed
+10344,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,8949,Baguio City,Cash on Delivery,2023-08-06 04:00:00,Processing,50,100,4.0,Pending
+10345,Balega Hidden Comfort Socks,Accessories,895.0,1,895.0,6548,Metro Manila,GCash,2023-09-24 00:00:00,Processing,50,200,,Reviewed
+10346,Nathan QuickSqueeze Handheld Flask,Gear,1850.0,1,1850.0,6267,Baguio City,Cash on Delivery,2023-10-17 11:00:00,Shipped,0,500,4.0,Pending
+10346,GU Energy Gel (8-Pack),Nutrition,1120.0,1,1120.0,6267,Baguio City,Cash on Delivery,2023-10-17 11:00:00,Shipped,0,200,5.0,Reviewed
+10346,HOKA Clifton 9,Shoes,8495.0,1,8495.0,6267,Baguio City,Cash on Delivery,2023-10-17 11:00:00,Shipped,0,200,4.0,Pending
+10347,Garmin Forerunner 255,Electronics,21995.0,1,21995.0,8032,Iloilo City,Maya,2023-10-23 11:00:00,Shipped,150,200,5.0,Reviewed
+10348,HOKA Clifton 9,Shoes,8495.0,1,8495.0,5821,Cebu City,Maya,2023-03-24 12:00:00,Shipped,50,0,4.0,Reviewed
+10348,OOFOS OOriginal Recovery Sandals,Footwear,3495.0,1,3495.0,5821,Cebu City,Maya,2023-03-24 12:00:00,Shipped,50,0,,Pending
+10348,Garmin Forerunner 255,Electronics,21995.0,1,21995.0,5821,Cebu City,Maya,2023-03-24 12:00:00,Shipped,50,500,5.0,Pending
+10349,ASICS Gel-Kayano 30,Shoes,8990.0,1,8990.0,6816,Davao City,GCash,2023-07-16 12:00:00,Processing,50,500,4.0,Pending
+10349,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,6816,Davao City,GCash,2023-07-16 12:00:00,Processing,50,500,5.0,Reviewed
+10350,Garmin Forerunner 255,Electronics,21995.0,1,21995.0,6652,Iloilo City,Cash on Delivery,2023-09-19 16:00:00,Delivered,50,0,5.0,Reviewed
+10350,OOFOS OOriginal Recovery Sandals,Footwear,3495.0,1,3495.0,6652,Iloilo City,Cash on Delivery,2023-09-19 16:00:00,Delivered,50,0,,Pending
+10350,Nike Air Zoom Pegasus 40,Shoes,6895.0,1,6895.0,6652,Iloilo City,Cash on Delivery,2023-09-19 16:00:00,Delivered,50,0,4.0,Reviewed
+10351,Garmin Forerunner 255,Electronics,21995.0,1,21995.0,8237,Baguio City,Credit Card,2023-02-05 02:00:00,Processing,50,500,5.0,Pending
+10351,Shokz OpenRun Bone Conduction Headphones,Electronics,7490.0,1,7490.0,8237,Baguio City,Credit Card,2023-02-05 02:00:00,Processing,50,500,3.0,Pending
+10351,Balega Hidden Comfort Socks,Accessories,895.0,1,895.0,8237,Baguio City,Credit Card,2023-02-05 02:00:00,Processing,50,100,4.0,Pending
+10351,Under Armour Tech Short Sleeve Tee,Apparel,1595.0,1,1595.0,8237,Baguio City,Credit Card,2023-02-05 02:00:00,Processing,50,0,,Reviewed
+10351,FlipBelt Classic Running Belt,Accessories,1950.0,1,1950.0,8237,Baguio City,Credit Card,2023-02-05 02:00:00,Processing,50,200,4.0,Pending
+10352,Tailwind Nutrition Endurance Fuel,Nutrition,2200.0,1,2200.0,7138,Cebu City,Maya,2023-10-14 02:00:00,Processing,50,500,5.0,Pending
+10352,Nike Air Zoom Pegasus 40,Shoes,6895.0,2,13790.0,7138,Cebu City,Maya,2023-10-14 02:00:00,Processing,50,100,4.0,Reviewed
+10353,BodyGlide Original Anti-Chafe Balm,Health,650.0,1,650.0,7111,Iloilo City,Cash on Delivery,2023-07-13 18:00:00,Processing,0,200,3.0,Reviewed
+10354,Nathan QuickSqueeze Handheld Flask,Gear,1850.0,1,1850.0,8774,Iloilo City,GCash,2023-05-13 02:00:00,Shipped,50,200,3.0,Reviewed
+10354,OOFOS OOriginal Recovery Sandals,Footwear,3495.0,1,3495.0,8774,Iloilo City,GCash,2023-05-13 02:00:00,Shipped,50,0,3.0,Pending
+10355,"Nike Challenger Brief-Lined 5"" Shorts",Apparel,1795.0,1,1795.0,5079,Davao City,Credit Card,2023-07-24 21:00:00,Shipped,50,100,5.0,Reviewed
+10355,FlipBelt Classic Running Belt,Accessories,1950.0,1,1950.0,5079,Davao City,Credit Card,2023-07-24 21:00:00,Shipped,50,500,3.0,Reviewed
+10355,BodyGlide Original Anti-Chafe Balm,Health,650.0,1,650.0,5079,Davao City,Credit Card,2023-07-24 21:00:00,Shipped,50,200,5.0,Pending
+10355,GU Energy Gel (8-Pack),Nutrition,1120.0,1,1120.0,5079,Davao City,Credit Card,2023-07-24 21:00:00,Shipped,50,100,4.0,Reviewed
+10356,Tailwind Nutrition Endurance Fuel,Nutrition,2200.0,2,4400.0,6497,Cebu City,Maya,2023-05-01 23:00:00,Processing,100,0,,Pending
+10356,Balega Hidden Comfort Socks,Accessories,895.0,1,895.0,6497,Cebu City,Maya,2023-05-01 23:00:00,Processing,100,0,4.0,Reviewed
+10357,Coros Pace 3,Electronics,14500.0,1,14500.0,7045,Iloilo City,Cash on Delivery,2023-03-03 02:00:00,Delivered,50,200,3.0,Reviewed
+10358,GU Energy Gel (8-Pack),Nutrition,1120.0,1,1120.0,5346,Baguio City,Cash on Delivery,2023-09-10 18:00:00,Processing,150,100,3.0,Pending
+10359,Garmin Forerunner 255,Electronics,21995.0,1,21995.0,8259,Cebu City,Credit Card,2023-09-02 17:00:00,Delivered,0,0,5.0,Pending
+10359,BodyGlide Original Anti-Chafe Balm,Health,650.0,1,650.0,8259,Cebu City,Credit Card,2023-09-02 17:00:00,Delivered,0,200,4.0,Reviewed
+10359,Balega Hidden Comfort Socks,Accessories,895.0,1,895.0,8259,Cebu City,Credit Card,2023-09-02 17:00:00,Delivered,0,200,5.0,Reviewed
+10360,BodyGlide Original Anti-Chafe Balm,Health,650.0,1,650.0,5096,Cebu City,Maya,2023-06-16 11:00:00,Processing,50,500,5.0,Pending
+10360,OOFOS OOriginal Recovery Sandals,Footwear,3495.0,1,3495.0,5096,Cebu City,Maya,2023-06-16 11:00:00,Processing,50,0,4.0,Pending
+10360,Nathan QuickSqueeze Handheld Flask,Gear,1850.0,1,1850.0,5096,Cebu City,Maya,2023-06-16 11:00:00,Processing,50,0,4.0,Pending
+10360,Nike Air Zoom Pegasus 40,Shoes,6895.0,1,6895.0,5096,Cebu City,Maya,2023-06-16 11:00:00,Processing,50,200,,Pending
+10361,FlipBelt Classic Running Belt,Accessories,1950.0,1,1950.0,6506,Baguio City,Maya,2023-07-10 11:00:00,Delivered,0,200,3.0,Pending
+10362,OOFOS OOriginal Recovery Sandals,Footwear,3495.0,1,3495.0,6473,Iloilo City,Credit Card,2023-02-21 23:00:00,Processing,100,100,5.0,Reviewed
+10363,GU Energy Gel (8-Pack),Nutrition,1120.0,1,1120.0,8120,Cebu City,Credit Card,2023-08-31 00:00:00,Processing,100,0,4.0,Pending
+10363,"Nike Challenger Brief-Lined 5"" Shorts",Apparel,1795.0,1,1795.0,8120,Cebu City,Credit Card,2023-08-31 00:00:00,Processing,100,200,5.0,Reviewed
+10364,BodyGlide Original Anti-Chafe Balm,Health,650.0,1,650.0,9374,Davao City,Maya,2023-10-15 18:00:00,Shipped,150,0,4.0,Pending
+10365,HOKA Clifton 9,Shoes,8495.0,1,8495.0,6765,Davao City,Maya,2023-08-19 23:00:00,Processing,50,100,,Pending
+10365,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,6765,Davao City,Maya,2023-08-19 23:00:00,Processing,50,100,4.0,Pending
+10365,Adidas Ultraboost Light,Shoes,9500.0,1,9500.0,6765,Davao City,Maya,2023-08-19 23:00:00,Processing,50,500,4.0,Pending
+10366,FlipBelt Classic Running Belt,Accessories,1950.0,2,3900.0,7876,Iloilo City,Credit Card,2023-05-26 11:00:00,Processing,100,100,4.0,Pending
+10366,Nike Air Zoom Pegasus 40,Shoes,6895.0,1,6895.0,7876,Iloilo City,Credit Card,2023-05-26 11:00:00,Processing,100,200,5.0,Reviewed
+10366,"Nike Challenger Brief-Lined 5"" Shorts",Apparel,1795.0,1,1795.0,7876,Iloilo City,Credit Card,2023-05-26 11:00:00,Processing,100,200,5.0,Pending
+10366,HOKA Clifton 9,Shoes,8495.0,1,8495.0,7876,Iloilo City,Credit Card,2023-05-26 11:00:00,Processing,100,200,4.0,Reviewed
+10367,Garmin Forerunner 255,Electronics,21995.0,1,21995.0,8455,Iloilo City,Maya,2023-03-24 10:00:00,Delivered,50,0,5.0,Pending
+10367,Nathan QuickSqueeze Handheld Flask,Gear,1850.0,1,1850.0,8455,Iloilo City,Maya,2023-03-24 10:00:00,Delivered,50,100,5.0,Pending
+10368,Balega Hidden Comfort Socks,Accessories,895.0,1,895.0,9959,Baguio City,Cash on Delivery,2023-10-28 16:00:00,Shipped,150,200,4.0,Pending
+10369,Garmin Forerunner 255,Electronics,21995.0,1,21995.0,5189,Cebu City,Credit Card,2023-02-10 06:00:00,Processing,150,0,5.0,Pending
+10369,Shokz OpenRun Bone Conduction Headphones,Electronics,7490.0,1,7490.0,5189,Cebu City,Credit Card,2023-02-10 06:00:00,Processing,150,0,5.0,Reviewed
+10370,ASICS Gel-Kayano 30,Shoes,8990.0,1,8990.0,9492,Metro Manila,GCash,2023-02-23 08:00:00,Shipped,50,500,3.0,Reviewed
+10370,Goodr OG Sunglasses,Accessories,1995.0,1,1995.0,9492,Metro Manila,GCash,2023-02-23 08:00:00,Shipped,50,0,3.0,Pending
+10371,Salomon ADV Skin 12 Hydration Vest,Gear,9500.0,1,9500.0,7327,Baguio City,Credit Card,2023-01-15 01:00:00,Delivered,100,100,4.0,Pending
+10371,GU Energy Gel (8-Pack),Nutrition,1120.0,1,1120.0,7327,Baguio City,Credit Card,2023-01-15 01:00:00,Delivered,100,200,5.0,Pending
+10372,GU Energy Gel (8-Pack),Nutrition,1120.0,1,1120.0,6106,Iloilo City,Credit Card,2023-10-16 13:00:00,Processing,0,500,5.0,Pending
+10372,Balega Hidden Comfort Socks,Accessories,895.0,1,895.0,6106,Iloilo City,Credit Card,2023-10-16 13:00:00,Processing,0,100,4.0,Pending
+10372,OOFOS OOriginal Recovery Sandals,Footwear,3495.0,1,3495.0,6106,Iloilo City,Credit Card,2023-10-16 13:00:00,Processing,0,500,4.0,Reviewed
+10373,ASICS Gel-Kayano 30,Shoes,8990.0,1,8990.0,8619,Davao City,Cash on Delivery,2023-03-21 09:00:00,Shipped,150,0,5.0,Reviewed
+10374,BodyGlide Original Anti-Chafe Balm,Health,650.0,2,1300.0,7349,Baguio City,GCash,2023-09-02 09:00:00,Processing,0,0,,Pending
+10374,Brooks Ghost 15,Shoes,7995.0,1,7995.0,7349,Baguio City,GCash,2023-09-02 09:00:00,Processing,0,100,4.0,Reviewed
+10374,FlipBelt Classic Running Belt,Accessories,1950.0,1,1950.0,7349,Baguio City,GCash,2023-09-02 09:00:00,Processing,0,0,5.0,Pending
+10375,Coros Pace 3,Electronics,14500.0,1,14500.0,8372,Iloilo City,Maya,2023-03-25 22:00:00,Shipped,100,200,3.0,Pending
+10376,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,5648,Baguio City,Credit Card,2023-05-26 20:00:00,Processing,150,500,5.0,Pending
+10376,Balega Hidden Comfort Socks,Accessories,895.0,1,895.0,5648,Baguio City,Credit Card,2023-05-26 20:00:00,Processing,150,200,4.0,Reviewed
+10377,ASICS Gel-Kayano 30,Shoes,8990.0,1,8990.0,7372,Metro Manila,Maya,2023-05-20 22:00:00,Processing,0,500,4.0,Pending
+10377,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,7372,Metro Manila,Maya,2023-05-20 22:00:00,Processing,0,0,4.0,Pending
+10378,Nike Air Zoom Pegasus 40,Shoes,6895.0,1,6895.0,9382,Metro Manila,Credit Card,2023-05-18 04:00:00,Delivered,150,200,,Reviewed
+10378,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,9382,Metro Manila,Credit Card,2023-05-18 04:00:00,Delivered,150,0,4.0,Reviewed
+10379,Brooks Ghost 15,Shoes,7995.0,1,7995.0,8442,Davao City,Maya,2023-01-17 10:00:00,Shipped,0,0,4.0,Reviewed
+10379,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,8442,Davao City,Maya,2023-01-17 10:00:00,Shipped,0,0,4.0,Pending
+10379,Coros Pace 3,Electronics,14500.0,1,14500.0,8442,Davao City,Maya,2023-01-17 10:00:00,Shipped,0,200,4.0,Reviewed
+10379,Nathan QuickSqueeze Handheld Flask,Gear,1850.0,1,1850.0,8442,Davao City,Maya,2023-01-17 10:00:00,Shipped,0,500,5.0,Pending
+10380,Garmin Forerunner 255,Electronics,21995.0,1,21995.0,7048,Baguio City,GCash,2023-07-17 14:00:00,Delivered,100,0,5.0,Reviewed
+10380,Shokz OpenRun Bone Conduction Headphones,Electronics,7490.0,1,7490.0,7048,Baguio City,GCash,2023-07-17 14:00:00,Delivered,100,0,4.0,Pending
+10381,HOKA Clifton 9,Shoes,8495.0,1,8495.0,6707,Baguio City,Maya,2023-06-15 05:00:00,Processing,150,0,5.0,Reviewed
+10381,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,6707,Baguio City,Maya,2023-06-15 05:00:00,Processing,150,100,,Pending
+10382,Salomon ADV Skin 12 Hydration Vest,Gear,9500.0,1,9500.0,6627,Davao City,GCash,2023-02-27 07:00:00,Processing,100,200,4.0,Pending
+10383,Nike Air Zoom Pegasus 40,Shoes,6895.0,1,6895.0,6371,Davao City,GCash,2023-01-05 01:00:00,Shipped,100,500,,Pending
+10384,Shokz OpenRun Bone Conduction Headphones,Electronics,7490.0,1,7490.0,6269,Davao City,GCash,2023-09-13 02:00:00,Delivered,100,500,5.0,Pending
+10385,Adidas Ultraboost Light,Shoes,9500.0,1,9500.0,6260,Iloilo City,GCash,2023-04-30 10:00:00,Delivered,0,500,4.0,Pending
+10385,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,6260,Iloilo City,GCash,2023-04-30 10:00:00,Delivered,0,200,4.0,Reviewed
+10386,Nike Air Zoom Pegasus 40,Shoes,6895.0,2,13790.0,8094,Davao City,Credit Card,2023-09-06 22:00:00,Shipped,50,200,4.0,Pending
+10387,GU Energy Gel (8-Pack),Nutrition,1120.0,1,1120.0,6554,Iloilo City,Credit Card,2023-06-15 23:00:00,Processing,150,200,4.0,Pending
+10387,Goodr OG Sunglasses,Accessories,1995.0,1,1995.0,6554,Iloilo City,Credit Card,2023-06-15 23:00:00,Processing,150,500,4.0,Reviewed
+10388,ASICS Gel-Kayano 30,Shoes,8990.0,2,17980.0,8681,Davao City,Cash on Delivery,2023-08-21 00:00:00,Processing,150,500,5.0,Pending
+10388,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,2,2390.0,8681,Davao City,Cash on Delivery,2023-08-21 00:00:00,Processing,150,0,4.0,Reviewed
+10389,Shokz OpenRun Bone Conduction Headphones,Electronics,7490.0,1,7490.0,7627,Metro Manila,Maya,2023-10-10 04:00:00,Delivered,0,500,5.0,Pending
+10389,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,2,2390.0,7627,Metro Manila,Maya,2023-10-10 04:00:00,Delivered,0,100,4.0,Pending
+10390,Nathan QuickSqueeze Handheld Flask,Gear,1850.0,1,1850.0,9286,Metro Manila,GCash,2023-01-17 06:00:00,Delivered,100,0,5.0,Pending
+10390,GU Energy Gel (8-Pack),Nutrition,1120.0,1,1120.0,9286,Metro Manila,GCash,2023-01-17 06:00:00,Delivered,100,0,,Reviewed
+10391,Adidas Ultraboost Light,Shoes,9500.0,1,9500.0,8183,Baguio City,Cash on Delivery,2023-04-24 19:00:00,Delivered,150,0,4.0,Reviewed
+10391,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,8183,Baguio City,Cash on Delivery,2023-04-24 19:00:00,Delivered,150,0,4.0,Pending
+10392,ASICS Gel-Kayano 30,Shoes,8990.0,1,8990.0,8834,Metro Manila,Cash on Delivery,2023-07-08 22:00:00,Processing,0,0,5.0,Pending
+10393,BodyGlide Original Anti-Chafe Balm,Health,650.0,1,650.0,5576,Davao City,GCash,2023-02-21 23:00:00,Delivered,50,0,3.0,Pending
+10393,Adidas Ultraboost Light,Shoes,9500.0,1,9500.0,5576,Davao City,GCash,2023-02-21 23:00:00,Delivered,50,0,4.0,Reviewed
+10394,BodyGlide Original Anti-Chafe Balm,Health,650.0,1,650.0,6465,Iloilo City,Maya,2023-10-23 11:00:00,Processing,50,200,4.0,Pending
+10394,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,6465,Iloilo City,Maya,2023-10-23 11:00:00,Processing,50,0,4.0,Reviewed
+10394,Tailwind Nutrition Endurance Fuel,Nutrition,2200.0,1,2200.0,6465,Iloilo City,Maya,2023-10-23 11:00:00,Processing,50,0,,Pending
+10395,BodyGlide Original Anti-Chafe Balm,Health,650.0,1,650.0,9373,Iloilo City,Maya,2023-10-09 10:00:00,Shipped,150,100,4.0,Pending
+10395,Nathan QuickSqueeze Handheld Flask,Gear,1850.0,1,1850.0,9373,Iloilo City,Maya,2023-10-09 10:00:00,Shipped,150,200,5.0,Pending
+10395,Garmin Forerunner 255,Electronics,21995.0,1,21995.0,9373,Iloilo City,Maya,2023-10-09 10:00:00,Shipped,150,500,4.0,Reviewed
+10396,Tailwind Nutrition Endurance Fuel,Nutrition,2200.0,1,2200.0,6752,Baguio City,Cash on Delivery,2023-08-18 12:00:00,Shipped,0,0,4.0,Reviewed
+10396,GU Energy Gel (8-Pack),Nutrition,1120.0,1,1120.0,6752,Baguio City,Cash on Delivery,2023-08-18 12:00:00,Shipped,0,100,5.0,Reviewed
+10397,BodyGlide Original Anti-Chafe Balm,Health,650.0,1,650.0,6106,Davao City,GCash,2023-04-20 10:00:00,Shipped,100,0,4.0,Pending
+10398,GU Energy Gel (8-Pack),Nutrition,1120.0,1,1120.0,9557,Iloilo City,Credit Card,2023-08-24 11:00:00,Delivered,50,0,5.0,Reviewed
+10398,BodyGlide Original Anti-Chafe Balm,Health,650.0,1,650.0,9557,Iloilo City,Credit Card,2023-08-24 11:00:00,Delivered,50,100,3.0,Pending
+10399,Tailwind Nutrition Endurance Fuel,Nutrition,2200.0,1,2200.0,5752,Iloilo City,Maya,2023-02-09 23:00:00,Processing,100,100,4.0,Pending
+10399,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,5752,Iloilo City,Maya,2023-02-09 23:00:00,Processing,100,0,,Pending
+10399,Balega Hidden Comfort Socks,Accessories,895.0,1,895.0,5752,Iloilo City,Maya,2023-02-09 23:00:00,Processing,100,500,4.0,Reviewed
+10399,Salomon ADV Skin 12 Hydration Vest,Gear,9500.0,1,9500.0,5752,Iloilo City,Maya,2023-02-09 23:00:00,Processing,100,500,4.0,Pending
+10400,Adidas Ultraboost Light,Shoes,9500.0,1,9500.0,5458,Davao City,Cash on Delivery,2023-03-03 07:00:00,Shipped,0,500,4.0,Reviewed
+10400,Tailwind Nutrition Endurance Fuel,Nutrition,2200.0,1,2200.0,5458,Davao City,Cash on Delivery,2023-03-03 07:00:00,Shipped,0,200,5.0,Reviewed
+10400,Under Armour Tech Short Sleeve Tee,Apparel,1595.0,1,1595.0,5458,Davao City,Cash on Delivery,2023-03-03 07:00:00,Shipped,0,100,4.0,Reviewed
+10400,ASICS Gel-Kayano 30,Shoes,8990.0,1,8990.0,5458,Davao City,Cash on Delivery,2023-03-03 07:00:00,Shipped,0,100,,Reviewed
+10401,Nathan QuickSqueeze Handheld Flask,Gear,1850.0,1,1850.0,9115,Cebu City,Credit Card,2023-08-17 19:00:00,Delivered,0,500,4.0,Reviewed
+10402,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,8230,Cebu City,Credit Card,2023-09-01 18:00:00,Shipped,50,0,5.0,Pending
+10402,"Nike Challenger Brief-Lined 5"" Shorts",Apparel,1795.0,1,1795.0,8230,Cebu City,Credit Card,2023-09-01 18:00:00,Shipped,50,100,4.0,Reviewed
+10402,Salomon ADV Skin 12 Hydration Vest,Gear,9500.0,2,19000.0,8230,Cebu City,Credit Card,2023-09-01 18:00:00,Shipped,50,200,5.0,Pending
+10403,Brooks Ghost 15,Shoes,7995.0,1,7995.0,6104,Baguio City,Credit Card,2023-10-20 06:00:00,Shipped,0,500,5.0,Reviewed
+10404,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,7181,Baguio City,Cash on Delivery,2023-02-27 21:00:00,Processing,50,200,,Pending
+10404,ASICS Gel-Kayano 30,Shoes,8990.0,1,8990.0,7181,Baguio City,Cash on Delivery,2023-02-27 21:00:00,Processing,50,100,,Pending
+10405,Coros Pace 3,Electronics,14500.0,1,14500.0,7627,Davao City,GCash,2023-06-29 19:00:00,Shipped,100,200,4.0,Reviewed
+10406,OOFOS OOriginal Recovery Sandals,Footwear,3495.0,1,3495.0,8062,Cebu City,GCash,2023-05-05 19:00:00,Delivered,50,0,4.0,Pending
+10406,Adidas Ultraboost Light,Shoes,9500.0,1,9500.0,8062,Cebu City,GCash,2023-05-05 19:00:00,Delivered,50,0,5.0,Pending
+10406,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,8062,Cebu City,GCash,2023-05-05 19:00:00,Delivered,50,0,3.0,Pending
+10406,Coros Pace 3,Electronics,14500.0,1,14500.0,8062,Cebu City,GCash,2023-05-05 19:00:00,Delivered,50,200,5.0,Pending
+10407,Nike Air Zoom Pegasus 40,Shoes,6895.0,1,6895.0,7118,Iloilo City,Maya,2023-01-10 12:00:00,Processing,100,500,,Reviewed
+10407,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,7118,Iloilo City,Maya,2023-01-10 12:00:00,Processing,100,100,5.0,Reviewed
+10407,GU Energy Gel (8-Pack),Nutrition,1120.0,1,1120.0,7118,Iloilo City,Maya,2023-01-10 12:00:00,Processing,100,0,3.0,Pending
+10407,Coros Pace 3,Electronics,14500.0,1,14500.0,7118,Iloilo City,Maya,2023-01-10 12:00:00,Processing,100,0,4.0,Pending
+10407,BodyGlide Original Anti-Chafe Balm,Health,650.0,1,650.0,7118,Iloilo City,Maya,2023-01-10 12:00:00,Processing,100,0,5.0,Pending
+10408,Nike Air Zoom Pegasus 40,Shoes,6895.0,1,6895.0,7222,Davao City,GCash,2023-07-17 07:00:00,Delivered,150,200,3.0,Reviewed
+10408,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,7222,Davao City,GCash,2023-07-17 07:00:00,Delivered,150,100,5.0,Pending
+10409,Shokz OpenRun Bone Conduction Headphones,Electronics,7490.0,1,7490.0,9354,Metro Manila,Credit Card,2023-10-15 22:00:00,Delivered,0,0,3.0,Reviewed
+10410,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,7497,Davao City,Maya,2023-01-10 11:00:00,Shipped,100,100,4.0,Pending
+10410,BodyGlide Original Anti-Chafe Balm,Health,650.0,1,650.0,7497,Davao City,Maya,2023-01-10 11:00:00,Shipped,100,100,3.0,Reviewed
+10411,BodyGlide Original Anti-Chafe Balm,Health,650.0,1,650.0,5507,Davao City,Maya,2023-04-26 04:00:00,Delivered,150,100,4.0,Pending
+10411,Balega Hidden Comfort Socks,Accessories,895.0,1,895.0,5507,Davao City,Maya,2023-04-26 04:00:00,Delivered,150,0,4.0,Reviewed
+10412,Under Armour Tech Short Sleeve Tee,Apparel,1595.0,1,1595.0,9265,Iloilo City,Credit Card,2023-10-21 04:00:00,Shipped,100,200,3.0,Pending
+10413,Shokz OpenRun Bone Conduction Headphones,Electronics,7490.0,1,7490.0,7697,Baguio City,Credit Card,2023-10-25 17:00:00,Delivered,100,0,4.0,Reviewed
+10414,Salomon ADV Skin 12 Hydration Vest,Gear,9500.0,1,9500.0,6107,Baguio City,Credit Card,2023-06-12 02:00:00,Processing,100,500,5.0,Reviewed
+10414,BodyGlide Original Anti-Chafe Balm,Health,650.0,1,650.0,6107,Baguio City,Credit Card,2023-06-12 02:00:00,Processing,100,0,5.0,Pending
+10415,Brooks Ghost 15,Shoes,7995.0,1,7995.0,8391,Baguio City,Cash on Delivery,2023-03-19 06:00:00,Shipped,150,0,4.0,Reviewed
+10415,Nathan QuickSqueeze Handheld Flask,Gear,1850.0,2,3700.0,8391,Baguio City,Cash on Delivery,2023-03-19 06:00:00,Shipped,150,0,5.0,Reviewed
+10416,Shokz OpenRun Bone Conduction Headphones,Electronics,7490.0,1,7490.0,7186,Iloilo City,Credit Card,2023-04-29 21:00:00,Processing,100,0,4.0,Pending
+10417,ASICS Gel-Kayano 30,Shoes,8990.0,1,8990.0,8904,Cebu City,Maya,2023-04-05 12:00:00,Processing,150,200,4.0,Pending
+10417,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,8904,Cebu City,Maya,2023-04-05 12:00:00,Processing,150,0,4.0,Reviewed
+10418,Coros Pace 3,Electronics,14500.0,1,14500.0,5122,Davao City,Maya,2023-04-15 02:00:00,Delivered,100,0,5.0,Pending
+10418,Shokz OpenRun Bone Conduction Headphones,Electronics,7490.0,1,7490.0,5122,Davao City,Maya,2023-04-15 02:00:00,Delivered,100,500,5.0,Pending
+10418,"Nike Challenger Brief-Lined 5"" Shorts",Apparel,1795.0,1,1795.0,5122,Davao City,Maya,2023-04-15 02:00:00,Delivered,100,100,4.0,Pending
+10419,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,8502,Baguio City,GCash,2023-06-10 12:00:00,Processing,0,500,5.0,Reviewed
+10420,BodyGlide Original Anti-Chafe Balm,Health,650.0,1,650.0,7012,Iloilo City,Maya,2023-10-13 12:00:00,Processing,50,500,5.0,Reviewed
+10420,HOKA Clifton 9,Shoes,8495.0,1,8495.0,7012,Iloilo City,Maya,2023-10-13 12:00:00,Processing,50,0,5.0,Pending
+10420,OOFOS OOriginal Recovery Sandals,Footwear,3495.0,1,3495.0,7012,Iloilo City,Maya,2023-10-13 12:00:00,Processing,50,200,,Pending
+10420,Adidas Ultraboost Light,Shoes,9500.0,1,9500.0,7012,Iloilo City,Maya,2023-10-13 12:00:00,Processing,50,100,5.0,Pending
+10421,OOFOS OOriginal Recovery Sandals,Footwear,3495.0,1,3495.0,6363,Baguio City,Cash on Delivery,2023-09-22 04:00:00,Processing,50,200,4.0,Pending
+10422,ASICS Gel-Kayano 30,Shoes,8990.0,1,8990.0,9476,Cebu City,Maya,2023-08-19 00:00:00,Shipped,150,0,4.0,Pending
+10422,HOKA Clifton 9,Shoes,8495.0,2,16990.0,9476,Cebu City,Maya,2023-08-19 00:00:00,Shipped,150,500,4.0,Reviewed
+10422,Garmin Forerunner 255,Electronics,21995.0,1,21995.0,9476,Cebu City,Maya,2023-08-19 00:00:00,Shipped,150,200,4.0,Reviewed
+10422,Tailwind Nutrition Endurance Fuel,Nutrition,2200.0,1,2200.0,9476,Cebu City,Maya,2023-08-19 00:00:00,Shipped,150,100,,Pending
+10423,Garmin Forerunner 255,Electronics,21995.0,1,21995.0,6012,Metro Manila,GCash,2023-07-05 02:00:00,Processing,0,500,4.0,Pending
+10424,BodyGlide Original Anti-Chafe Balm,Health,650.0,1,650.0,9508,Baguio City,GCash,2023-10-17 21:00:00,Delivered,150,0,3.0,Reviewed
+10424,Shokz OpenRun Bone Conduction Headphones,Electronics,7490.0,1,7490.0,9508,Baguio City,GCash,2023-10-17 21:00:00,Delivered,150,0,,Reviewed
+10424,Garmin Forerunner 255,Electronics,21995.0,1,21995.0,9508,Baguio City,GCash,2023-10-17 21:00:00,Delivered,150,0,4.0,Pending
+10424,Under Armour Tech Short Sleeve Tee,Apparel,1595.0,1,1595.0,9508,Baguio City,GCash,2023-10-17 21:00:00,Delivered,150,100,4.0,Pending
+10425,OOFOS OOriginal Recovery Sandals,Footwear,3495.0,1,3495.0,6077,Cebu City,GCash,2023-01-07 14:00:00,Processing,150,200,5.0,Pending
+10425,Salomon ADV Skin 12 Hydration Vest,Gear,9500.0,1,9500.0,6077,Cebu City,GCash,2023-01-07 14:00:00,Processing,150,500,4.0,Reviewed
+10425,Garmin Forerunner 255,Electronics,21995.0,1,21995.0,6077,Cebu City,GCash,2023-01-07 14:00:00,Processing,150,500,4.0,Pending
+10425,HOKA Clifton 9,Shoes,8495.0,1,8495.0,6077,Cebu City,GCash,2023-01-07 14:00:00,Processing,150,0,4.0,Reviewed
+10426,Tailwind Nutrition Endurance Fuel,Nutrition,2200.0,1,2200.0,8717,Baguio City,Maya,2023-05-06 17:00:00,Delivered,50,100,4.0,Reviewed
+10426,Goodr OG Sunglasses,Accessories,1995.0,1,1995.0,8717,Baguio City,Maya,2023-05-06 17:00:00,Delivered,50,0,4.0,Reviewed
+10427,Brooks Ghost 15,Shoes,7995.0,1,7995.0,6190,Metro Manila,Cash on Delivery,2023-01-26 03:00:00,Shipped,50,200,5.0,Reviewed
+10427,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,6190,Metro Manila,Cash on Delivery,2023-01-26 03:00:00,Shipped,50,0,3.0,Pending
+10427,FlipBelt Classic Running Belt,Accessories,1950.0,1,1950.0,6190,Metro Manila,Cash on Delivery,2023-01-26 03:00:00,Shipped,50,500,4.0,Reviewed
+10427,Adidas Ultraboost Light,Shoes,9500.0,1,9500.0,6190,Metro Manila,Cash on Delivery,2023-01-26 03:00:00,Shipped,50,200,5.0,Pending
+10428,Adidas Ultraboost Light,Shoes,9500.0,1,9500.0,5762,Davao City,Cash on Delivery,2023-02-04 13:00:00,Shipped,0,500,,Reviewed
+10429,Salomon ADV Skin 12 Hydration Vest,Gear,9500.0,1,9500.0,7696,Iloilo City,Maya,2023-04-18 19:00:00,Processing,100,0,4.0,Reviewed
+10429,GU Energy Gel (8-Pack),Nutrition,1120.0,1,1120.0,7696,Iloilo City,Maya,2023-04-18 19:00:00,Processing,100,500,5.0,Reviewed
+10429,HOKA Clifton 9,Shoes,8495.0,1,8495.0,7696,Iloilo City,Maya,2023-04-18 19:00:00,Processing,100,200,4.0,Pending
+10429,Balega Hidden Comfort Socks,Accessories,895.0,2,1790.0,7696,Iloilo City,Maya,2023-04-18 19:00:00,Processing,100,200,5.0,Pending
+10430,Balega Hidden Comfort Socks,Accessories,895.0,1,895.0,7898,Cebu City,Maya,2023-09-10 05:00:00,Processing,0,500,5.0,Reviewed
+10430,BodyGlide Original Anti-Chafe Balm,Health,650.0,1,650.0,7898,Cebu City,Maya,2023-09-10 05:00:00,Processing,0,100,4.0,Reviewed
+10430,Tailwind Nutrition Endurance Fuel,Nutrition,2200.0,1,2200.0,7898,Cebu City,Maya,2023-09-10 05:00:00,Processing,0,0,4.0,Reviewed
+10431,Nike Air Zoom Pegasus 40,Shoes,6895.0,1,6895.0,6698,Iloilo City,Maya,2023-06-20 11:00:00,Shipped,50,500,3.0,Reviewed
+10431,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,6698,Iloilo City,Maya,2023-06-20 11:00:00,Shipped,50,0,5.0,Reviewed
+10431,HOKA Clifton 9,Shoes,8495.0,1,8495.0,6698,Iloilo City,Maya,2023-06-20 11:00:00,Shipped,50,100,5.0,Pending
+10432,ASICS Gel-Kayano 30,Shoes,8990.0,1,8990.0,9505,Davao City,GCash,2023-06-24 12:00:00,Delivered,150,500,5.0,Reviewed
+10432,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,9505,Davao City,GCash,2023-06-24 12:00:00,Delivered,150,0,4.0,Reviewed
+10432,BodyGlide Original Anti-Chafe Balm,Health,650.0,1,650.0,9505,Davao City,GCash,2023-06-24 12:00:00,Delivered,150,100,5.0,Pending
+10433,Goodr OG Sunglasses,Accessories,1995.0,1,1995.0,7745,Baguio City,Maya,2023-09-24 09:00:00,Processing,50,500,5.0,Pending
+10433,Adidas Ultraboost Light,Shoes,9500.0,1,9500.0,7745,Baguio City,Maya,2023-09-24 09:00:00,Processing,50,500,5.0,Reviewed
+10433,Brooks Ghost 15,Shoes,7995.0,1,7995.0,7745,Baguio City,Maya,2023-09-24 09:00:00,Processing,50,0,4.0,Pending
+10433,OOFOS OOriginal Recovery Sandals,Footwear,3495.0,1,3495.0,7745,Baguio City,Maya,2023-09-24 09:00:00,Processing,50,100,4.0,Reviewed
+10433,GU Energy Gel (8-Pack),Nutrition,1120.0,1,1120.0,7745,Baguio City,Maya,2023-09-24 09:00:00,Processing,50,0,4.0,Pending
+10434,Nike Air Zoom Pegasus 40,Shoes,6895.0,2,13790.0,7778,Baguio City,Credit Card,2023-04-06 19:00:00,Processing,0,0,4.0,Pending
+10435,Nathan QuickSqueeze Handheld Flask,Gear,1850.0,1,1850.0,8390,Metro Manila,Maya,2023-08-20 09:00:00,Delivered,150,0,5.0,Pending
+10435,Balega Hidden Comfort Socks,Accessories,895.0,1,895.0,8390,Metro Manila,Maya,2023-08-20 09:00:00,Delivered,150,0,4.0,Reviewed
+10436,FlipBelt Classic Running Belt,Accessories,1950.0,1,1950.0,6655,Metro Manila,Maya,2023-09-05 16:00:00,Processing,50,0,4.0,Reviewed
+10436,Adidas Ultraboost Light,Shoes,9500.0,1,9500.0,6655,Metro Manila,Maya,2023-09-05 16:00:00,Processing,50,100,4.0,Pending
+10437,BodyGlide Original Anti-Chafe Balm,Health,650.0,1,650.0,7542,Davao City,Credit Card,2023-04-16 23:00:00,Delivered,100,0,3.0,Pending
+10438,Under Armour Tech Short Sleeve Tee,Apparel,1595.0,1,1595.0,5948,Metro Manila,Cash on Delivery,2023-06-20 14:00:00,Delivered,50,0,4.0,Reviewed
+10438,BodyGlide Original Anti-Chafe Balm,Health,650.0,2,1300.0,5948,Metro Manila,Cash on Delivery,2023-06-20 14:00:00,Delivered,50,500,4.0,Pending
+10439,Nike Air Zoom Pegasus 40,Shoes,6895.0,1,6895.0,9731,Davao City,Credit Card,2023-04-09 09:00:00,Shipped,100,100,4.0,Pending
+10440,OOFOS OOriginal Recovery Sandals,Footwear,3495.0,1,3495.0,7233,Cebu City,Credit Card,2023-01-08 19:00:00,Shipped,50,500,3.0,Reviewed
+10440,HOKA Clifton 9,Shoes,8495.0,1,8495.0,7233,Cebu City,Credit Card,2023-01-08 19:00:00,Shipped,50,0,5.0,Pending
+10441,GU Energy Gel (8-Pack),Nutrition,1120.0,1,1120.0,9702,Cebu City,Credit Card,2023-06-23 17:00:00,Delivered,150,200,4.0,Reviewed
+10441,Nathan QuickSqueeze Handheld Flask,Gear,1850.0,1,1850.0,9702,Cebu City,Credit Card,2023-06-23 17:00:00,Delivered,150,0,4.0,Reviewed
+10441,Balega Hidden Comfort Socks,Accessories,895.0,1,895.0,9702,Cebu City,Credit Card,2023-06-23 17:00:00,Delivered,150,200,,Reviewed
+10441,Brooks Ghost 15,Shoes,7995.0,1,7995.0,9702,Cebu City,Credit Card,2023-06-23 17:00:00,Delivered,150,0,5.0,Pending
+10441,Salomon ADV Skin 12 Hydration Vest,Gear,9500.0,1,9500.0,9702,Cebu City,Credit Card,2023-06-23 17:00:00,Delivered,150,0,3.0,Reviewed
+10442,"Nike Challenger Brief-Lined 5"" Shorts",Apparel,1795.0,1,1795.0,8652,Iloilo City,Cash on Delivery,2023-04-12 22:00:00,Shipped,150,500,4.0,Reviewed
+10442,Under Armour Tech Short Sleeve Tee,Apparel,1595.0,1,1595.0,8652,Iloilo City,Cash on Delivery,2023-04-12 22:00:00,Shipped,150,200,4.0,Reviewed
+10442,Garmin Forerunner 255,Electronics,21995.0,1,21995.0,8652,Iloilo City,Cash on Delivery,2023-04-12 22:00:00,Shipped,150,0,4.0,Pending
+10442,Shokz OpenRun Bone Conduction Headphones,Electronics,7490.0,1,7490.0,8652,Iloilo City,Cash on Delivery,2023-04-12 22:00:00,Shipped,150,0,5.0,Pending
+10442,Tailwind Nutrition Endurance Fuel,Nutrition,2200.0,1,2200.0,8652,Iloilo City,Cash on Delivery,2023-04-12 22:00:00,Shipped,150,100,4.0,Pending
+10443,Goodr OG Sunglasses,Accessories,1995.0,1,1995.0,6833,Cebu City,Cash on Delivery,2023-04-04 22:00:00,Shipped,0,100,4.0,Pending
+10443,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,6833,Cebu City,Cash on Delivery,2023-04-04 22:00:00,Shipped,0,200,5.0,Pending
+10444,Nike Air Zoom Pegasus 40,Shoes,6895.0,1,6895.0,5535,Baguio City,GCash,2023-08-25 05:00:00,Shipped,0,100,4.0,Pending
+10445,Shokz OpenRun Bone Conduction Headphones,Electronics,7490.0,1,7490.0,5876,Davao City,GCash,2023-07-25 18:00:00,Shipped,0,200,5.0,Reviewed
+10445,BodyGlide Original Anti-Chafe Balm,Health,650.0,1,650.0,5876,Davao City,GCash,2023-07-25 18:00:00,Shipped,0,500,5.0,Reviewed
+10445,HOKA Clifton 9,Shoes,8495.0,1,8495.0,5876,Davao City,GCash,2023-07-25 18:00:00,Shipped,0,500,5.0,Reviewed
+10445,Under Armour Tech Short Sleeve Tee,Apparel,1595.0,2,3190.0,5876,Davao City,GCash,2023-07-25 18:00:00,Shipped,0,200,5.0,Pending
+10446,ASICS Gel-Kayano 30,Shoes,8990.0,1,8990.0,8566,Iloilo City,Cash on Delivery,2023-03-30 21:00:00,Processing,100,0,4.0,Pending
+10446,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,2,2390.0,8566,Iloilo City,Cash on Delivery,2023-03-30 21:00:00,Processing,100,0,4.0,Pending
+10446,Tailwind Nutrition Endurance Fuel,Nutrition,2200.0,1,2200.0,8566,Iloilo City,Cash on Delivery,2023-03-30 21:00:00,Processing,100,100,4.0,Reviewed
+10446,"Nike Challenger Brief-Lined 5"" Shorts",Apparel,1795.0,1,1795.0,8566,Iloilo City,Cash on Delivery,2023-03-30 21:00:00,Processing,100,200,4.0,Reviewed
+10447,Salomon ADV Skin 12 Hydration Vest,Gear,9500.0,1,9500.0,8324,Metro Manila,GCash,2023-06-17 15:00:00,Processing,0,0,5.0,Reviewed
+10448,Coros Pace 3,Electronics,14500.0,1,14500.0,6138,Iloilo City,GCash,2023-08-20 17:00:00,Delivered,100,100,5.0,Pending
+10449,Shokz OpenRun Bone Conduction Headphones,Electronics,7490.0,1,7490.0,6684,Davao City,Cash on Delivery,2023-08-11 22:00:00,Processing,150,100,5.0,Reviewed
+10449,Coros Pace 3,Electronics,14500.0,1,14500.0,6684,Davao City,Cash on Delivery,2023-08-11 22:00:00,Processing,150,500,5.0,Reviewed
+10450,Shokz OpenRun Bone Conduction Headphones,Electronics,7490.0,1,7490.0,6044,Davao City,GCash,2023-01-01 22:00:00,Shipped,50,500,4.0,Pending
+10450,Under Armour Tech Short Sleeve Tee,Apparel,1595.0,1,1595.0,6044,Davao City,GCash,2023-01-01 22:00:00,Shipped,50,0,5.0,Pending
+10451,Nike Air Zoom Pegasus 40,Shoes,6895.0,1,6895.0,9834,Baguio City,Cash on Delivery,2023-07-27 12:00:00,Processing,0,200,3.0,Reviewed
+10451,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,9834,Baguio City,Cash on Delivery,2023-07-27 12:00:00,Processing,0,0,,Pending
+10452,Brooks Ghost 15,Shoes,7995.0,1,7995.0,8150,Davao City,Maya,2023-03-06 04:00:00,Delivered,150,0,5.0,Reviewed
+10452,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,8150,Davao City,Maya,2023-03-06 04:00:00,Delivered,150,0,5.0,Reviewed
+10453,Goodr OG Sunglasses,Accessories,1995.0,1,1995.0,5693,Cebu City,Maya,2023-04-03 14:00:00,Shipped,0,500,4.0,Pending
+10453,"Nike Challenger Brief-Lined 5"" Shorts",Apparel,1795.0,1,1795.0,5693,Cebu City,Maya,2023-04-03 14:00:00,Shipped,0,500,4.0,Pending
+10453,Brooks Ghost 15,Shoes,7995.0,1,7995.0,5693,Cebu City,Maya,2023-04-03 14:00:00,Shipped,0,200,3.0,Pending
+10454,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,8479,Iloilo City,GCash,2023-05-02 22:00:00,Processing,0,500,4.0,Pending
+10454,Garmin Forerunner 255,Electronics,21995.0,1,21995.0,8479,Iloilo City,GCash,2023-05-02 22:00:00,Processing,0,200,5.0,Pending
+10455,Adidas Ultraboost Light,Shoes,9500.0,1,9500.0,8958,Davao City,GCash,2023-02-10 04:00:00,Processing,0,500,4.0,Pending
+10455,Tailwind Nutrition Endurance Fuel,Nutrition,2200.0,1,2200.0,8958,Davao City,GCash,2023-02-10 04:00:00,Processing,0,200,5.0,Reviewed
+10456,BodyGlide Original Anti-Chafe Balm,Health,650.0,1,650.0,5724,Cebu City,Maya,2023-10-04 18:00:00,Processing,50,100,4.0,Reviewed
+10456,Shokz OpenRun Bone Conduction Headphones,Electronics,7490.0,2,14980.0,5724,Cebu City,Maya,2023-10-04 18:00:00,Processing,50,100,4.0,Reviewed
+10457,Goodr OG Sunglasses,Accessories,1995.0,1,1995.0,9199,Baguio City,Cash on Delivery,2023-05-31 09:00:00,Shipped,150,0,4.0,Reviewed
+10457,OOFOS OOriginal Recovery Sandals,Footwear,3495.0,1,3495.0,9199,Baguio City,Cash on Delivery,2023-05-31 09:00:00,Shipped,150,500,5.0,Pending
+10458,Tailwind Nutrition Endurance Fuel,Nutrition,2200.0,1,2200.0,9692,Metro Manila,Cash on Delivery,2023-05-27 15:00:00,Processing,50,0,4.0,Reviewed
+10458,Balega Hidden Comfort Socks,Accessories,895.0,1,895.0,9692,Metro Manila,Cash on Delivery,2023-05-27 15:00:00,Processing,50,500,4.0,Reviewed
+10458,Adidas Ultraboost Light,Shoes,9500.0,1,9500.0,9692,Metro Manila,Cash on Delivery,2023-05-27 15:00:00,Processing,50,100,4.0,Pending
+10458,Goodr OG Sunglasses,Accessories,1995.0,1,1995.0,9692,Metro Manila,Cash on Delivery,2023-05-27 15:00:00,Processing,50,0,4.0,Pending
+10458,Garmin Forerunner 255,Electronics,21995.0,1,21995.0,9692,Metro Manila,Cash on Delivery,2023-05-27 15:00:00,Processing,50,100,,Pending
+10459,Nike Air Zoom Pegasus 40,Shoes,6895.0,2,13790.0,5913,Iloilo City,Credit Card,2023-08-17 11:00:00,Processing,100,0,4.0,Pending
+10460,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,5271,Davao City,GCash,2023-09-11 13:00:00,Delivered,100,200,3.0,Reviewed
+10460,Goodr OG Sunglasses,Accessories,1995.0,2,3990.0,5271,Davao City,GCash,2023-09-11 13:00:00,Delivered,100,200,4.0,Reviewed
+10460,Garmin Forerunner 255,Electronics,21995.0,2,43990.0,5271,Davao City,GCash,2023-09-11 13:00:00,Delivered,100,0,4.0,Pending
+10460,BodyGlide Original Anti-Chafe Balm,Health,650.0,1,650.0,5271,Davao City,GCash,2023-09-11 13:00:00,Delivered,100,0,4.0,Pending
+10461,HOKA Clifton 9,Shoes,8495.0,1,8495.0,8801,Baguio City,Maya,2023-09-30 07:00:00,Shipped,0,200,5.0,Pending
+10461,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,8801,Baguio City,Maya,2023-09-30 07:00:00,Shipped,0,200,5.0,Pending
+10462,Brooks Ghost 15,Shoes,7995.0,1,7995.0,5097,Davao City,Maya,2023-09-29 21:00:00,Shipped,150,0,4.0,Reviewed
+10462,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,5097,Davao City,Maya,2023-09-29 21:00:00,Shipped,150,500,4.0,Pending
+10462,"Nike Challenger Brief-Lined 5"" Shorts",Apparel,1795.0,1,1795.0,5097,Davao City,Maya,2023-09-29 21:00:00,Shipped,150,200,4.0,Pending
+10463,Nathan QuickSqueeze Handheld Flask,Gear,1850.0,2,3700.0,7214,Davao City,GCash,2023-08-25 21:00:00,Shipped,0,0,5.0,Reviewed
+10464,BodyGlide Original Anti-Chafe Balm,Health,650.0,1,650.0,6473,Davao City,GCash,2023-02-04 00:00:00,Processing,50,200,4.0,Reviewed
+10464,Nathan QuickSqueeze Handheld Flask,Gear,1850.0,1,1850.0,6473,Davao City,GCash,2023-02-04 00:00:00,Processing,50,500,5.0,Reviewed
+10465,OOFOS OOriginal Recovery Sandals,Footwear,3495.0,1,3495.0,6797,Davao City,Cash on Delivery,2023-01-13 19:00:00,Delivered,50,0,,Reviewed
+10465,FlipBelt Classic Running Belt,Accessories,1950.0,1,1950.0,6797,Davao City,Cash on Delivery,2023-01-13 19:00:00,Delivered,50,500,5.0,Reviewed
+10466,Shokz OpenRun Bone Conduction Headphones,Electronics,7490.0,1,7490.0,5707,Iloilo City,Credit Card,2023-02-26 22:00:00,Shipped,100,0,4.0,Pending
+10466,HOKA Clifton 9,Shoes,8495.0,1,8495.0,5707,Iloilo City,Credit Card,2023-02-26 22:00:00,Shipped,100,100,4.0,Pending
+10467,ASICS Gel-Kayano 30,Shoes,8990.0,1,8990.0,7264,Baguio City,Cash on Delivery,2023-02-07 08:00:00,Shipped,100,0,4.0,Pending
+10467,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,2,2390.0,7264,Baguio City,Cash on Delivery,2023-02-07 08:00:00,Shipped,100,200,,Pending
+10468,Adidas Ultraboost Light,Shoes,9500.0,1,9500.0,6457,Baguio City,GCash,2023-07-21 05:00:00,Shipped,100,200,3.0,Reviewed
+10468,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,6457,Baguio City,GCash,2023-07-21 05:00:00,Shipped,100,0,5.0,Pending
+10468,Balega Hidden Comfort Socks,Accessories,895.0,1,895.0,6457,Baguio City,GCash,2023-07-21 05:00:00,Shipped,100,0,5.0,Reviewed
+10469,OOFOS OOriginal Recovery Sandals,Footwear,3495.0,1,3495.0,7121,Metro Manila,GCash,2023-10-20 23:00:00,Delivered,50,100,,Pending
+10470,Nike Air Zoom Pegasus 40,Shoes,6895.0,1,6895.0,9077,Cebu City,GCash,2023-05-17 04:00:00,Delivered,0,100,,Pending
+10471,Tailwind Nutrition Endurance Fuel,Nutrition,2200.0,1,2200.0,9222,Baguio City,Maya,2023-02-05 17:00:00,Shipped,0,0,5.0,Reviewed
+10471,Nike Air Zoom Pegasus 40,Shoes,6895.0,1,6895.0,9222,Baguio City,Maya,2023-02-05 17:00:00,Shipped,0,200,4.0,Pending
+10472,HOKA Clifton 9,Shoes,8495.0,1,8495.0,9646,Iloilo City,Cash on Delivery,2023-07-25 01:00:00,Shipped,150,0,4.0,Pending
+10473,GU Energy Gel (8-Pack),Nutrition,1120.0,1,1120.0,5659,Baguio City,Cash on Delivery,2023-04-01 17:00:00,Processing,100,0,5.0,Pending
+10473,Nathan QuickSqueeze Handheld Flask,Gear,1850.0,1,1850.0,5659,Baguio City,Cash on Delivery,2023-04-01 17:00:00,Processing,100,0,,Pending
+10474,Under Armour Tech Short Sleeve Tee,Apparel,1595.0,1,1595.0,7943,Baguio City,GCash,2023-04-08 04:00:00,Processing,0,0,5.0,Reviewed
+10474,HOKA Clifton 9,Shoes,8495.0,1,8495.0,7943,Baguio City,GCash,2023-04-08 04:00:00,Processing,0,0,,Reviewed
+10475,Goodr OG Sunglasses,Accessories,1995.0,1,1995.0,8184,Metro Manila,Cash on Delivery,2023-01-09 01:00:00,Shipped,0,100,3.0,Reviewed
+10476,Nathan QuickSqueeze Handheld Flask,Gear,1850.0,1,1850.0,8321,Metro Manila,Credit Card,2023-10-02 04:00:00,Processing,0,500,3.0,Reviewed
+10476,Adidas Ultraboost Light,Shoes,9500.0,1,9500.0,8321,Metro Manila,Credit Card,2023-10-02 04:00:00,Processing,0,0,3.0,Reviewed
+10477,Brooks Ghost 15,Shoes,7995.0,1,7995.0,5156,Baguio City,GCash,2023-01-08 05:00:00,Delivered,100,0,5.0,Pending
+10477,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,2,2390.0,5156,Baguio City,GCash,2023-01-08 05:00:00,Delivered,100,0,4.0,Pending
+10478,Shokz OpenRun Bone Conduction Headphones,Electronics,7490.0,1,7490.0,9841,Metro Manila,GCash,2023-04-23 02:00:00,Delivered,0,0,5.0,Pending
+10478,Shokz OpenRun Bone Conduction Headphones,Electronics,7490.0,1,7490.0,9841,Metro Manila,GCash,2023-04-23 02:00:00,Delivered,0,100,4.0,Pending
+10479,Nathan QuickSqueeze Handheld Flask,Gear,1850.0,1,1850.0,5989,Iloilo City,Credit Card,2023-01-24 18:00:00,Shipped,100,0,3.0,Pending
+10480,ASICS Gel-Kayano 30,Shoes,8990.0,1,8990.0,5989,Davao City,Credit Card,2023-07-09 17:00:00,Shipped,100,0,,Pending
+10481,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,2,2390.0,9767,Metro Manila,Credit Card,2023-03-22 00:00:00,Delivered,0,200,5.0,Reviewed
+10482,Nike Air Zoom Pegasus 40,Shoes,6895.0,1,6895.0,9863,Davao City,Maya,2023-03-06 06:00:00,Processing,0,0,4.0,Pending
+10482,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,9863,Davao City,Maya,2023-03-06 06:00:00,Processing,0,500,3.0,Pending
+10482,ASICS Gel-Kayano 30,Shoes,8990.0,1,8990.0,9863,Davao City,Maya,2023-03-06 06:00:00,Processing,0,200,4.0,Reviewed
+10483,Garmin Forerunner 255,Electronics,21995.0,1,21995.0,6474,Baguio City,GCash,2023-06-28 13:00:00,Processing,150,0,5.0,Reviewed
+10483,Adidas Ultraboost Light,Shoes,9500.0,1,9500.0,6474,Baguio City,GCash,2023-06-28 13:00:00,Processing,150,0,3.0,Reviewed
+10483,Shokz OpenRun Bone Conduction Headphones,Electronics,7490.0,1,7490.0,6474,Baguio City,GCash,2023-06-28 13:00:00,Processing,150,500,4.0,Reviewed
+10484,Shokz OpenRun Bone Conduction Headphones,Electronics,7490.0,1,7490.0,9421,Iloilo City,Credit Card,2023-05-22 01:00:00,Shipped,100,0,4.0,Reviewed
+10484,Shokz OpenRun Bone Conduction Headphones,Electronics,7490.0,1,7490.0,9421,Iloilo City,Credit Card,2023-05-22 01:00:00,Shipped,100,0,4.0,Pending
+10485,Goodr OG Sunglasses,Accessories,1995.0,1,1995.0,6308,Metro Manila,GCash,2023-05-26 06:00:00,Processing,150,200,3.0,Pending
+10485,Garmin Forerunner 255,Electronics,21995.0,2,43990.0,6308,Metro Manila,GCash,2023-05-26 06:00:00,Processing,150,100,4.0,Pending
+10486,Adidas Ultraboost Light,Shoes,9500.0,1,9500.0,8973,Iloilo City,GCash,2023-08-16 18:00:00,Delivered,100,500,4.0,Pending
+10486,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,8973,Iloilo City,GCash,2023-08-16 18:00:00,Delivered,100,200,5.0,Reviewed
+10486,GU Energy Gel (8-Pack),Nutrition,1120.0,1,1120.0,8973,Iloilo City,GCash,2023-08-16 18:00:00,Delivered,100,100,5.0,Reviewed
+10486,Garmin Forerunner 255,Electronics,21995.0,1,21995.0,8973,Iloilo City,GCash,2023-08-16 18:00:00,Delivered,100,0,4.0,Pending
+10486,Nike Air Zoom Pegasus 40,Shoes,6895.0,1,6895.0,8973,Iloilo City,GCash,2023-08-16 18:00:00,Delivered,100,0,4.0,Reviewed
+10487,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,8379,Cebu City,Maya,2023-08-30 18:00:00,Delivered,50,200,3.0,Reviewed
+10488,"Nike Challenger Brief-Lined 5"" Shorts",Apparel,1795.0,1,1795.0,8727,Cebu City,Maya,2023-08-23 23:00:00,Shipped,100,0,,Pending
+10488,Brooks Ghost 15,Shoes,7995.0,1,7995.0,8727,Cebu City,Maya,2023-08-23 23:00:00,Shipped,100,100,4.0,Reviewed
+10488,Coros Pace 3,Electronics,14500.0,1,14500.0,8727,Cebu City,Maya,2023-08-23 23:00:00,Shipped,100,100,5.0,Reviewed
+10488,Shokz OpenRun Bone Conduction Headphones,Electronics,7490.0,2,14980.0,8727,Cebu City,Maya,2023-08-23 23:00:00,Shipped,100,0,5.0,Reviewed
+10489,Balega Hidden Comfort Socks,Accessories,895.0,1,895.0,5910,Baguio City,Maya,2023-06-25 07:00:00,Shipped,100,100,4.0,Reviewed
+10489,Brooks Ghost 15,Shoes,7995.0,1,7995.0,5910,Baguio City,Maya,2023-06-25 07:00:00,Shipped,100,500,5.0,Reviewed
+10490,Tailwind Nutrition Endurance Fuel,Nutrition,2200.0,1,2200.0,6881,Metro Manila,Maya,2023-04-21 18:00:00,Processing,0,200,5.0,Pending
+10490,GU Energy Gel (8-Pack),Nutrition,1120.0,1,1120.0,6881,Metro Manila,Maya,2023-04-21 18:00:00,Processing,0,100,5.0,Reviewed
+10491,"Nike Challenger Brief-Lined 5"" Shorts",Apparel,1795.0,1,1795.0,7020,Cebu City,Cash on Delivery,2023-03-18 18:00:00,Shipped,100,0,3.0,Pending
+10492,Adidas Ultraboost Light,Shoes,9500.0,1,9500.0,9130,Metro Manila,Maya,2023-09-03 22:00:00,Processing,0,0,5.0,Pending
+10492,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,9130,Metro Manila,Maya,2023-09-03 22:00:00,Processing,0,200,5.0,Reviewed
+10492,Goodr OG Sunglasses,Accessories,1995.0,1,1995.0,9130,Metro Manila,Maya,2023-09-03 22:00:00,Processing,0,0,4.0,Reviewed
+10493,"Nike Challenger Brief-Lined 5"" Shorts",Apparel,1795.0,1,1795.0,6785,Cebu City,Cash on Delivery,2023-02-16 00:00:00,Shipped,100,200,5.0,Pending
+10494,Garmin Forerunner 255,Electronics,21995.0,1,21995.0,8762,Iloilo City,GCash,2023-03-12 22:00:00,Shipped,0,200,4.0,Reviewed
+10495,FlipBelt Classic Running Belt,Accessories,1950.0,1,1950.0,8803,Metro Manila,GCash,2023-09-29 01:00:00,Shipped,150,100,4.0,Pending
+10496,Balega Hidden Comfort Socks,Accessories,895.0,1,895.0,9443,Iloilo City,Credit Card,2023-06-21 23:00:00,Processing,50,0,4.0,Pending
+10497,Adidas Ultraboost Light,Shoes,9500.0,1,9500.0,8812,Iloilo City,GCash,2023-03-31 20:00:00,Shipped,150,500,4.0,Reviewed
+10497,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,8812,Iloilo City,GCash,2023-03-31 20:00:00,Shipped,150,500,4.0,Reviewed
+10497,FlipBelt Classic Running Belt,Accessories,1950.0,1,1950.0,8812,Iloilo City,GCash,2023-03-31 20:00:00,Shipped,150,0,4.0,Pending
+10498,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,9420,Metro Manila,Maya,2023-04-26 10:00:00,Processing,100,100,4.0,Pending
+10499,BodyGlide Original Anti-Chafe Balm,Health,650.0,1,650.0,5446,Metro Manila,Cash on Delivery,2023-09-06 16:00:00,Shipped,0,500,4.0,Reviewed
+10499,"Nike Challenger Brief-Lined 5"" Shorts",Apparel,1795.0,2,3590.0,5446,Metro Manila,Cash on Delivery,2023-09-06 16:00:00,Shipped,0,200,4.0,Pending
+10499,Balega Hidden Comfort Socks,Accessories,895.0,2,1790.0,5446,Metro Manila,Cash on Delivery,2023-09-06 16:00:00,Shipped,0,200,4.0,Pending
+10500,ASICS Gel-Kayano 30,Shoes,8990.0,1,8990.0,8750,Metro Manila,GCash,2023-05-28 02:00:00,Shipped,100,0,4.0,Reviewed
+10500,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,8750,Metro Manila,GCash,2023-05-28 02:00:00,Shipped,100,100,5.0,Reviewed
+10501,Brooks Ghost 15,Shoes,7995.0,1,7995.0,9065,Cebu City,Credit Card,2023-05-31 13:00:00,Processing,50,500,5.0,Reviewed
+10502,Goodr OG Sunglasses,Accessories,1995.0,2,3990.0,8441,Baguio City,GCash,2023-02-02 00:00:00,Shipped,100,0,5.0,Pending
+10502,FlipBelt Classic Running Belt,Accessories,1950.0,2,3900.0,8441,Baguio City,GCash,2023-02-02 00:00:00,Shipped,100,200,5.0,Pending
+10503,Nathan QuickSqueeze Handheld Flask,Gear,1850.0,1,1850.0,8982,Iloilo City,Maya,2023-10-18 04:00:00,Shipped,150,100,5.0,Reviewed
+10504,Balega Hidden Comfort Socks,Accessories,895.0,1,895.0,8966,Davao City,Cash on Delivery,2023-06-30 09:00:00,Delivered,100,200,4.0,Reviewed
+10504,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,2,2390.0,8966,Davao City,Cash on Delivery,2023-06-30 09:00:00,Delivered,100,500,5.0,Reviewed
+10505,GU Energy Gel (8-Pack),Nutrition,1120.0,1,1120.0,6493,Cebu City,Credit Card,2023-03-01 01:00:00,Delivered,100,100,4.0,Reviewed
+10505,Salomon ADV Skin 12 Hydration Vest,Gear,9500.0,1,9500.0,6493,Cebu City,Credit Card,2023-03-01 01:00:00,Delivered,100,200,4.0,Pending
+10506,FlipBelt Classic Running Belt,Accessories,1950.0,1,1950.0,6511,Cebu City,GCash,2023-06-26 04:00:00,Processing,150,100,4.0,Pending
+10507,GU Energy Gel (8-Pack),Nutrition,1120.0,1,1120.0,5995,Metro Manila,Maya,2023-08-23 10:00:00,Shipped,100,0,4.0,Reviewed
+10507,Garmin Forerunner 255,Electronics,21995.0,1,21995.0,5995,Metro Manila,Maya,2023-08-23 10:00:00,Shipped,100,500,4.0,Pending
+10507,Salomon ADV Skin 12 Hydration Vest,Gear,9500.0,1,9500.0,5995,Metro Manila,Maya,2023-08-23 10:00:00,Shipped,100,100,4.0,Pending
+10508,Salomon ADV Skin 12 Hydration Vest,Gear,9500.0,1,9500.0,6204,Iloilo City,Maya,2023-09-03 01:00:00,Shipped,50,0,4.0,Reviewed
+10508,Tailwind Nutrition Endurance Fuel,Nutrition,2200.0,1,2200.0,6204,Iloilo City,Maya,2023-09-03 01:00:00,Shipped,50,100,5.0,Reviewed
+10509,Under Armour Tech Short Sleeve Tee,Apparel,1595.0,1,1595.0,8653,Davao City,GCash,2023-04-10 18:00:00,Shipped,50,500,5.0,Reviewed
+10509,Shokz OpenRun Bone Conduction Headphones,Electronics,7490.0,1,7490.0,8653,Davao City,GCash,2023-04-10 18:00:00,Shipped,50,100,5.0,Reviewed
+10509,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,8653,Davao City,GCash,2023-04-10 18:00:00,Shipped,50,0,3.0,Reviewed
+10510,GU Energy Gel (8-Pack),Nutrition,1120.0,1,1120.0,8649,Metro Manila,Maya,2023-06-12 19:00:00,Delivered,0,500,4.0,Reviewed
+10511,FlipBelt Classic Running Belt,Accessories,1950.0,1,1950.0,8256,Cebu City,Maya,2023-07-10 00:00:00,Shipped,0,100,4.0,Pending
+10512,FlipBelt Classic Running Belt,Accessories,1950.0,1,1950.0,9595,Metro Manila,Credit Card,2023-08-01 14:00:00,Processing,0,100,4.0,Reviewed
+10512,Salomon ADV Skin 12 Hydration Vest,Gear,9500.0,1,9500.0,9595,Metro Manila,Credit Card,2023-08-01 14:00:00,Processing,0,200,4.0,Pending
+10512,OOFOS OOriginal Recovery Sandals,Footwear,3495.0,1,3495.0,9595,Metro Manila,Credit Card,2023-08-01 14:00:00,Processing,0,0,4.0,Reviewed
+10513,Brooks Ghost 15,Shoes,7995.0,1,7995.0,8888,Iloilo City,Cash on Delivery,2023-02-15 00:00:00,Delivered,0,200,5.0,Pending
+10513,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,8888,Iloilo City,Cash on Delivery,2023-02-15 00:00:00,Delivered,0,200,4.0,Reviewed
+10514,GU Energy Gel (8-Pack),Nutrition,1120.0,2,2240.0,9652,Cebu City,Credit Card,2023-05-29 17:00:00,Delivered,0,200,5.0,Reviewed
+10514,OOFOS OOriginal Recovery Sandals,Footwear,3495.0,1,3495.0,9652,Cebu City,Credit Card,2023-05-29 17:00:00,Delivered,0,100,4.0,Pending
+10515,Goodr OG Sunglasses,Accessories,1995.0,1,1995.0,6839,Metro Manila,GCash,2023-06-03 20:00:00,Delivered,150,200,5.0,Reviewed
+10515,GU Energy Gel (8-Pack),Nutrition,1120.0,2,2240.0,6839,Metro Manila,GCash,2023-06-03 20:00:00,Delivered,150,100,4.0,Pending
+10515,OOFOS OOriginal Recovery Sandals,Footwear,3495.0,1,3495.0,6839,Metro Manila,GCash,2023-06-03 20:00:00,Delivered,150,0,5.0,Pending
+10516,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,7270,Baguio City,GCash,2023-10-25 15:00:00,Processing,150,500,4.0,Pending
+10516,Nike Air Zoom Pegasus 40,Shoes,6895.0,1,6895.0,7270,Baguio City,GCash,2023-10-25 15:00:00,Processing,150,100,4.0,Pending
+10516,HOKA Clifton 9,Shoes,8495.0,1,8495.0,7270,Baguio City,GCash,2023-10-25 15:00:00,Processing,150,0,5.0,Pending
+10517,BodyGlide Original Anti-Chafe Balm,Health,650.0,1,650.0,5143,Davao City,Credit Card,2023-03-16 10:00:00,Processing,50,200,4.0,Reviewed
+10517,Tailwind Nutrition Endurance Fuel,Nutrition,2200.0,1,2200.0,5143,Davao City,Credit Card,2023-03-16 10:00:00,Processing,50,100,5.0,Reviewed
+10518,Adidas Ultraboost Light,Shoes,9500.0,1,9500.0,7389,Iloilo City,GCash,2023-04-04 03:00:00,Processing,100,500,4.0,Reviewed
+10518,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,7389,Iloilo City,GCash,2023-04-04 03:00:00,Processing,100,500,5.0,Pending
+10518,"Nike Challenger Brief-Lined 5"" Shorts",Apparel,1795.0,1,1795.0,7389,Iloilo City,GCash,2023-04-04 03:00:00,Processing,100,100,4.0,Pending
+10518,FlipBelt Classic Running Belt,Accessories,1950.0,1,1950.0,7389,Iloilo City,GCash,2023-04-04 03:00:00,Processing,100,100,4.0,Pending
+10518,Salomon ADV Skin 12 Hydration Vest,Gear,9500.0,1,9500.0,7389,Iloilo City,GCash,2023-04-04 03:00:00,Processing,100,0,4.0,Pending
+10519,Brooks Ghost 15,Shoes,7995.0,1,7995.0,5105,Cebu City,Cash on Delivery,2023-07-30 10:00:00,Shipped,0,0,5.0,Reviewed
+10520,Coros Pace 3,Electronics,14500.0,1,14500.0,6811,Cebu City,GCash,2023-02-09 03:00:00,Shipped,0,0,,Reviewed
+10520,Shokz OpenRun Bone Conduction Headphones,Electronics,7490.0,2,14980.0,6811,Cebu City,GCash,2023-02-09 03:00:00,Shipped,0,200,5.0,Pending
+10521,Salomon ADV Skin 12 Hydration Vest,Gear,9500.0,1,9500.0,7802,Cebu City,Cash on Delivery,2023-04-24 04:00:00,Delivered,50,0,,Reviewed
+10521,Brooks Ghost 15,Shoes,7995.0,1,7995.0,7802,Cebu City,Cash on Delivery,2023-04-24 04:00:00,Delivered,50,100,4.0,Reviewed
+10521,OOFOS OOriginal Recovery Sandals,Footwear,3495.0,1,3495.0,7802,Cebu City,Cash on Delivery,2023-04-24 04:00:00,Delivered,50,0,4.0,Reviewed
+10521,Shokz OpenRun Bone Conduction Headphones,Electronics,7490.0,1,7490.0,7802,Cebu City,Cash on Delivery,2023-04-24 04:00:00,Delivered,50,0,5.0,Pending
+10521,BodyGlide Original Anti-Chafe Balm,Health,650.0,1,650.0,7802,Cebu City,Cash on Delivery,2023-04-24 04:00:00,Delivered,50,0,5.0,Reviewed
+10522,Nike Air Zoom Pegasus 40,Shoes,6895.0,1,6895.0,8967,Baguio City,GCash,2023-01-17 21:00:00,Delivered,50,500,5.0,Reviewed
+10523,Goodr OG Sunglasses,Accessories,1995.0,1,1995.0,7072,Metro Manila,GCash,2023-02-19 03:00:00,Shipped,50,500,4.0,Reviewed
+10523,HOKA Clifton 9,Shoes,8495.0,1,8495.0,7072,Metro Manila,GCash,2023-02-19 03:00:00,Shipped,50,500,,Reviewed
+10524,Garmin Forerunner 255,Electronics,21995.0,1,21995.0,7879,Metro Manila,GCash,2023-10-24 11:00:00,Delivered,150,100,3.0,Reviewed
+10525,BodyGlide Original Anti-Chafe Balm,Health,650.0,1,650.0,9136,Iloilo City,GCash,2023-09-28 06:00:00,Delivered,50,0,4.0,Pending
+10525,Shokz OpenRun Bone Conduction Headphones,Electronics,7490.0,1,7490.0,9136,Iloilo City,GCash,2023-09-28 06:00:00,Delivered,50,0,5.0,Reviewed
+10525,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,9136,Iloilo City,GCash,2023-09-28 06:00:00,Delivered,50,0,4.0,Reviewed
+10526,BodyGlide Original Anti-Chafe Balm,Health,650.0,1,650.0,8601,Metro Manila,Credit Card,2023-08-06 06:00:00,Shipped,0,500,4.0,Reviewed
+10526,Goodr OG Sunglasses,Accessories,1995.0,1,1995.0,8601,Metro Manila,Credit Card,2023-08-06 06:00:00,Shipped,0,200,5.0,Reviewed
+10526,FlipBelt Classic Running Belt,Accessories,1950.0,1,1950.0,8601,Metro Manila,Credit Card,2023-08-06 06:00:00,Shipped,0,100,4.0,Reviewed
+10526,Tailwind Nutrition Endurance Fuel,Nutrition,2200.0,1,2200.0,8601,Metro Manila,Credit Card,2023-08-06 06:00:00,Shipped,0,200,4.0,Reviewed
+10526,Garmin Forerunner 255,Electronics,21995.0,1,21995.0,8601,Metro Manila,Credit Card,2023-08-06 06:00:00,Shipped,0,500,4.0,Reviewed
+10527,Goodr OG Sunglasses,Accessories,1995.0,1,1995.0,7959,Davao City,GCash,2023-09-10 03:00:00,Delivered,150,200,4.0,Pending
+10528,OOFOS OOriginal Recovery Sandals,Footwear,3495.0,1,3495.0,9918,Davao City,Maya,2023-05-29 13:00:00,Delivered,0,0,3.0,Reviewed
+10529,Goodr OG Sunglasses,Accessories,1995.0,1,1995.0,8247,Baguio City,GCash,2023-07-22 12:00:00,Delivered,100,500,3.0,Reviewed
+10529,FlipBelt Classic Running Belt,Accessories,1950.0,1,1950.0,8247,Baguio City,GCash,2023-07-22 12:00:00,Delivered,100,0,,Reviewed
+10529,Garmin Forerunner 255,Electronics,21995.0,1,21995.0,8247,Baguio City,GCash,2023-07-22 12:00:00,Delivered,100,100,,Reviewed
+10529,Nike Air Zoom Pegasus 40,Shoes,6895.0,2,13790.0,8247,Baguio City,GCash,2023-07-22 12:00:00,Delivered,100,100,5.0,Reviewed
+10529,HOKA Clifton 9,Shoes,8495.0,2,16990.0,8247,Baguio City,GCash,2023-07-22 12:00:00,Delivered,100,500,5.0,Pending
+10530,HOKA Clifton 9,Shoes,8495.0,1,8495.0,6907,Baguio City,Maya,2023-07-24 11:00:00,Shipped,150,200,5.0,Pending
+10531,Goodr OG Sunglasses,Accessories,1995.0,1,1995.0,9189,Davao City,Credit Card,2023-03-04 08:00:00,Shipped,50,200,,Pending
+10532,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,6102,Metro Manila,GCash,2023-02-04 15:00:00,Processing,50,0,,Reviewed
+10533,Under Armour Tech Short Sleeve Tee,Apparel,1595.0,2,3190.0,7480,Iloilo City,GCash,2023-08-27 06:00:00,Delivered,0,100,5.0,Pending
+10533,Shokz OpenRun Bone Conduction Headphones,Electronics,7490.0,2,14980.0,7480,Iloilo City,GCash,2023-08-27 06:00:00,Delivered,0,200,5.0,Pending
+10533,Nathan QuickSqueeze Handheld Flask,Gear,1850.0,1,1850.0,7480,Iloilo City,GCash,2023-08-27 06:00:00,Delivered,0,500,4.0,Pending
+10533,Brooks Ghost 15,Shoes,7995.0,1,7995.0,7480,Iloilo City,GCash,2023-08-27 06:00:00,Delivered,0,500,4.0,Reviewed
+10534,Adidas Ultraboost Light,Shoes,9500.0,1,9500.0,8142,Baguio City,Cash on Delivery,2023-08-24 01:00:00,Shipped,0,0,4.0,Reviewed
+10534,HOKA Clifton 9,Shoes,8495.0,1,8495.0,8142,Baguio City,Cash on Delivery,2023-08-24 01:00:00,Shipped,0,500,5.0,Pending
+10535,Garmin Forerunner 255,Electronics,21995.0,1,21995.0,6101,Davao City,Maya,2023-10-19 21:00:00,Shipped,50,200,4.0,Pending
+10535,Shokz OpenRun Bone Conduction Headphones,Electronics,7490.0,1,7490.0,6101,Davao City,Maya,2023-10-19 21:00:00,Shipped,50,200,,Reviewed
+10536,BodyGlide Original Anti-Chafe Balm,Health,650.0,1,650.0,5456,Baguio City,Cash on Delivery,2023-06-30 09:00:00,Shipped,0,100,4.0,Reviewed
+10537,Nike Air Zoom Pegasus 40,Shoes,6895.0,1,6895.0,6050,Davao City,Cash on Delivery,2023-06-24 12:00:00,Processing,50,0,5.0,Pending
+10537,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,6050,Davao City,Cash on Delivery,2023-06-24 12:00:00,Processing,50,100,4.0,Pending
+10538,"Nike Challenger Brief-Lined 5"" Shorts",Apparel,1795.0,1,1795.0,7877,Metro Manila,Credit Card,2023-06-09 18:00:00,Delivered,100,0,5.0,Reviewed
+10539,Salomon ADV Skin 12 Hydration Vest,Gear,9500.0,1,9500.0,5937,Davao City,Credit Card,2023-01-20 14:00:00,Delivered,150,200,4.0,Pending
+10540,Balega Hidden Comfort Socks,Accessories,895.0,2,1790.0,5182,Davao City,Maya,2023-06-15 18:00:00,Processing,0,0,4.0,Pending
+10540,Nike Air Zoom Pegasus 40,Shoes,6895.0,1,6895.0,5182,Davao City,Maya,2023-06-15 18:00:00,Processing,0,0,4.0,Reviewed
+10540,Goodr OG Sunglasses,Accessories,1995.0,1,1995.0,5182,Davao City,Maya,2023-06-15 18:00:00,Processing,0,100,5.0,Pending
+10540,Tailwind Nutrition Endurance Fuel,Nutrition,2200.0,2,4400.0,5182,Davao City,Maya,2023-06-15 18:00:00,Processing,0,500,,Pending
+10541,Garmin Forerunner 255,Electronics,21995.0,1,21995.0,8571,Cebu City,Maya,2023-10-02 06:00:00,Processing,50,100,5.0,Pending
+10541,FlipBelt Classic Running Belt,Accessories,1950.0,1,1950.0,8571,Cebu City,Maya,2023-10-02 06:00:00,Processing,50,0,5.0,Pending
+10542,Tailwind Nutrition Endurance Fuel,Nutrition,2200.0,1,2200.0,6850,Iloilo City,GCash,2023-06-22 08:00:00,Processing,50,0,4.0,Pending
+10542,Under Armour Tech Short Sleeve Tee,Apparel,1595.0,1,1595.0,6850,Iloilo City,GCash,2023-06-22 08:00:00,Processing,50,200,,Reviewed
+10543,FlipBelt Classic Running Belt,Accessories,1950.0,1,1950.0,5628,Davao City,Cash on Delivery,2023-04-13 13:00:00,Shipped,150,200,4.0,Pending
+10544,Shokz OpenRun Bone Conduction Headphones,Electronics,7490.0,1,7490.0,9221,Baguio City,Credit Card,2023-10-23 15:00:00,Delivered,100,0,4.0,Pending
+10545,Balega Hidden Comfort Socks,Accessories,895.0,1,895.0,9637,Metro Manila,Credit Card,2023-03-17 07:00:00,Shipped,0,0,,Pending
+10545,GU Energy Gel (8-Pack),Nutrition,1120.0,1,1120.0,9637,Metro Manila,Credit Card,2023-03-17 07:00:00,Shipped,0,200,4.0,Pending
+10545,Shokz OpenRun Bone Conduction Headphones,Electronics,7490.0,1,7490.0,9637,Metro Manila,Credit Card,2023-03-17 07:00:00,Shipped,0,100,5.0,Reviewed
+10545,"Nike Challenger Brief-Lined 5"" Shorts",Apparel,1795.0,1,1795.0,9637,Metro Manila,Credit Card,2023-03-17 07:00:00,Shipped,0,0,4.0,Pending
+10546,Balega Hidden Comfort Socks,Accessories,895.0,1,895.0,6315,Davao City,Credit Card,2023-02-28 04:00:00,Shipped,100,0,,Reviewed
+10546,Salomon ADV Skin 12 Hydration Vest,Gear,9500.0,1,9500.0,6315,Davao City,Credit Card,2023-02-28 04:00:00,Shipped,100,0,4.0,Pending
+10547,OOFOS OOriginal Recovery Sandals,Footwear,3495.0,1,3495.0,8572,Baguio City,GCash,2023-05-20 04:00:00,Delivered,100,0,4.0,Pending
+10547,Goodr OG Sunglasses,Accessories,1995.0,1,1995.0,8572,Baguio City,GCash,2023-05-20 04:00:00,Delivered,100,100,5.0,Reviewed
+10547,GU Energy Gel (8-Pack),Nutrition,1120.0,1,1120.0,8572,Baguio City,GCash,2023-05-20 04:00:00,Delivered,100,0,4.0,Pending
+10548,Nike Air Zoom Pegasus 40,Shoes,6895.0,1,6895.0,9928,Davao City,GCash,2023-02-16 12:00:00,Shipped,150,0,4.0,Reviewed
+10548,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,9928,Davao City,GCash,2023-02-16 12:00:00,Shipped,150,0,,Reviewed
+10548,ASICS Gel-Kayano 30,Shoes,8990.0,1,8990.0,9928,Davao City,GCash,2023-02-16 12:00:00,Shipped,150,500,4.0,Pending
+10548,Nathan QuickSqueeze Handheld Flask,Gear,1850.0,1,1850.0,9928,Davao City,GCash,2023-02-16 12:00:00,Shipped,150,200,3.0,Reviewed
+10549,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,6001,Davao City,Cash on Delivery,2023-05-01 13:00:00,Processing,0,0,5.0,Reviewed
+10549,Shokz OpenRun Bone Conduction Headphones,Electronics,7490.0,1,7490.0,6001,Davao City,Cash on Delivery,2023-05-01 13:00:00,Processing,0,0,4.0,Reviewed
+10550,Coros Pace 3,Electronics,14500.0,1,14500.0,9829,Metro Manila,Maya,2023-02-27 10:00:00,Processing,150,500,4.0,Pending
+10550,OOFOS OOriginal Recovery Sandals,Footwear,3495.0,1,3495.0,9829,Metro Manila,Maya,2023-02-27 10:00:00,Processing,150,200,4.0,Reviewed
+10550,"Nike Challenger Brief-Lined 5"" Shorts",Apparel,1795.0,1,1795.0,9829,Metro Manila,Maya,2023-02-27 10:00:00,Processing,150,100,5.0,Reviewed
+10550,Balega Hidden Comfort Socks,Accessories,895.0,1,895.0,9829,Metro Manila,Maya,2023-02-27 10:00:00,Processing,150,100,4.0,Pending
+10551,FlipBelt Classic Running Belt,Accessories,1950.0,1,1950.0,5172,Iloilo City,GCash,2023-05-03 08:00:00,Processing,50,500,,Pending
+10551,Salomon ADV Skin 12 Hydration Vest,Gear,9500.0,1,9500.0,5172,Iloilo City,GCash,2023-05-03 08:00:00,Processing,50,100,4.0,Pending
+10552,HOKA Clifton 9,Shoes,8495.0,1,8495.0,6936,Baguio City,Maya,2023-05-11 09:00:00,Delivered,0,0,4.0,Reviewed
+10552,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,6936,Baguio City,Maya,2023-05-11 09:00:00,Delivered,0,100,,Reviewed
+10553,Garmin Forerunner 255,Electronics,21995.0,1,21995.0,8595,Davao City,Maya,2023-02-11 15:00:00,Delivered,150,200,5.0,Pending
+10554,Nathan QuickSqueeze Handheld Flask,Gear,1850.0,1,1850.0,7137,Iloilo City,GCash,2023-10-08 23:00:00,Shipped,0,100,4.0,Pending
+10554,HOKA Clifton 9,Shoes,8495.0,1,8495.0,7137,Iloilo City,GCash,2023-10-08 23:00:00,Shipped,0,0,5.0,Reviewed
+10554,Garmin Forerunner 255,Electronics,21995.0,1,21995.0,7137,Iloilo City,GCash,2023-10-08 23:00:00,Shipped,0,0,4.0,Pending
+10555,Brooks Ghost 15,Shoes,7995.0,2,15990.0,6639,Davao City,Cash on Delivery,2023-02-26 05:00:00,Processing,50,0,3.0,Reviewed
+10555,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,2,2390.0,6639,Davao City,Cash on Delivery,2023-02-26 05:00:00,Processing,50,500,5.0,Pending
+10556,Nathan QuickSqueeze Handheld Flask,Gear,1850.0,1,1850.0,6093,Davao City,Credit Card,2023-05-25 06:00:00,Processing,150,0,5.0,Pending
+10556,GU Energy Gel (8-Pack),Nutrition,1120.0,1,1120.0,6093,Davao City,Credit Card,2023-05-25 06:00:00,Processing,150,100,5.0,Reviewed
+10557,Under Armour Tech Short Sleeve Tee,Apparel,1595.0,1,1595.0,5169,Metro Manila,Credit Card,2023-04-12 08:00:00,Delivered,0,0,5.0,Reviewed
+10557,Tailwind Nutrition Endurance Fuel,Nutrition,2200.0,1,2200.0,5169,Metro Manila,Credit Card,2023-04-12 08:00:00,Delivered,0,200,,Pending
+10557,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,5169,Metro Manila,Credit Card,2023-04-12 08:00:00,Delivered,0,500,4.0,Pending
+10558,Brooks Ghost 15,Shoes,7995.0,1,7995.0,8014,Cebu City,GCash,2023-08-21 21:00:00,Delivered,0,200,5.0,Reviewed
+10558,Nike Dri-FIT Running Socks (3-Pack),Accessories,1195.0,1,1195.0,8014,Cebu City,GCash,2023-08-21 21:00:00,Delivered,0,0,4.0,Reviewed
+10559,Coros Pace 3,Electronics,14500.0,1,14500.0,7358,Baguio City,Maya,2023-04-16 19:00:00,Delivered,0,0,4.0,Pending
+10559,Balega Hidden Comfort Socks,Accessories,895.0,2,1790.0,7358,Baguio City,Maya,2023-04-16 19:00:00,Delivered,0,0,3.0,Pending
+10560,Garmin Forerunner 255,Electronics,21995.0,1,21995.0,6195,Metro Manila,Cash on Delivery,2023-08-19 07:00:00,Shipped,100,100,4.0,Pending
+10560,Shokz OpenRun Bone Conduction Headphones,Electronics,7490.0,2,14980.0,6195,Metro Manila,Cash on Delivery,2023-08-19 07:00:00,Shipped,100,0,5.0,Reviewed
+10561,Goodr OG Sunglasses,Accessories,1995.0,1,1995.0,8256,Cebu City,Maya,2023-05-12 02:00:00,Processing,0,0,4.0,Reviewed
+10561,Brooks Ghost 15,Shoes,7995.0,1,7995.0,8256,Cebu City,Maya,2023-05-12 02:00:00,Processing,0,0,4.0,Pending
+10561,Nathan QuickSqueeze Handheld Flask,Gear,1850.0,1,1850.0,8256,Cebu City,Maya,2023-05-12 02:00:00,Processing,0,0,4.0,Pending
